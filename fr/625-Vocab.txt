@@ -615,3 +615,11 @@ laver (verbe)
 ouest
 femme
 zéro
+Aide
+Question
+Musique
+Jouer
+Heureux
+Maison
+École
+Famille
