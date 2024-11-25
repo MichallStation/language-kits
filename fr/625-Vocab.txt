@@ -1,0 +1,617 @@
+acteur
+noir
+argile
+maladie
+quoi
+adjectif
+aveugle (adjectif)
+propre (adjectif)
+médecin
+adulte
+sang
+propre (verbe)
+chien
+après-midi
+bleu
+horloge
+dollar
+air
+bateau
+fermer (verbe)
+porte
+aéroport
+corps
+vêtements
+point
+vivant
+os
+club (le lieu)
+bas
+animal
+livre
+manteau (nom)
+dessiner (verbe)
+appartement
+bouteille
+qui
+café
+rêve (nom)
+pomme
+bas
+froid
+robe (nom)
+avril
+boîte (nom)
+couleur (nom)
+boire (verbe)
+bras
+garçon
+ordinateur
+conduire (verbe)
+armée
+cerveau
+consonne
+drogue (nom)
+art
+pain
+contrat (nom)
+sec
+artiste
+casser (verbe)
+cuisiner (verbe)
+poussière (nom)
+attaque (nom)
+petit-déjeuner
+cool (adjectif)
+oreille
+qui (utilisé dans les questions)
+août
+pont (nom)
+cuivre
+Terre
+auteur (nom)
+frère
+maïs
+est
+bébé
+marron
+coin (nom)
+manger (verbe)
+dos (partie du corps)
+construire (verbe)
+compter (verbe)
+bord
+arrière (direction)
+bâtiment
+pays (USA, Espagne)
+œuf
+mauvais
+brûler (verbe)
+tribunal
+huit
+sac (nom)
+bus
+vache
+dix-huit
+balle
+acheter (verbe)
+foule (nom)
+quatre-vingts
+banane
+gâteau
+pleurer (verbe)
+élection
+groupe (musique)
+appeler (verbe)
+tasse
+électronique
+banque
+caméra
+courbé
+onze
+bar (lieu)
+camp (nom)
+couper (verbe)
+énergie
+salle de bain
+voiture
+danser (verbe)
+moteur
+plage
+carte
+sombre
+soirée
+barbe
+porter (verbe)
+date (7 mai)
+exercice (nom)
+battre (verbe)
+chat
+fille
+cher
+beau
+attraper (verbe)
+jour
+exploser (verbe)
+lit
+plafond
+mort
+œil (nom)
+chambre à coucher
+cellule
+téléphone
+sourd
+visage (nom)
+bœuf
+centimètre
+mort
+automne (saison)
+bière
+chaise (nom)
+décembre
+tomber (verbe)
+plier (verbe)
+bon marché
+profond
+famille
+boisson
+fromage
+diamant
+célèbre
+vélo
+poulet
+mourir (verbe)
+ventilateur (électrique)
+grand
+enfant
+creuser (verbe)
+fan (sport)
+facture (nom)
+église
+dîner
+ferme (nom)
+milliard
+cercle (nom)
+direction
+rapide
+oiseau
+ville
+sale
+père
+février
+cheveux
+cuisine
+million
+nourrir (verbe)
+moitié
+genou
+minute
+femelle
+main
+couteau
+mélanger/remuer (verbe)
+quinze
+suspendre (verbe)
+lac
+lundi
+cinquième (5ème)
+heureux
+lampe
+argent
+cinquante
+dur
+ordinateur portable
+mois
+se battre (verbe)
+chapeau
+rire (verbe)
+lune
+trouver (verbe)
+lequel
+il
+avocat
+matin
+doigt
+tête
+feuille
+mère
+feu (nom)
+sain
+apprendre (verbe)
+montagne
+premier (1er)
+entendre (un son)
+gauche (direction)
+souris
+poisson (nom)
+cœur
+jambe
+bouche
+cinq
+chaleur (nom)
+citron
+film
+plat (adjectif)
+ciel
+lettre
+meurtre (nom)
+sol
+lourd
+bibliothèque
+musique
+fleur
+enfer
+mentir
+descendre (verbe)
+étroit
+voler (verbe)
+haut
+soulever (verbe)
+nature
+suivre (verbe)
+colline
+lumière (/obscurité)
+cou
+nourriture
+trou
+léger (/lourd)
+aiguille
+pied (partie du corps)
+cheval
+lumière (nom)
+voisin
+pied (mesure)
+hôpital
+lèvre
+réseau
+forêt
+chaud
+écouter (musique) (verbe)
+nouveau
+fourchette
+hôtel
+emplacement
+journal
+quarante
+heure
+serrure (nom)
+gentil
+quatre
+maison
+long
+nuit
+quatorze
+humain
+lâche
+neuf
+quatrième (4ème)
+cent
+perdre (verbe)
+dix-neuf
+vendredi
+mari
+fort
+quatre-vingt-dix
+ami
+je
+aimer (verbe)
+non
+devant
+glace
+bas
+nord
+jeu
+image
+déjeuner
+nez
+jardin
+pouce
+magazine
+note (sur papier)
+essence
+blessure
+mâle
+novembre
+cadeau
+intérieur
+homme
+nucléaire
+fille
+instrument (musical)
+directeur
+numéro
+verre
+île
+carte
+océan
+aller (verbe)
+ça
+mars
+octobre
+Dieu
+janvier
+marché
+bureau
+or
+travail
+mariage
+huile
+bon
+jus
+se marier (verbe)
+vieux (/nouveau)
+grand-père
+juillet
+matériau
+vieux (/jeune)
+grand-mère
+sauter (verbe)
+mai
+un
+herbe
+juin
+méchant (/gentil)
+ouvrir (verbe)
+gris
+clé
+médecine
+orange (couleur)
+vert
+tuer (verbe)
+fondre (verbe)
+orange (aliment)
+sol
+kilogramme
+métal
+extérieur
+pousser (verbe)
+roi
+mètre
+page
+fusil
+embrasser (verbe)
+lait
+douleur
+peinture
+riz
+six
+thé
+pantalon
+riche
+pourquoi
+seize
+enseigner (verbe)
+papier
+droite (direction)
+soixante
+enseignant
+parent
+anneau
+peau
+équipe
+parc (lieu)
+rivière
+jupe
+larme (goutte)
+passer (verbe)
+toit
+ciel
+technologie
+patient (nom)
+chambre (dans une maison)
+dormir (verbe)
+téléphone
+motif
+racine
+lent
+télévision
+payer (verbe)
+courir (verbe)
+petit
+température
+paix
+triste
+sentir (verbe)
+dix
+stylo
+sel
+sourire (verbe)
+théâtre
+crayon
+sable
+neige (nom)
+ils
+personne
+comment
+samedi
+savon
+épais
+photographie
+école
+doux
+mince
+morceau
+science
+sol/Terre
+penser (verbe)
+cochon
+écran
+soldat
+troisième (3ème)
+rose
+mer
+fils
+treize
+avion
+saison
+chanson
+trente
+plante (nom)
+deuxième (2ème)
+son
+mille
+plastique
+seconde (temps)
+soupe
+trois
+assiette
+secrétaire
+sud
+jeter (verbe)
+jouer (verbe)
+voir (un oiseau)
+espace (espace extérieur)
+jeudi
+joueur
+graine
+parler/ dire (verbe)
+billet (train)
+poche
+vendre (verbe)
+cuillère
+serré
+poison (nom)
+septembre
+sport
+temps (nom)
+police
+sept
+printemps (saison)
+pneu (de voiture)
+piscine
+dix-sept
+carré
+orteil
+pauvre
+soixante-dix
+tache
+langue
+porc
+où
+sexe (genre)
+se tenir (verbe)
+outil
+livre (poids)
+sexe (l'acte)
+étoile
+dent
+quand
+prier (verbe)
+secouer (verbe)
+pierre
+sommet
+président
+peu profond
+arrêter (verbe)
+toucher (verbe)
+prix
+elle
+magasin
+ville
+prêtre
+navire
+droit
+train (nom)
+prison
+chemise
+rue/route
+train
+station
+programme (ordinateur)
+chaussures
+fort
+transport
+tirer (verbe)
+tirer (un pistolet)
+étudiant
+arbre
+pousser (verbe)
+court (long)
+sucre
+camion
+reine
+court (vs. grand)
+costume (nom)
+mardi
+calme
+épaule
+été
+tourner (verbe)
+race (ethnie)
+malade
+soleil
+douze
+course (sport)
+côté
+dimanche
+vingt
+radio
+signe (nom)
+sueur (nom)
+vingt et un (etc.)
+pluie (nom)
+signe (verbe)
+nager (verbe)
+deux
+rouge
+argent
+T-shirt
+laid
+religion
+chanter (verbe)
+table
+université
+journaliste
+sœur
+grand
+haut
+restaurant
+s'asseoir (verbe)
+goûter (verbe)
+vallée
+verbe
+regarder (la télévision) (verbe)
+mouillé (adj.)
+bois
+victime
+eau (nom)
+blanc
+travailler (verbe)
+voix (nom)
+vague (océan)
+large
+monde
+voyelle
+nous
+femme
+écrire (verbe)
+serveur
+faible
+gagner (verbe)
+jardin
+se lever
+monter (verbe)
+porter (verbe)
+vent (nom)
+année
+marcher (verbe)
+mariage
+fenêtre
+jaune
+mur
+mercredi
+vin
+oui
+guerre
+à qui
+semaine
+aile
+vous (singulier/pluriel)
+chaud (adjectif)
+poids
+hiver
+jeune
+laver (verbe)
+ouest
+femme
+zéro

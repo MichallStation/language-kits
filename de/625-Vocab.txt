@@ -1,0 +1,617 @@
+Schauspieler
+schwarz
+Ton
+Krankheit
+was
+Adjektiv
+blind (Adjektiv)
+sauber (Adjektiv)
+Arzt
+Erwachsener
+Blut
+sauber (Verb)
+Hund
+Nachmittag
+blau
+Uhr
+Dollar
+Luft
+Boot
+schließen (Verb)
+Tür
+Flughafen
+Körper
+Kleidung
+Punkt
+lebendig
+Knochen
+Club (der Ort)
+unten
+Tier
+Buch
+Mantel (Substantiv)
+zeichnen (Verb)
+Wohnung
+Flasche
+wer
+Kaffee
+Traum (Substantiv)
+Apfel
+Boden
+kalt
+Kleid (Substantiv)
+April
+Box (Substantiv)
+Farbe (Substantiv)
+trinken (Verb)
+Arm
+Junge
+Computer
+fahren (Verb)
+Armee
+Gehirn
+Konsonant
+Droge (Substantiv)
+Kunst
+Brot
+Vertrag (Substantiv)
+trocken
+Künstler
+brechen (Verb)
+kochen (Verb)
+Staub (Substantiv)
+Angriff (Substantiv)
+Frühstück
+cool (Adjektiv)
+Ohr
+wen
+August
+Brücke (Substantiv)
+Kupfer
+Erde
+Autor (Substantiv)
+Bruder
+Mais
+Osten
+Baby
+braun
+Ecke (Substantiv)
+essen (Verb)
+Rücken (Körper)
+bauen (Verb)
+zählen (Verb)
+Rand
+zurück (Richtung)
+Gebäude
+Land (USA, Spanien)
+Ei
+schlecht
+brennen (Verb)
+Gericht
+acht
+Tasche (Substantiv)
+Bus
+Kuh
+achtzehn
+Ball
+kaufen (Verb)
+Menge (Substantiv)
+achtzig
+Banane
+Kuchen
+weinen (Verb)
+Wahl
+Band (Musik)
+rufen (Verb)
+Tasse
+Elektronik
+Bank
+Kamera
+gebogen
+elf
+Bar (Ort)
+Lager (Substantiv)
+schneiden (Verb)
+Energie
+Badezimmer
+Auto
+tanzen (Verb)
+Motor
+Strand
+Karte
+dunkel
+Abend
+Bart
+tragen (Verb)
+Datum (7. Mai)
+Übung (Substantiv)
+schlagen (Verb)
+Katze
+Tochter
+teuer
+schön
+fangen (Verb)
+Tag
+explodieren (Verb)
+Bett
+Decke
+tot
+Auge (Substantiv)
+Schlafzimmer
+Zelle
+Telefon
+taub
+Gesicht (Substantiv)
+Rindfleisch
+Zentimeter
+Tod
+Herbst (Jahreszeit)
+Bier
+Stuhl (Substantiv)
+Dezember
+fallen (Verb)
+biegen (Verb)
+billig
+tief
+Familie
+Getränk
+Käse
+Diamant
+berühmt
+Fahrrad
+Huhn
+sterben (Verb)
+Ventilator (elektrisch)
+groß
+Kind
+graben (Verb)
+Fan (Sport)
+Rechnung (Substantiv)
+Kirche
+Abendessen
+Bauernhof (Substantiv)
+Milliarde
+Kreis (Substantiv)
+Richtung
+schnell
+Vogel
+Stadt
+schmutzig
+Vater
+Februar
+Haar
+Küche
+Million
+füttern (Verb)
+Hälfte
+Knie
+Minute
+weiblich
+Hand
+Messer
+mischen/rühren (Verb)
+fünfzehn
+hängen (Verb)
+See
+Montag
+fünfte (5.)
+glücklich
+Lampe
+Geld
+fünfzig
+hart
+Laptop
+Monat
+kämpfen (Verb)
+Hut
+lachen (Verb)
+Mond
+finden (Verb)
+welcher
+er
+Anwalt
+Morgen
+Finger
+Kopf
+Blatt
+Mutter
+Feuer (Substantiv)
+gesund
+lernen (Verb)
+Berg
+erste (1.)
+hören (ein Geräusch)
+links (Richtung)
+Maus
+Fisch (Substantiv)
+Herz
+Bein
+Mund
+fünf
+Hitze (Substantiv)
+Zitrone
+Film
+flach (Adjektiv)
+Himmel
+Brief
+Mord (Substantiv)
+Boden
+schwer
+Bibliothek
+Musik
+Blume
+Hölle
+lügen
+hinlegen (Verb)
+eng
+fliegen (Verb)
+hoch
+heben (Verb)
+Natur
+folgen (Verb)
+Hügel
+Licht (/dunkel)
+Hals
+Essen
+Loch
+leicht (/schwer)
+Nadel
+Fuß (Körperteil)
+Pferd
+Licht (Substantiv)
+Nachbar
+Fuß (Maßeinheit)
+Krankenhaus
+Lippe
+Netzwerk
+Wald
+heiß
+hören (Musik) (Verb)
+neu
+Gabel
+Hotel
+Ort
+Zeitung
+vierzig
+Stunde
+Schloss (Substantiv)
+nett
+vier
+Haus
+lang
+Nacht
+vierzehn
+menschlich
+locker
+neun
+vierte (4.)
+hundert
+verlieren (Verb)
+neunzehn
+Freitag
+Ehemann
+laut
+neunzig
+Freund
+ich
+lieben (Verb)
+nein
+vorne
+Eis
+niedrig
+nord
+Spiel
+Bild
+Mittagessen
+Nase
+Garten
+Zoll
+Magazin
+Notiz (auf Papier)
+Benzin
+Verletzung
+männlich
+November
+Geschenk
+innen
+Mann
+nuklear
+Mädchen
+Instrument (musikalisch)
+Manager
+Nummer
+Glas
+Insel
+Karte
+Ozean
+gehen (Verb)
+es
+März
+Oktober
+Gott
+Januar
+Markt
+Büro
+Gold
+Job
+Ehe
+Öl
+gut
+Saft
+heiraten (Verb)
+alt (/neu)
+Großvater
+Juli
+Material
+alt (/jung)
+Großmutter
+springen (Verb)
+Mai
+eins
+Gras
+Juni
+gemein (/nett)
+öffnen (Verb)
+grau
+Schlüssel
+Medizin
+orange (Farbe)
+grün
+töten (Verb)
+schmelzen (Verb)
+orange (Lebensmittel)
+Boden
+Kilogramm
+Metall
+draußen
+wachsen (Verb)
+König
+Meter
+Seite
+Waffe
+küssen (Verb)
+Milch
+Schmerz
+Farbe
+Reis
+sechs
+Tee
+Hose
+reich
+warum
+sechzehn
+lehren (Verb)
+Papier
+rechts (Richtung)
+sechzig
+Lehrer
+Eltern
+Ring
+Haut
+Team
+Park (Ort)
+Fluss
+Rock
+Träne (Tropfen)
+passieren (Verb)
+Dach
+Himmel
+Technologie
+Patient (Substantiv)
+Zimmer (im Haus)
+schlafen (Verb)
+Telefon
+Muster
+Wurzel
+langsam
+Fernsehen
+bezahlen (Verb)
+laufen (Verb)
+klein
+Temperatur
+Frieden
+traurig
+riechen (Verb)
+zehn
+Stift
+Salz
+lächeln (Verb)
+Theater
+Bleistift
+Sand
+Schnee (Substantiv)
+sie
+Person
+wie
+Samstag
+Seife
+dick
+Foto
+Schule
+weich
+dünn
+Stück
+Wissenschaft
+Boden/Erde
+denken (Verb)
+Schwein
+Bildschirm
+Soldat
+dritte (3.)
+rosa
+Meer
+Sohn
+dreizehn
+Flugzeug
+Saison
+Lied
+dreißig
+Pflanze (Substantiv)
+zweite (2.)
+Ton
+tausend
+Plastik
+zweite (Zeit)
+Suppe
+drei
+Teller
+Sekretär
+Süden
+werfen (Verb)
+spielen (Verb)
+sehen (ein Vogel)
+Raum (Weltraum)
+Donnerstag
+Spieler
+Samen
+sprechen/sagen (Verb)
+Ticket (Zug)
+Tasche
+verkaufen (Verb)
+Löffel
+fest
+Gift (Substantiv)
+September
+Sport
+Zeit (Substantiv)
+Polizei
+sieben
+Frühling (Jahreszeit)
+Reifen (vom Auto)
+Pool
+siebzehn
+Quadrat
+Zeh
+arm
+siebzig
+Fleck
+Zunge
+Schweinefleisch
+wo
+Geschlecht
+stehen (Verb)
+Werkzeug
+Pfund (Gewicht)
+Sex (der Akt)
+Stern
+Zahn
+wann
+beten (Verb)
+schütteln (Verb)
+Stein
+oben
+Präsident
+flach
+stoppen (Verb)
+berühren (Verb)
+Preis
+sie
+Geschäft/Laden
+Stadt
+Priester
+Schiff
+gerade
+Zug (Substantiv)
+Gefängnis
+Hemd
+Straße/Weg
+Zug
+Bahnhof
+Programm (Computer)
+Schuhe
+stark
+Transport
+ziehen (Verb)
+schießen (mit einer Waffe)
+Student
+Baum
+schieben (Verb)
+kurz (lang)
+Zucker
+Lastwagen
+Königin
+kurz (vs. groß)
+Anzug (Substantiv)
+Dienstag
+ruhig
+Schulter
+Sommer
+drehen (Verb)
+Rasse (Ethnizität)
+krank
+Sonne
+zwölf
+Rennen (Sport)
+Seite
+Sonntag
+zwanzig
+Radio
+Schild (Substantiv)
+Schweiß (Substantiv)
+einundzwanzig (etc.)
+Regen (Substantiv)
+signalisieren (Verb)
+schwimmen (Verb)
+zwei
+rot
+silber
+T-Shirt
+hässlich
+Religion
+singen (Verb)
+Tisch
+Universität
+Reporter
+Schwester
+groß
+hoch
+Restaurant
+sitzen (Verb)
+schmecken (Verb)
+Tal
+Verb
+fernsehen (Verb)
+nass (Adjektiv)
+Holz
+Opfer
+Wasser (Substantiv)
+weiß
+arbeiten (Verb)
+Stimme (Substantiv)
+Welle (Ozean)
+weit
+Welt
+Vokal
+wir
+Ehefrau
+schreiben (Verb)
+Kellner
+schwach
+gewinnen (Verb)
+Garten
+aufwachen
+aufstehen (Verb)
+tragen (Verb)
+Wind (Substantiv)
+Jahr
+gehen (Verb)
+Hochzeit
+Fenster
+gelb
+Wand
+Mittwoch
+Wein
+ja
+Krieg
+wessen
+Woche
+Flügel
+du (singular/plural)
+warm (Adjektiv)
+Gewicht
+Winter
+jung
+waschen (Verb)
+Westen
+Frau
+null
