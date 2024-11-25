@@ -615,3 +615,11 @@ waschen (Verb)
 Westen
 Frau
 null
+Hilfe
+Frage
+Musik
+spielen
+glücklich
+Zuhause
+Schule
+Familie

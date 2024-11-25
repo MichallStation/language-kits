@@ -1,62 +1,642 @@
 [
   {
+    "word1": "bit",
+    "word2": "bieten",
+    "ipa1": "bɪt",
+    "ipa2": "ˈbiːtən",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "ship",
+    "word2": "schief",
+    "ipa1": "ʃɪp",
+    "ipa2": "ʃiːf",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "man",
+    "word2": "Mann",
+    "ipa1": "mæn",
+    "ipa2": "man",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "hat",
+    "word2": "Hut",
+    "ipa1": "hæt",
+    "ipa2": "huːt",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "bed",
+    "word2": "Bett",
+    "ipa1": "bɛd",
+    "ipa2": "bɛt",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "cat",
+    "word2": "Karte",
+    "ipa1": "kæt",
+    "ipa2": "ˈkaʁtə",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "dog",
+    "word2": "Dock",
+    "ipa1": "dɔɡ",
+    "ipa2": "dɔk",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "full",
+    "word2": "Voll",
+    "ipa1": "fʊl",
+    "ipa2": "fɔl",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "coat",
+    "word2": "Kote",
+    "ipa1": "kəʊt",
+    "ipa2": "ˈkoːtə",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "top",
+    "word2": "Tropf",
+    "ipa1": "tɒp",
+    "ipa2": "tʁɔpf",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "car",
+    "word2": "Kreuz",
+    "ipa1": "kɑːr",
+    "ipa2": "kʁɔʏts",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "hot",
+    "word2": "Hof",
+    "ipa1": "hɒt",
+    "ipa2": "hoːf",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "pin",
+    "word2": "Pinn",
+    "ipa1": "pɪn",
+    "ipa2": "pɪn",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "sheet",
+    "word2": "Schicht",
+    "ipa1": "ʃiːt",
+    "ipa2": "ʃɪçt",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "nose",
+    "word2": "Nose",
+    "ipa1": "nəʊz",
+    "ipa2": "ˈnoːzə",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "pair",
+    "word2": "Pärchen",
+    "ipa1": "peə",
+    "ipa2": "ˈpɛʁçən",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "hill",
+    "word2": "Hübel",
+    "ipa1": "hɪl",
+    "ipa2": "ˈhyːbl̩",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "read",
+    "word2": "Ried",
+    "ipa1": "riːd",
+    "ipa2": "riːd",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "pen",
+    "word2": "Penner",
+    "ipa1": "pɛn",
+    "ipa2": "ˈpɛnɐ",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "milk",
+    "word2": "Milch",
+    "ipa1": "mɪlk",
+    "ipa2": "mɪlʃ",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "ball",
+    "word2": "Bald",
+    "ipa1": "bɔːl",
+    "ipa2": "bald",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "call",
+    "word2": "Kall",
+    "ipa1": "kɔːl",
+    "ipa2": "kal",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "go",
+    "word2": "Gott",
+    "ipa1": "ɡəʊ",
+    "ipa2": "ɡɔt",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "dark",
+    "word2": "Dach",
+    "ipa1": "dɑːrk",
+    "ipa2": "dax",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "book",
+    "word2": "Buch",
+    "ipa1": "bʊk",
+    "ipa2": "buːx",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "push",
+    "word2": "Pusch",
+    "ipa1": "pʊʃ",
+    "ipa2": "pʊʃ",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "bite",
+    "word2": "Beite",
+    "ipa1": "baɪt",
+    "ipa2": "ˈbaɪtə",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "sheep",
+    "word2": "Schaf",
+    "ipa1": "ʃiːp",
+    "ipa2": "ʃaːf",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "sock",
+    "word2": "Sack",
+    "ipa1": "sɒk",
+    "ipa2": "zak",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
+    "word1": "wear",
+    "word2": "Wehr",
+    "ipa1": "wɛə",
+    "ipa2": "veːʁ",
+    "lang1": "en",
+    "lang2": "de"
+  },
+  {
     "word1": "Bieten",
     "word2": "binden",
     "ipa1": "ˈbiːtən",
-    "ipa2": "ˈbɪndən"
+    "ipa2": "ˈbɪndən",
+    "lang1": "de",
+    "lang2": "de"
   },
-  { "word1": "Lied", "word2": "lid", "ipa1": "liːt", "ipa2": "lɪt" },
-  { "word1": "Bären", "word2": "Brenn", "ipa1": "ˈbɛːʁən", "ipa2": "bɛʁən" },
-  { "word1": "März", "word2": "Mensch", "ipa1": "mɛʁt͡s", "ipa2": "mɛnʃ" },
-  { "word1": "Mahl", "word2": "Mal", "ipa1": "maːl", "ipa2": "mal" },
-  { "word1": "Hahn", "word2": "Hand", "ipa1": "haːn", "ipa2": "hand" },
-  { "word1": "Boden", "word2": "Boden", "ipa1": "ˈboːdn", "ipa2": "ˈbɔːdn" },
-  { "word1": "Hof", "word2": "Hoff", "ipa1": "hoːf", "ipa2": "hɔf" },
-  { "word1": "Gut", "word2": "Kuss", "ipa1": "guːt", "ipa2": "kʊs" },
-  { "word1": "Hut", "word2": "Hass", "ipa1": "huːt", "ipa2": "hʊs" },
-  { "word1": "Hülle", "word2": "Hülse", "ipa1": "ˈhʏlə", "ipa2": "ˈhʏlzə" },
-  { "word1": "Kühl", "word2": "Kühlung", "ipa1": "kʏːl", "ipa2": "ˈkʏːlʊŋ" },
-  { "word1": "Sehen", "word2": "sehen", "ipa1": "ˈzeːən", "ipa2": "ˈzeːən" },
-  { "word1": "Besen", "word2": "besser", "ipa1": "ˈbeːzən", "ipa2": "ˈbɛsɐ" },
-  { "word1": "Pfad", "word2": "Fähr", "ipa1": "pfad", "ipa2": "fɛːr" },
-  { "word1": "Mahl", "word2": "Meer", "ipa1": "maːl", "ipa2": "mɛːʁ" },
-  { "word1": "Mitte", "word2": "Miete", "ipa1": "ˈmɪtə", "ipa2": "ˈmiːtə" },
-  { "word1": "Stille", "word2": "Stühle", "ipa1": "ˈʃtɪlə", "ipa2": "ˈʃtüːlə" },
-  { "word1": "Schlüssel", "word2": "Sack", "ipa1": "ˈʃlʏsl̩", "ipa2": "zak" },
-  { "word1": "Schwein", "word2": "Sich", "ipa1": "ʃvaɪn", "ipa2": "zɪç" },
-  { "word1": "Tschüss", "word2": "Schiff", "ipa1": "tʃʏs", "ipa2": "ʃɪf" },
-  { "word1": "Tschad", "word2": "Schaden", "ipa1": "tʃad", "ipa2": "ʃaːdən" },
-  { "word1": "Ratten", "word2": "Rinde", "ipa1": "ˈʁatn̩", "ipa2": "ˈʁɪndə" },
-  { "word1": "Löwe", "word2": "Löwen", "ipa1": "ˈløːvə", "ipa2": "ˈløːvən" },
-  { "word1": "Reise", "word2": "Reiz", "ipa1": "ˈʁaɪzə", "ipa2": "ʁaɪts" },
-  { "word1": "Brot", "word2": "Brot", "ipa1": "broːt", "ipa2": "broːt" },
-  { "word1": "Vater", "word2": "Fahrer", "ipa1": "ˈfaːtɐ", "ipa2": "ˈfaːʁɐ" },
-  { "word1": "Tag", "word2": "Tagen", "ipa1": "taːk", "ipa2": "ˈtaːɡn̩" },
-  { "word1": "Wagen", "word2": "Wachen", "ipa1": "ˈvaːɡn̩", "ipa2": "ˈvaχən" },
-  { "word1": "Stein", "word2": "Sturm", "ipa1": "ʃtaɪn", "ipa2": "ʃtʊʁm" },
-  { "word1": "Glas", "word2": "Glas", "ipa1": "ɡlaːs", "ipa2": "ɡlɑs" },
-  { "word1": "Laufen", "word2": "Läufen", "ipa1": "ˈlaʊfn̩", "ipa2": "ˈlɔɪfn̩" },
-  { "word1": "schlau", "word2": "schlecht", "ipa1": "ʃlaʊ", "ipa2": "ʃlɛçt" },
-  { "word1": "Glück", "word2": "Glüh", "ipa1": "ɡlʏk", "ipa2": "ɡlyː" },
+  {
+    "word1": "Lied",
+    "word2": "lid",
+    "ipa1": "liːt",
+    "ipa2": "lɪt",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Bären",
+    "word2": "Brenn",
+    "ipa1": "ˈbɛːʁən",
+    "ipa2": "bɛʁən",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "März",
+    "word2": "Mensch",
+    "ipa1": "mɛʁt͡s",
+    "ipa2": "mɛnʃ",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Mahl",
+    "word2": "Mal",
+    "ipa1": "maːl",
+    "ipa2": "mal",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Hahn",
+    "word2": "Hand",
+    "ipa1": "haːn",
+    "ipa2": "hand",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Boden",
+    "word2": "Boden",
+    "ipa1": "ˈboːdn",
+    "ipa2": "ˈbɔːdn",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Hof",
+    "word2": "Hoff",
+    "ipa1": "hoːf",
+    "ipa2": "hɔf",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Gut",
+    "word2": "Kuss",
+    "ipa1": "guːt",
+    "ipa2": "kʊs",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Hut",
+    "word2": "Hass",
+    "ipa1": "huːt",
+    "ipa2": "hʊs",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Hülle",
+    "word2": "Hülse",
+    "ipa1": "ˈhʏlə",
+    "ipa2": "ˈhʏlzə",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Kühl",
+    "word2": "Kühlung",
+    "ipa1": "kʏːl",
+    "ipa2": "ˈkʏːlʊŋ",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Sehen",
+    "word2": "sehen",
+    "ipa1": "ˈzeːən",
+    "ipa2": "ˈzeːən",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Besen",
+    "word2": "besser",
+    "ipa1": "ˈbeːzən",
+    "ipa2": "ˈbɛsɐ",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Pfad",
+    "word2": "Fähr",
+    "ipa1": "pfad",
+    "ipa2": "fɛːr",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Mahl",
+    "word2": "Meer",
+    "ipa1": "maːl",
+    "ipa2": "mɛːʁ",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Mitte",
+    "word2": "Miete",
+    "ipa1": "ˈmɪtə",
+    "ipa2": "ˈmiːtə",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Stille",
+    "word2": "Stühle",
+    "ipa1": "ˈʃtɪlə",
+    "ipa2": "ˈʃtüːlə",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Schlüssel",
+    "word2": "Sack",
+    "ipa1": "ˈʃlʏsl̩",
+    "ipa2": "zak",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Schwein",
+    "word2": "Sich",
+    "ipa1": "ʃvaɪn",
+    "ipa2": "zɪç",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Tschüss",
+    "word2": "Schiff",
+    "ipa1": "tʃʏs",
+    "ipa2": "ʃɪf",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Tschad",
+    "word2": "Schaden",
+    "ipa1": "tʃad",
+    "ipa2": "ʃaːdən",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Ratten",
+    "word2": "Rinde",
+    "ipa1": "ˈʁatn̩",
+    "ipa2": "ˈʁɪndə",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Löwe",
+    "word2": "Löwen",
+    "ipa1": "ˈløːvə",
+    "ipa2": "ˈløːvən",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Reise",
+    "word2": "Reiz",
+    "ipa1": "ˈʁaɪzə",
+    "ipa2": "ʁaɪts",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Brot",
+    "word2": "Brot",
+    "ipa1": "broːt",
+    "ipa2": "broːt",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Vater",
+    "word2": "Fahrer",
+    "ipa1": "ˈfaːtɐ",
+    "ipa2": "ˈfaːʁɐ",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Tag",
+    "word2": "Tagen",
+    "ipa1": "taːk",
+    "ipa2": "ˈtaːɡn̩",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Wagen",
+    "word2": "Wachen",
+    "ipa1": "ˈvaːɡn̩",
+    "ipa2": "ˈvaχən",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Stein",
+    "word2": "Sturm",
+    "ipa1": "ʃtaɪn",
+    "ipa2": "ʃtʊʁm",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Glas",
+    "word2": "Glas",
+    "ipa1": "ɡlaːs",
+    "ipa2": "ɡlɑs",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Laufen",
+    "word2": "Läufen",
+    "ipa1": "ˈlaʊfn̩",
+    "ipa2": "ˈlɔɪfn̩",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "schlau",
+    "word2": "schlecht",
+    "ipa1": "ʃlaʊ",
+    "ipa2": "ʃlɛçt",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Glück",
+    "word2": "Glüh",
+    "ipa1": "ɡlʏk",
+    "ipa2": "ɡlyː",
+    "lang1": "de",
+    "lang2": "de"
+  },
   {
     "word1": "Arbeit",
     "word2": "abartig",
     "ipa1": "ˈaʁbaɪt",
-    "ipa2": "ˈʔaːbaʁtɪç"
+    "ipa2": "ˈʔaːbaʁtɪç",
+    "lang1": "de",
+    "lang2": "de"
   },
-  { "word1": "Schutz", "word2": "Schatten", "ipa1": "ʃʊt͡s", "ipa2": "ˈʃatən" },
-  { "word1": "Falsch", "word2": "Flasche", "ipa1": "falʃ", "ipa2": "ˈflɑʃə" },
-  { "word1": "Früh", "word2": "Frei", "ipa1": "fʁyː", "ipa2": "fʁaɪ" },
-  { "word1": "Land", "word2": "Lust", "ipa1": "lant", "ipa2": "lʊst" },
-  { "word1": "Tag", "word2": "Tagen", "ipa1": "taːk", "ipa2": "ˈtaːɡn̩" },
-  { "word1": "Wagen", "word2": "Wachen", "ipa1": "ˈvaːɡn̩", "ipa2": "ˈvaχən" },
-  { "word1": "Buch", "word2": "Bus", "ipa1": "buːχ", "ipa2": "bʊs" },
-  { "word1": "Sohn", "word2": "Sonne", "ipa1": "zoːn", "ipa2": "zɔnə" },
-  { "word1": "Brat", "word2": "Brot", "ipa1": "brat", "ipa2": "broːt" },
-  { "word1": "bieten", "word2": "bitten", "ipa1": "ˈbiːtən", "ipa2": "ˈbɪtən" },
-  { "word1": "Blut", "word2": "Brut", "ipa1": "bluːt", "ipa2": "bruːt" },
-  { "word1": "Stern", "word2": "Sturm", "ipa1": "ʃtɛʁn", "ipa2": "ʃtʊʁm" },
-  { "word1": "Kamm", "word2": "Komm", "ipa1": "kam", "ipa2": "kɔm" },
-  { "word1": "Zahl", "word2": "Ziel", "ipa1": "tsaːl", "ipa2": "tsiːl" },
-  { "word1": "Tipp", "word2": "Zipf", "ipa1": "/tɪp/", "ipa2": "/tsɪpf/" }
+  {
+    "word1": "Schutz",
+    "word2": "Schatten",
+    "ipa1": "ʃʊt͡s",
+    "ipa2": "ˈʃatən",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Falsch",
+    "word2": "Flasche",
+    "ipa1": "falʃ",
+    "ipa2": "ˈflɑʃə",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Früh",
+    "word2": "Frei",
+    "ipa1": "fʁyː",
+    "ipa2": "fʁaɪ",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Land",
+    "word2": "Lust",
+    "ipa1": "lant",
+    "ipa2": "lʊst",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Tag",
+    "word2": "Tagen",
+    "ipa1": "taːk",
+    "ipa2": "ˈtaːɡn̩",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Wagen",
+    "word2": "Wachen",
+    "ipa1": "ˈvaːɡn̩",
+    "ipa2": "ˈvaχən",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Buch",
+    "word2": "Bus",
+    "ipa1": "buːχ",
+    "ipa2": "bʊs",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Sohn",
+    "word2": "Sonne",
+    "ipa1": "zoːn",
+    "ipa2": "zɔnə",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Brat",
+    "word2": "Brot",
+    "ipa1": "brat",
+    "ipa2": "broːt",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "bieten",
+    "word2": "bitten",
+    "ipa1": "ˈbiːtən",
+    "ipa2": "ˈbɪtən",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Blut",
+    "word2": "Brut",
+    "ipa1": "bluːt",
+    "ipa2": "bruːt",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Stern",
+    "word2": "Sturm",
+    "ipa1": "ʃtɛʁn",
+    "ipa2": "ʃtʊʁm",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Kamm",
+    "word2": "Komm",
+    "ipa1": "kam",
+    "ipa2": "kɔm",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Zahl",
+    "word2": "Ziel",
+    "ipa1": "tsaːl",
+    "ipa2": "tsiːl",
+    "lang1": "de",
+    "lang2": "de"
+  },
+  {
+    "word1": "Tipp",
+    "word2": "Zipf",
+    "ipa1": "/tɪp/",
+    "ipa2": "/tsɪpf/",
+    "lang1": "de",
+    "lang2": "de"
+  }
 ]
