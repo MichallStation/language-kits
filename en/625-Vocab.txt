@@ -615,3 +615,11 @@ wash (verb)
 west
 woman
 zero
+help
+question
+music
+play
+happy
+home
+school
+family
