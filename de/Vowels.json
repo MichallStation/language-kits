@@ -1,0 +1,182 @@
+[
+  {
+    "letter": "i",
+    "ipa": "ɪ",
+    "example": "Ingwer",
+    "example_info": "Ginger",
+    "audio_ipa": "de/Vowels/ɪ_ipa.mp3",
+    "audio_example": "de/Vowels/Ingwer_example.mp3",
+    "ipa_img": "de/Vowels/ɪ_ipa.png",
+    "example_img": "de/Vowels/Ingwer_example.png"
+  },
+  {
+    "letter": "e",
+    "ipa": "ɛ",
+    "example": "Bett",
+    "example_info": "Bed",
+    "audio_ipa": "de/Vowels/ɛ_ipa.mp3",
+    "audio_example": "de/Vowels/Bett_example.mp3",
+    "ipa_img": "de/Vowels/ɛ_ipa.png",
+    "example_img": "de/Vowels/Bett_example.png"
+  },
+  {
+    "letter": "u",
+    "ipa": "ʊ",
+    "example": "Unke",
+    "example_info": "Toad",
+    "audio_ipa": "de/Vowels/ʊ_ipa.mp3",
+    "audio_example": "de/Vowels/Unke_example.mp3",
+    "ipa_img": "de/Vowels/ʊ_ipa.png",
+    "example_img": "de/Vowels/Unke_example.png"
+  },
+  {
+    "letter": "u",
+    "ipa": "uː",
+    "example": "Schuh",
+    "example_info": "Shoe",
+    "audio_ipa": "de/Vowels/uː_ipa.mp3",
+    "audio_example": "de/Vowels/Schuh_example.mp3",
+    "ipa_img": "de/Vowels/uː_ipa.png",
+    "example_img": "de/Vowels/Schuh_example.png"
+  },
+  {
+    "letter": "i",
+    "ipa": "iː",
+    "example": "Dieb",
+    "example_info": "Thief",
+    "audio_ipa": "de/Vowels/iː_ipa.mp3",
+    "audio_example": "de/Vowels/Dieb_example.mp3",
+    "ipa_img": "de/Vowels/iː_ipa.png",
+    "example_img": "de/Vowels/Dieb_example.png"
+  },
+  {
+    "letter": "a",
+    "ipa": "aː",
+    "example": "Mag",
+    "example_info": "Like",
+    "audio_ipa": "de/Vowels/aː_ipa.mp3",
+    "audio_example": "de/Vowels/Mag_example.mp3",
+    "ipa_img": "de/Vowels/aː_ipa.png",
+    "example_img": "de/Vowels/Mag_example.png"
+  },
+  {
+    "letter": "e",
+    "ipa": "eː",
+    "example": "Esel",
+    "example_info": "Donkey",
+    "audio_ipa": "de/Vowels/eː_ipa.mp3",
+    "audio_example": "de/Vowels/Esel_example.mp3",
+    "ipa_img": "de/Vowels/eː_ipa.png",
+    "example_img": "de/Vowels/Esel_example.png"
+  },
+  {
+    "letter": "o",
+    "ipa": "oː",
+    "example": "Boot",
+    "example_info": "Boat",
+    "audio_ipa": "de/Vowels/oː_ipa.mp3",
+    "audio_example": "de/Vowels/Boot_example.mp3",
+    "ipa_img": "de/Vowels/oː_ipa.png",
+    "example_img": "de/Vowels/Boot_example.png"
+  },
+  {
+    "letter": "ü",
+    "ipa": "yː",
+    "example": "Bühne",
+    "example_info": "Stage",
+    "audio_ipa": "de/Vowels/yː_ipa.mp3",
+    "audio_example": "de/Vowels/Bühne_example.mp3",
+    "ipa_img": "de/Vowels/yː_ipa.png",
+    "example_img": "de/Vowels/Bühne_example.png"
+  },
+  {
+    "letter": "ö",
+    "ipa": "œ",
+    "example": "Öffnung",
+    "example_info": "Opening",
+    "audio_ipa": "de/Vowels/œ_ipa.mp3",
+    "audio_example": "de/Vowels/Öffnung_example.mp3",
+    "ipa_img": "de/Vowels/œ_ipa.png",
+    "example_img": "de/Vowels/Öffnung_example.png"
+  },
+  {
+    "letter": "o",
+    "ipa": "ɔ",
+    "example": "Onkel",
+    "example_info": "Uncle",
+    "audio_ipa": "de/Vowels/ɔ_ipa.mp3",
+    "audio_example": "de/Vowels/Onkel_example.mp3",
+    "ipa_img": "de/Vowels/ɔ_ipa.png",
+    "example_img": "de/Vowels/Onkel_example.png"
+  },
+  {
+    "letter": "ü",
+    "ipa": "ʏ",
+    "example": "Stück",
+    "example_info": "Piece",
+    "audio_ipa": "de/Vowels/ʏ_ipa.mp3",
+    "audio_example": "de/Vowels/Stück_example.mp3",
+    "ipa_img": "de/Vowels/ʏ_ipa.png",
+    "example_img": "de/Vowels/Stück_example.png"
+  },
+  {
+    "letter": "ö",
+    "ipa": "øː",
+    "example": "Ölfarbe",
+    "example_info": "Oil Paint",
+    "audio_ipa": "de/Vowels/øː_ipa.mp3",
+    "audio_example": "de/Vowels/Ölfarbe_example.mp3",
+    "ipa_img": "de/Vowels/øː_ipa.png",
+    "example_img": "de/Vowels/Ölfarbe_example.png"
+  },
+  {
+    "letter": "e",
+    "ipa": "ə",
+    "example": "Pfanne",
+    "example_info": "Pan",
+    "audio_ipa": "de/Vowels/ə_ipa.mp3",
+    "audio_example": "de/Vowels/Pfanne_example.mp3",
+    "ipa_img": "de/Vowels/ə_ipa.png",
+    "example_img": "de/Vowels/Pfanne_example.png"
+  },
+  {
+    "letter": "a",
+    "ipa": "ɐ",
+    "example": "Lehrer",
+    "example_info": "Teacher",
+    "audio_ipa": "de/Vowels/ɐ_ipa.mp3",
+    "audio_example": "de/Vowels/Lehrer_example.mp3",
+    "ipa_img": "de/Vowels/ɐ_ipa.png",
+    "example_img": "de/Vowels/Lehrer_example.png"
+  },
+  {
+    "letter": "ei",
+    "ipa": "aɪ̯",
+    "example": "Ei",
+    "example_info": "Egg",
+    "audio_ipa": "de/Vowels/aɪ̯_ipa.mp3",
+    "audio_example": "de/Vowels/Ei_example.mp3",
+    "ipa_img": "de/Vowels/aɪ̯_ipa.png",
+    "example_img": "de/Vowels/Ei_example.png"
+  },
+  {
+    "letter": "au",
+    "ipa": "aʊ̯",
+    "example": "Aufzug",
+    "example_info": "Elevator",
+    "audio_ipa": "de/Vowels/aʊ̯_ipa.mp3",
+    "audio_example": "de/Vowels/Aufzug_example.mp3",
+    "ipa_img": "de/Vowels/aʊ̯_ipa.png",
+    "example_img": "de/Vowels/Aufzug_example.png"
+  },
+  {
+    "letter": "eu",
+    "ipa": "ɔɪ̯",
+    "example": "Euter",
+    "example_info": "Udder",
+    "audio_ipa": "de/Vowels/ɔɪ̯_ipa.mp3",
+    "audio_example": "de/Vowels/Euter_example.mp3",
+    "ipa_img": "de/Vowels/ɔɪ̯_ipa.png",
+    "example_img": "de/Vowels/Euter_example.png"
+  }
+]
