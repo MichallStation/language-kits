@@ -7,7 +7,8 @@
     "audio_ipa": "de/Consonants/b_consonant.mp3",
     "audio_example": "de/Consonants/Bär_example.mp3",
     "ipa_img": "de/Consonants/b_consonant.jpg",
-    "example_img": "de/Consonants/Bär_example.jpg"
+    "example_img": "de/Consonants/Bär_example.jpg",
+    "example_ipa": "bɛːɐ̯"
   },
   {
     "letter": "D",
@@ -17,7 +18,8 @@
     "audio_ipa": "de/Consonants/d_consonant.mp3",
     "audio_example": "de/Consonants/Dreieck_example.mp3",
     "ipa_img": "de/Consonants/d_consonant.jpg",
-    "example_img": "de/Consonants/Dreieck_example.jpg"
+    "example_img": "de/Consonants/Dreieck_example.jpg",
+    "example_ipa": "ˈdʁaɪʔɛk"
   },
   {
     "letter": "F",
@@ -27,7 +29,8 @@
     "audio_ipa": "de/Consonants/f_consonant.mp3",
     "audio_example": "de/Consonants/Feder_example.mp3",
     "ipa_img": "de/Consonants/f_consonant.jpg",
-    "example_img": "de/Consonants/Feder_example.jpg"
+    "example_img": "de/Consonants/Feder_example.jpg",
+    "example_ipa": "ˈfeːdɐ"
   },
   {
     "letter": "G",
@@ -37,7 +40,8 @@
     "audio_ipa": "de/Consonants/g_consonant.mp3",
     "audio_example": "de/Consonants/Glocke_example.mp3",
     "ipa_img": "de/Consonants/g_consonant.jpg",
-    "example_img": "de/Consonants/Glocke_example.jpg"
+    "example_img": "de/Consonants/Glocke_example.jpg",
+    "example_ipa": "ˈɡlɔkə"
   },
   {
     "letter": "H",
@@ -47,7 +51,8 @@
     "audio_ipa": "de/Consonants/h_consonant.mp3",
     "audio_example": "de/Consonants/Helm_example.mp3",
     "ipa_img": "de/Consonants/h_consonant.jpg",
-    "example_img": "de/Consonants/Helm_example.jpg"
+    "example_img": "de/Consonants/Helm_example.jpg",
+    "example_ipa": "hɛlm"
   },
   {
     "letter": "K",
@@ -57,7 +62,8 @@
     "audio_ipa": "de/Consonants/k_consonant.mp3",
     "audio_example": "de/Consonants/Kamin_example.mp3",
     "ipa_img": "de/Consonants/k_consonant.jpg",
-    "example_img": "de/Consonants/Kamin_example.jpg"
+    "example_img": "de/Consonants/Kamin_example.jpg",
+    "example_ipa": "kaˈmiːn"
   },
   {
     "letter": "M",
@@ -67,7 +73,8 @@
     "audio_ipa": "de/Consonants/m_consonant.mp3",
     "audio_example": "de/Consonants/Magnet_example.mp3",
     "ipa_img": "de/Consonants/m_consonant.jpg",
-    "example_img": "de/Consonants/Magnet_example.jpg"
+    "example_img": "de/Consonants/Magnet_example.jpg",
+    "example_ipa": "maˈɡnɛt"
   },
   {
     "letter": "N",
@@ -77,7 +84,8 @@
     "audio_ipa": "de/Consonants/n_consonant.mp3",
     "audio_example": "de/Consonants/Nagel_example.mp3",
     "ipa_img": "de/Consonants/n_consonant.jpg",
-    "example_img": "de/Consonants/Nagel_example.jpg"
+    "example_img": "de/Consonants/Nagel_example.jpg",
+    "example_ipa": "ˈnaːɡəl"
   },
   {
     "letter": "P",
@@ -87,7 +95,8 @@
     "audio_ipa": "de/Consonants/p_consonant.mp3",
     "audio_example": "de/Consonants/Papagei_example.mp3",
     "ipa_img": "de/Consonants/p_consonant.jpg",
-    "example_img": "de/Consonants/Papagei_example.jpg"
+    "example_img": "de/Consonants/Papagei_example.jpg",
+    "example_ipa": "ˈpaːpaɡaɪ̯"
   },
   {
     "letter": "S",
@@ -97,7 +106,8 @@
     "audio_ipa": "de/Consonants/s_consonant.mp3",
     "audio_example": "de/Consonants/Kasse_example.mp3",
     "ipa_img": "de/Consonants/s_consonant.jpg",
-    "example_img": "de/Consonants/Kasse_example.jpg"
+    "example_img": "de/Consonants/Kasse_example.jpg",
+    "example_ipa": "ˈkasə"
   },
   {
     "letter": "T",
@@ -107,7 +117,8 @@
     "audio_ipa": "de/Consonants/t_consonant.mp3",
     "audio_example": "de/Consonants/Tulpe_example.mp3",
     "ipa_img": "de/Consonants/t_consonant.jpg",
-    "example_img": "de/Consonants/Tulpe_example.jpg"
+    "example_img": "de/Consonants/Tulpe_example.jpg",
+    "example_ipa": "ˈtʊlpe"
   },
   {
     "letter": "V",
@@ -117,7 +128,8 @@
     "audio_ipa": "de/Consonants/v_consonant.mp3",
     "audio_example": "de/Consonants/Vase_example.mp3",
     "ipa_img": "de/Consonants/v_consonant.jpg",
-    "example_img": "de/Consonants/Vase_example.jpg"
+    "example_img": "de/Consonants/Vase_example.jpg",
+    "example_ipa": "ˈvaːzə"
   },
   {
     "letter": "Z",
@@ -127,7 +139,8 @@
     "audio_ipa": "de/Consonants/z_consonant.mp3",
     "audio_example": "de/Consonants/Socke_example.mp3",
     "ipa_img": "de/Consonants/z_consonant.jpg",
-    "example_img": "de/Consonants/Socke_example.jpg"
+    "example_img": "de/Consonants/Socke_example.jpg",
+    "example_ipa": "ˈzɔkə"
   },
   {
     "letter": "L",
@@ -137,7 +150,8 @@
     "audio_ipa": "de/Consonants/l_consonant.mp3",
     "audio_example": "de/Consonants/Lippenstift_example.mp3",
     "ipa_img": "de/Consonants/l_consonant.jpg",
-    "example_img": "de/Consonants/Lippenstift_example.jpg"
+    "example_img": "de/Consonants/Lippenstift_example.jpg",
+    "example_ipa": "ˈlɪpənˌʃtɪft"
   },
   {
     "letter": "J",
@@ -147,7 +161,8 @@
     "audio_ipa": "de/Consonants/j_consonant.mp3",
     "audio_example": "de/Consonants/Jacht_example.mp3",
     "ipa_img": "de/Consonants/j_consonant.jpg",
-    "example_img": "de/Consonants/Jacht_example.jpg"
+    "example_img": "de/Consonants/Jacht_example.jpg",
+    "example_ipa": "jaxt"
   },
   {
     "letter": "J",
@@ -157,7 +172,8 @@
     "audio_ipa": "de/Consonants/j_zh_consonant.mp3",
     "audio_example": "de/Consonants/Jongleur_example.mp3",
     "ipa_img": "de/Consonants/j_zh_consonant.jpg",
-    "example_img": "de/Consonants/Jongleur_example.jpg"
+    "example_img": "de/Consonants/Jongleur_example.jpg",
+    "example_ipa": "ʒɔ̃ˈɡløːʁ"
   },
   {
     "letter": "NG",
@@ -167,7 +183,8 @@
     "audio_ipa": "de/Consonants/ng_consonant.mp3",
     "audio_example": "de/Consonants/Angel_example.mp3",
     "ipa_img": "de/Consonants/ng_consonant.jpg",
-    "example_img": "de/Consonants/Angel_example.jpg"
+    "example_img": "de/Consonants/Angel_example.jpg",
+    "example_ipa": "ˈʔaŋəl"
   },
   {
     "letter": "SCH",
@@ -177,7 +194,8 @@
     "audio_ipa": "de/Consonants/sch_consonant.mp3",
     "audio_example": "de/Consonants/Schuh_example.mp3",
     "ipa_img": "de/Consonants/sch_consonant.jpg",
-    "example_img": "de/Consonants/Schuh_example.jpg"
+    "example_img": "de/Consonants/Schuh_example.jpg",
+    "example_ipa": "ʃuː"
   },
   {
     "letter": " ",
@@ -187,7 +205,8 @@
     "audio_ipa": "de/Consonants/uh_consonant.mp3",
     "audio_example": "de/Consonants/arbeitsloser_Athlet_example.mp3",
     "ipa_img": "de/Consonants/uh_consonant.jpg",
-    "example_img": "de/Consonants/arbeitsloser_Athlet_example.jpg"
+    "example_img": "de/Consonants/arbeitsloser_Athlet_example.jpg",
+    "example_ipa": "ˈʔaʁbaɪ̯tsˌloːzɐ ˈʔatˌlɛt"
   },
   {
     "letter": "R",
@@ -197,7 +216,8 @@
     "audio_ipa": "de/Consonants/r_consonant.mp3",
     "audio_example": "de/Consonants/Ratte_example.mp3",
     "ipa_img": "de/Consonants/r_consonant.jpg",
-    "example_img": "de/Consonants/Ratte_example.jpg"
+    "example_img": "de/Consonants/Ratte_example.jpg",
+    "example_ipa": "ˈʁatə"
   },
   {
     "letter": "CH",
@@ -207,7 +227,8 @@
     "audio_ipa": "de/Consonants/ch_x_consonant.mp3",
     "audio_example": "de/Consonants/Bach_example.mp3",
     "ipa_img": "de/Consonants/ch_x_consonant.jpg",
-    "example_img": "de/Consonants/Bach_example.jpg"
+    "example_img": "de/Consonants/Bach_example.jpg",
+    "example_ipa": "baχ"
   },
   {
     "letter": "CH",
@@ -217,6 +238,7 @@
     "audio_ipa": "de/Consonants/ch_ch_consonant.mp3",
     "audio_example": "de/Consonants/Licht_example.mp3",
     "ipa_img": "de/Consonants/ch_ch_consonant.jpg",
-    "example_img": "de/Consonants/Licht_example.jpg"
+    "example_img": "de/Consonants/Licht_example.jpg",
+    "example_ipa": "lɪçt"
   }
 ]
