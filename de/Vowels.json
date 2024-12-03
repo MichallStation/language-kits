@@ -1,6 +1,6 @@
 [
   {
-    "letter": "i",
+    "letter": "I",
     "ipa": "ɪ",
     "example": "Ingwer",
     "example_info": "Ginger",
@@ -11,7 +11,7 @@
     "example_img": "de/Vowels/Ingwer_example.jpg"
   },
   {
-    "letter": "e",
+    "letter": "E",
     "ipa": "ɛ",
     "example": "Bett",
     "example_info": "Bed",
@@ -22,7 +22,7 @@
     "example_img": "de/Vowels/Bett_example.jpg"
   },
   {
-    "letter": "u",
+    "letter": "U",
     "ipa": "ʊ",
     "example": "Unke",
     "example_info": "Toad",
@@ -33,7 +33,7 @@
     "example_img": "de/Vowels/Unke_example.jpg"
   },
   {
-    "letter": "u",
+    "letter": "U",
     "ipa": "uː",
     "example": "Schuh",
     "example_info": "Shoe",
@@ -44,7 +44,7 @@
     "example_img": "de/Vowels/Schuh_example.jpg"
   },
   {
-    "letter": "i",
+    "letter": "I",
     "ipa": "iː",
     "example": "Dieb",
     "example_info": "Thief",
@@ -55,7 +55,7 @@
     "example_img": "de/Vowels/Dieb_example.jpg"
   },
   {
-    "letter": "a",
+    "letter": "A",
     "ipa": "aː",
     "example": "Mag",
     "example_info": "Like",
@@ -66,7 +66,7 @@
     "example_img": "de/Vowels/Mag_example.jpg"
   },
   {
-    "letter": "e",
+    "letter": "E",
     "ipa": "eː",
     "example": "Esel",
     "example_info": "Donkey",
@@ -77,7 +77,7 @@
     "example_img": "de/Vowels/Esel_example.jpg"
   },
   {
-    "letter": "o",
+    "letter": "O",
     "ipa": "oː",
     "example": "Boot",
     "example_info": "Boat",
@@ -88,7 +88,7 @@
     "example_img": "de/Vowels/Boot_example.jpg"
   },
   {
-    "letter": "ü",
+    "letter": "Ü",
     "ipa": "yː",
     "example": "Bühne",
     "example_info": "Stage",
@@ -99,7 +99,7 @@
     "example_img": "de/Vowels/Bühne_example.jpg"
   },
   {
-    "letter": "ö",
+    "letter": "Ö",
     "ipa": "œ",
     "example": "Öffnung",
     "example_info": "Opening",
@@ -110,7 +110,7 @@
     "example_img": "de/Vowels/Öffnung_example.jpg"
   },
   {
-    "letter": "o",
+    "letter": "O",
     "ipa": "ɔ",
     "example": "Onkel",
     "example_info": "Uncle",
@@ -121,7 +121,7 @@
     "example_img": "de/Vowels/Onkel_example.jpg"
   },
   {
-    "letter": "ü",
+    "letter": "Ü",
     "ipa": "ʏ",
     "example": "Stück",
     "example_info": "Piece",
@@ -132,7 +132,7 @@
     "example_img": "de/Vowels/Stück_example.jpg"
   },
   {
-    "letter": "ö",
+    "letter": "Ö",
     "ipa": "øː",
     "example": "Ölfarbe",
     "example_info": "Oil Paint",
@@ -143,7 +143,7 @@
     "example_img": "de/Vowels/Ölfarbe_example.jpg"
   },
   {
-    "letter": "e",
+    "letter": "E",
     "ipa": "ə",
     "example": "Pfanne",
     "example_info": "Pan",
@@ -154,7 +154,7 @@
     "example_img": "de/Vowels/Pfanne_example.jpg"
   },
   {
-    "letter": "a",
+    "letter": "A",
     "ipa": "ɐ",
     "example": "Lehrer",
     "example_info": "Teacher",
@@ -165,7 +165,7 @@
     "example_img": "de/Vowels/Lehrer_example.jpg"
   },
   {
-    "letter": "ei",
+    "letter": "EI",
     "ipa": "aɪ̯",
     "example": "Ei",
     "example_info": "Egg",
@@ -176,7 +176,7 @@
     "example_img": "de/Vowels/Ei_example.jpg"
   },
   {
-    "letter": "au",
+    "letter": "AU",
     "ipa": "aʊ̯",
     "example": "Aufzug",
     "example_info": "Elevator",
@@ -187,7 +187,7 @@
     "example_img": "de/Vowels/Aufzug_example.jpg"
   },
   {
-    "letter": "eu",
+    "letter": "EU",
     "ipa": "ɔɪ̯",
     "example": "Euter",
     "example_info": "Udder",
