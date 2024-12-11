@@ -5,9 +5,7 @@
     "ipa1": "bɪt",
     "ipa2": "ˈbiːtən",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "bit",
-    "info2": "offer"
+    "lang2": "de"
   },
   {
     "word1": "ship",
@@ -15,9 +13,7 @@
     "ipa1": "ʃɪp",
     "ipa2": "ʃiːf",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "ship",
-    "info2": "crooked"
+    "lang2": "de"
   },
   {
     "word1": "man",
@@ -25,9 +21,7 @@
     "ipa1": "mæn",
     "ipa2": "man",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "man",
-    "info2": "man"
+    "lang2": "de"
   },
   {
     "word1": "hat",
@@ -35,9 +29,7 @@
     "ipa1": "hæt",
     "ipa2": "huːt",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "hat",
-    "info2": "hat"
+    "lang2": "de"
   },
   {
     "word1": "bed",
@@ -45,9 +37,7 @@
     "ipa1": "bɛd",
     "ipa2": "bɛt",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "bed",
-    "info2": "bed"
+    "lang2": "de"
   },
   {
     "word1": "cat",
@@ -55,9 +45,7 @@
     "ipa1": "kæt",
     "ipa2": "ˈkaʁtə",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "cat",
-    "info2": "map"
+    "lang2": "de"
   },
   {
     "word1": "dog",
@@ -65,9 +53,7 @@
     "ipa1": "dɔɡ",
     "ipa2": "dɔk",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "dog",
-    "info2": "dock"
+    "lang2": "de"
   },
   {
     "word1": "full",
@@ -75,9 +61,7 @@
     "ipa1": "fʊl",
     "ipa2": "fɔl",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "full",
-    "info2": "full"
+    "lang2": "de"
   },
   {
     "word1": "coat",
@@ -85,9 +69,7 @@
     "ipa1": "kəʊt",
     "ipa2": "ˈkoːtə",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "coat",
-    "info2": "cote"
+    "lang2": "de"
   },
   {
     "word1": "top",
@@ -95,9 +77,7 @@
     "ipa1": "tɒp",
     "ipa2": "tʁɔpf",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "top",
-    "info2": "drip"
+    "lang2": "de"
   },
   {
     "word1": "car",
@@ -105,9 +85,7 @@
     "ipa1": "kɑːr",
     "ipa2": "kʁɔʏts",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "car",
-    "info2": "cross"
+    "lang2": "de"
   },
   {
     "word1": "hot",
@@ -115,9 +93,7 @@
     "ipa1": "hɒt",
     "ipa2": "hoːf",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "hot",
-    "info2": "court"
+    "lang2": "de"
   },
   {
     "word1": "pin",
@@ -125,9 +101,7 @@
     "ipa1": "pɪn",
     "ipa2": "pɪn",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "pin",
-    "info2": "pin"
+    "lang2": "de"
   },
   {
     "word1": "sheet",
@@ -135,9 +109,15 @@
     "ipa1": "ʃiːt",
     "ipa2": "ʃɪçt",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "sheet",
-    "info2": "layer"
+    "lang2": "de"
+  },
+  {
+    "word1": "nose",
+    "word2": "Nose",
+    "ipa1": "nəʊz",
+    "ipa2": "ˈnoːzə",
+    "lang1": "en",
+    "lang2": "de"
   },
   {
     "word1": "pair",
@@ -145,9 +125,7 @@
     "ipa1": "peə",
     "ipa2": "ˈpɛʁçən",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "pair",
-    "info2": "couple"
+    "lang2": "de"
   },
   {
     "word1": "hill",
@@ -155,9 +133,7 @@
     "ipa1": "hɪl",
     "ipa2": "ˈhyːbl̩",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "hill",
-    "info2": "mound"
+    "lang2": "de"
   },
   {
     "word1": "read",
@@ -165,9 +141,7 @@
     "ipa1": "riːd",
     "ipa2": "riːd",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "read",
-    "info2": "reed"
+    "lang2": "de"
   },
   {
     "word1": "pen",
@@ -175,9 +149,7 @@
     "ipa1": "pɛn",
     "ipa2": "ˈpɛnɐ",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "pen",
-    "info2": "bum"
+    "lang2": "de"
   },
   {
     "word1": "milk",
@@ -185,9 +157,7 @@
     "ipa1": "mɪlk",
     "ipa2": "mɪlʃ",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "milk",
-    "info2": "milk"
+    "lang2": "de"
   },
   {
     "word1": "ball",
@@ -195,9 +165,7 @@
     "ipa1": "bɔːl",
     "ipa2": "bald",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "ball",
-    "info2": "bald"
+    "lang2": "de"
   },
   {
     "word1": "call",
@@ -205,9 +173,7 @@
     "ipa1": "kɔːl",
     "ipa2": "kal",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "call",
-    "info2": "Kall"
+    "lang2": "de"
   },
   {
     "word1": "go",
@@ -215,9 +181,7 @@
     "ipa1": "ɡəʊ",
     "ipa2": "ɡɔt",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "go",
-    "info2": "God"
+    "lang2": "de"
   },
   {
     "word1": "dark",
@@ -225,9 +189,7 @@
     "ipa1": "dɑːrk",
     "ipa2": "dax",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "dark",
-    "info2": "roof"
+    "lang2": "de"
   },
   {
     "word1": "book",
@@ -235,9 +197,7 @@
     "ipa1": "bʊk",
     "ipa2": "buːx",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "book",
-    "info2": "book"
+    "lang2": "de"
   },
   {
     "word1": "push",
@@ -245,9 +205,7 @@
     "ipa1": "pʊʃ",
     "ipa2": "pʊʃ",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "push",
-    "info2": "push"
+    "lang2": "de"
   },
   {
     "word1": "bite",
@@ -255,9 +213,7 @@
     "ipa1": "baɪt",
     "ipa2": "ˈbaɪtə",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "bite",
-    "info2": "pasture"
+    "lang2": "de"
   },
   {
     "word1": "sheep",
@@ -265,9 +221,7 @@
     "ipa1": "ʃiːp",
     "ipa2": "ʃaːf",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "sheep",
-    "info2": "sheep"
+    "lang2": "de"
   },
   {
     "word1": "sock",
@@ -275,9 +229,7 @@
     "ipa1": "sɒk",
     "ipa2": "zak",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "sock",
-    "info2": "sack"
+    "lang2": "de"
   },
   {
     "word1": "wear",
@@ -285,9 +237,7 @@
     "ipa1": "wɛə",
     "ipa2": "veːʁ",
     "lang1": "en",
-    "lang2": "de",
-    "info1": "wear",
-    "info2": "defense"
+    "lang2": "de"
   },
   {
     "word1": "Bieten",
@@ -295,9 +245,7 @@
     "ipa1": "ˈbiːtən",
     "ipa2": "ˈbɪndən",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "offer",
-    "info2": "bind"
+    "lang2": "de"
   },
   {
     "word1": "Lied",
@@ -305,9 +253,7 @@
     "ipa1": "liːt",
     "ipa2": "lɪt",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "song",
-    "info2": "song"
+    "lang2": "de"
   },
   {
     "word1": "Bären",
@@ -315,9 +261,7 @@
     "ipa1": "ˈbɛːʁən",
     "ipa2": "bɛʁən",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "bears",
-    "info2": "burn"
+    "lang2": "de"
   },
   {
     "word1": "März",
@@ -325,9 +269,7 @@
     "ipa1": "mɛʁt͡s",
     "ipa2": "mɛnʃ",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "March",
-    "info2": "human"
+    "lang2": "de"
   },
   {
     "word1": "Mahl",
@@ -335,9 +277,7 @@
     "ipa1": "maːl",
     "ipa2": "mal",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "meal",
-    "info2": "time"
+    "lang2": "de"
   },
   {
     "word1": "Hahn",
@@ -345,9 +285,15 @@
     "ipa1": "haːn",
     "ipa2": "hand",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "rooster",
-    "info2": "hand"
+    "lang2": "de"
+  },
+  {
+    "word1": "Boden",
+    "word2": "Boden",
+    "ipa1": "ˈboːdn",
+    "ipa2": "ˈbɔːdn",
+    "lang1": "de",
+    "lang2": "de"
   },
   {
     "word1": "Hof",
@@ -355,9 +301,7 @@
     "ipa1": "hoːf",
     "ipa2": "hɔf",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "court",
-    "info2": "hope"
+    "lang2": "de"
   },
   {
     "word1": "Gut",
@@ -365,9 +309,7 @@
     "ipa1": "guːt",
     "ipa2": "kʊs",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "good",
-    "info2": "kiss"
+    "lang2": "de"
   },
   {
     "word1": "Hut",
@@ -375,9 +317,7 @@
     "ipa1": "huːt",
     "ipa2": "hʊs",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "hat",
-    "info2": "hate"
+    "lang2": "de"
   },
   {
     "word1": "Hülle",
@@ -385,9 +325,7 @@
     "ipa1": "ˈhʏlə",
     "ipa2": "ˈhʏlzə",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "cover",
-    "info2": "capsule"
+    "lang2": "de"
   },
   {
     "word1": "Kühl",
@@ -395,9 +333,15 @@
     "ipa1": "kʏːl",
     "ipa2": "ˈkʏːlʊŋ",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "cool",
-    "info2": "cooling"
+    "lang2": "de"
+  },
+  {
+    "word1": "Sehen",
+    "word2": "sehen",
+    "ipa1": "ˈzeːən",
+    "ipa2": "ˈzeːən",
+    "lang1": "de",
+    "lang2": "de"
   },
   {
     "word1": "Besen",
@@ -405,9 +349,7 @@
     "ipa1": "ˈbeːzən",
     "ipa2": "ˈbɛsɐ",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "broom",
-    "info2": "better"
+    "lang2": "de"
   },
   {
     "word1": "Pfad",
@@ -415,9 +357,7 @@
     "ipa1": "pfad",
     "ipa2": "fɛːr",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "path",
-    "info2": "ferry"
+    "lang2": "de"
   },
   {
     "word1": "Mahl",
@@ -425,9 +365,7 @@
     "ipa1": "maːl",
     "ipa2": "mɛːʁ",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "meal",
-    "info2": "sea"
+    "lang2": "de"
   },
   {
     "word1": "Mitte",
@@ -435,9 +373,7 @@
     "ipa1": "ˈmɪtə",
     "ipa2": "ˈmiːtə",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "middle",
-    "info2": "rent"
+    "lang2": "de"
   },
   {
     "word1": "Stille",
@@ -445,9 +381,7 @@
     "ipa1": "ˈʃtɪlə",
     "ipa2": "ˈʃtüːlə",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "silence",
-    "info2": "chairs"
+    "lang2": "de"
   },
   {
     "word1": "Schlüssel",
@@ -455,9 +389,7 @@
     "ipa1": "ˈʃlʏsl̩",
     "ipa2": "zak",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "key",
-    "info2": "bag"
+    "lang2": "de"
   },
   {
     "word1": "Schwein",
@@ -465,9 +397,7 @@
     "ipa1": "ʃvaɪn",
     "ipa2": "zɪç",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "pig",
-    "info2": "oneself"
+    "lang2": "de"
   },
   {
     "word1": "Tschüss",
@@ -475,9 +405,7 @@
     "ipa1": "tʃʏs",
     "ipa2": "ʃɪf",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "bye",
-    "info2": "ship"
+    "lang2": "de"
   },
   {
     "word1": "Tschad",
@@ -485,9 +413,7 @@
     "ipa1": "tʃad",
     "ipa2": "ʃaːdən",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "Chad",
-    "info2": "damage"
+    "lang2": "de"
   },
   {
     "word1": "Ratten",
@@ -495,9 +421,7 @@
     "ipa1": "ˈʁatn̩",
     "ipa2": "ˈʁɪndə",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "rats",
-    "info2": "bark"
+    "lang2": "de"
   },
   {
     "word1": "Löwe",
@@ -505,9 +429,7 @@
     "ipa1": "ˈløːvə",
     "ipa2": "ˈløːvən",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "lion",
-    "info2": "lions"
+    "lang2": "de"
   },
   {
     "word1": "Reise",
@@ -515,9 +437,15 @@
     "ipa1": "ˈʁaɪzə",
     "ipa2": "ʁaɪts",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "journey",
-    "info2": "charm"
+    "lang2": "de"
+  },
+  {
+    "word1": "Brot",
+    "word2": "Brot",
+    "ipa1": "broːt",
+    "ipa2": "broːt",
+    "lang1": "de",
+    "lang2": "de"
   },
   {
     "word1": "Vater",
@@ -525,9 +453,7 @@
     "ipa1": "ˈfaːtɐ",
     "ipa2": "ˈfaːʁɐ",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "father",
-    "info2": "driver"
+    "lang2": "de"
   },
   {
     "word1": "Tag",
@@ -535,9 +461,7 @@
     "ipa1": "taːk",
     "ipa2": "ˈtaːɡn̩",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "day",
-    "info2": "days"
+    "lang2": "de"
   },
   {
     "word1": "Wagen",
@@ -545,9 +469,7 @@
     "ipa1": "ˈvaːɡn̩",
     "ipa2": "ˈvaχən",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "car",
-    "info2": "watch"
+    "lang2": "de"
   },
   {
     "word1": "Stein",
@@ -555,9 +477,15 @@
     "ipa1": "ʃtaɪn",
     "ipa2": "ʃtʊʁm",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "stone",
-    "info2": "storm"
+    "lang2": "de"
+  },
+  {
+    "word1": "Glas",
+    "word2": "Glas",
+    "ipa1": "ɡlaːs",
+    "ipa2": "ɡlɑs",
+    "lang1": "de",
+    "lang2": "de"
   },
   {
     "word1": "Laufen",
@@ -565,9 +493,7 @@
     "ipa1": "ˈlaʊfn̩",
     "ipa2": "ˈlɔɪfn̩",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "to run",
-    "info2": "to run (plural)"
+    "lang2": "de"
   },
   {
     "word1": "schlau",
@@ -575,9 +501,7 @@
     "ipa1": "ʃlaʊ",
     "ipa2": "ʃlɛçt",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "clever",
-    "info2": "bad"
+    "lang2": "de"
   },
   {
     "word1": "Glück",
@@ -585,9 +509,7 @@
     "ipa1": "ɡlʏk",
     "ipa2": "ɡlyː",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "luck",
-    "info2": "glow"
+    "lang2": "de"
   },
   {
     "word1": "Arbeit",
@@ -595,9 +517,7 @@
     "ipa1": "ˈaʁbaɪt",
     "ipa2": "ˈʔaːbaʁtɪç",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "work",
-    "info2": "abnormal"
+    "lang2": "de"
   },
   {
     "word1": "Schutz",
@@ -605,9 +525,7 @@
     "ipa1": "ʃʊt͡s",
     "ipa2": "ˈʃatən",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "protection",
-    "info2": "shadow"
+    "lang2": "de"
   },
   {
     "word1": "Falsch",
@@ -615,9 +533,7 @@
     "ipa1": "falʃ",
     "ipa2": "ˈflɑʃə",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "false",
-    "info2": "bottle"
+    "lang2": "de"
   },
   {
     "word1": "Früh",
@@ -625,9 +541,7 @@
     "ipa1": "fʁyː",
     "ipa2": "fʁaɪ",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "early",
-    "info2": "free"
+    "lang2": "de"
   },
   {
     "word1": "Land",
@@ -635,9 +549,7 @@
     "ipa1": "lant",
     "ipa2": "lʊst",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "country",
-    "info2": "desire"
+    "lang2": "de"
   },
   {
     "word1": "Tag",
@@ -645,9 +557,7 @@
     "ipa1": "taːk",
     "ipa2": "ˈtaːɡn̩",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "day",
-    "info2": "days"
+    "lang2": "de"
   },
   {
     "word1": "Wagen",
@@ -655,9 +565,7 @@
     "ipa1": "ˈvaːɡn̩",
     "ipa2": "ˈvaχən",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "car",
-    "info2": "watch"
+    "lang2": "de"
   },
   {
     "word1": "Buch",
@@ -665,9 +573,7 @@
     "ipa1": "buːχ",
     "ipa2": "bʊs",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "book",
-    "info2": "bus"
+    "lang2": "de"
   },
   {
     "word1": "Sohn",
@@ -675,9 +581,7 @@
     "ipa1": "zoːn",
     "ipa2": "zɔnə",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "son",
-    "info2": "sun"
+    "lang2": "de"
   },
   {
     "word1": "Brat",
@@ -685,9 +589,7 @@
     "ipa1": "brat",
     "ipa2": "broːt",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "roast",
-    "info2": "bread"
+    "lang2": "de"
   },
   {
     "word1": "bieten",
@@ -695,9 +597,7 @@
     "ipa1": "ˈbiːtən",
     "ipa2": "ˈbɪtən",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "to offer",
-    "info2": "to ask"
+    "lang2": "de"
   },
   {
     "word1": "Blut",
@@ -705,9 +605,7 @@
     "ipa1": "bluːt",
     "ipa2": "bruːt",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "blood",
-    "info2": "brood"
+    "lang2": "de"
   },
   {
     "word1": "Stern",
@@ -715,9 +613,7 @@
     "ipa1": "ʃtɛʁn",
     "ipa2": "ʃtʊʁm",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "star",
-    "info2": "storm"
+    "lang2": "de"
   },
   {
     "word1": "Kamm",
@@ -725,9 +621,7 @@
     "ipa1": "kam",
     "ipa2": "kɔm",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "comb",
-    "info2": "come"
+    "lang2": "de"
   },
   {
     "word1": "Zahl",
@@ -735,19 +629,15 @@
     "ipa1": "tsaːl",
     "ipa2": "tsiːl",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "number",
-    "info2": "goal"
+    "lang2": "de"
   },
   {
     "word1": "Tipp",
     "word2": "Zipf",
-    "ipa1": "tɪp",
-    "ipa2": "tsɪpf",
+    "ipa1": "/tɪp/",
+    "ipa2": "/tsɪpf/",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "tip",
-    "info2": "tip (point)"
+    "lang2": "de"
   },
   {
     "word1": "See",
@@ -755,9 +645,7 @@
     "ipa1": "zeː",
     "ipa2": "zɛːə",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "lake",
-    "info2": "seed"
+    "lang2": "de"
   },
   {
     "word1": "Rad",
@@ -765,9 +653,7 @@
     "ipa1": "ʁaːt",
     "ipa2": "ʁat",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "wheel",
-    "info2": "council"
+    "lang2": "de"
   },
   {
     "word1": "Weg",
@@ -775,9 +661,7 @@
     "ipa1": "veːk",
     "ipa2": "vɛk",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "way",
-    "info2": "bread roll"
+    "lang2": "de"
   },
   {
     "word1": "Hahn",
@@ -785,9 +669,7 @@
     "ipa1": "haːn",
     "ipa2": "hanən",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "cock",
-    "info2": "hens"
+    "lang2": "de"
   },
   {
     "word1": "Garten",
@@ -795,9 +677,7 @@
     "ipa1": "ˈɡaʁtn̩",
     "ipa2": "ˈɡaʁbn̩",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "garden",
-    "info2": "sheaves"
+    "lang2": "de"
   },
   {
     "word1": "Fühl",
@@ -805,9 +685,7 @@
     "ipa1": "fyːl",
     "ipa2": "ˈfʏlən",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "feel",
-    "info2": "fill"
+    "lang2": "de"
   },
   {
     "word1": "Teer",
@@ -815,9 +693,7 @@
     "ipa1": "teːɐ̯",
     "ipa2": "tɛːɐ̯",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "tar",
-    "info2": "tart"
+    "lang2": "de"
   },
   {
     "word1": "Bach",
@@ -825,9 +701,7 @@
     "ipa1": "bax",
     "ipa2": "bak",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "brook",
-    "info2": "bake"
+    "lang2": "de"
   },
   {
     "word1": "Boot",
@@ -835,9 +709,7 @@
     "ipa1": "boːt",
     "ipa2": "bɔt",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "boat",
-    "info2": "sent"
+    "lang2": "de"
   },
   {
     "word1": "Schal",
@@ -845,9 +717,7 @@
     "ipa1": "ʃaːl",
     "ipa2": "ʃal",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "scarf",
-    "info2": "sound"
+    "lang2": "de"
   },
   {
     "word1": "rot",
@@ -855,9 +725,7 @@
     "ipa1": "ʁoːt",
     "ipa2": "ʁɔt",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "red",
-    "info2": "rotted"
+    "lang2": "de"
   },
   {
     "word1": "Haus",
@@ -865,9 +733,7 @@
     "ipa1": "haʊs",
     "ipa2": "has",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "house",
-    "info2": "hate"
+    "lang2": "de"
   },
   {
     "word1": "Kamm",
@@ -875,9 +741,7 @@
     "ipa1": "kam",
     "ipa2": "kaːn",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "comb",
-    "info2": "barge"
+    "lang2": "de"
   },
   {
     "word1": "Stall",
@@ -885,9 +749,7 @@
     "ipa1": "ʃtal",
     "ipa2": "ʃtaːl",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "stable",
-    "info2": "steel"
+    "lang2": "de"
   },
   {
     "word1": "Kuss",
@@ -895,9 +757,7 @@
     "ipa1": "kʊs",
     "ipa2": "kʊʁs",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "kiss",
-    "info2": "course"
+    "lang2": "de"
   },
   {
     "word1": "Schall",
@@ -905,9 +765,7 @@
     "ipa1": "ʃal",
     "ipa2": "ʃaːl",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "sound",
-    "info2": "scarf"
+    "lang2": "de"
   },
   {
     "word1": "Feld",
@@ -915,9 +773,7 @@
     "ipa1": "fɛlt",
     "ipa2": "fɛlt",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "field",
-    "info2": "falls"
+    "lang2": "de"
   },
   {
     "word1": "Last",
@@ -925,9 +781,7 @@
     "ipa1": "last",
     "ipa2": "lʊst",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "load",
-    "info2": "desire"
+    "lang2": "de"
   },
   {
     "word1": "lose",
@@ -935,9 +789,7 @@
     "ipa1": "ˈloːzə",
     "ipa2": "ˈløːzə",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "loose",
-    "info2": "solve"
+    "lang2": "de"
   },
   {
     "word1": "Rate",
@@ -945,58 +797,6 @@
     "ipa1": "ˈʁaːtə",
     "ipa2": "ˈʁatə",
     "lang1": "de",
-    "lang2": "de",
-    "info1": "rate",
-    "info2": "rat"
-  },
-  {
-    "word1": "biss",
-    "word2": "bis",
-    "ipa1": "bɪs",
-    "ipa2": "bɪs",
-    "lang1": "de",
-    "lang2": "de",
-    "info1": "bite",
-    "info2": "until"
-  },
-  {
-    "word1": "Lachen",
-    "word2": "Lächeln",
-    "ipa1": "ˈlaxən",
-    "ipa2": "ˈlɛçln̩",
-    "lang1": "de",
-    "lang2": "de",
-    "info1": "laugh",
-    "info2": "smile"
-  },
-  {
-    "word1": "Garten",
-    "word2": "Gartens",
-    "ipa1": "ˈɡaʁtən",
-    "ipa2": "ˈɡaʁtəns",
-    "lang1": "de",
-    "lang2": "de",
-    "info1": "garden",
-    "info2": "gardens"
-  },
-  {
-    "word1": "Blatt",
-    "word2": "Platt",
-    "ipa1": "blat",
-    "ipa2": "plat",
-    "lang1": "de",
-    "lang2": "de",
-    "info1": "leaf",
-    "info2": "flat"
-  },
-  {
-    "word1": "Sohn",
-    "word2": "Soon",
-    "ipa1": "zoːn",
-    "ipa2": "suːn",
-    "lang1": "de",
-    "lang2": "de",
-    "info1": "son",
-    "info2": "soon"
+    "lang2": "de"
   }
 ]
