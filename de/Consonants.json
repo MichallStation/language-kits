@@ -240,5 +240,38 @@
     "ipa_img": "de/Consonants/ch_ch_consonant.jpg",
     "example_img": "de/Consonants/Licht_example.jpg",
     "example_ipa": "lɪçt"
+  },
+  {
+    "letter": "TSCH",
+    "ipa": "tʃ",
+    "example": "Matsch",
+    "example_info": "Mud",
+    "audio_ipa": "de/Consonants/tsch_consonant.mp3",
+    "audio_example": "de/Consonants/Matsch_example.mp3",
+    "ipa_img": "de/Consonants/tsch_consonant.jpg",
+    "example_img": "de/Consonants/Matsch_example.jpg",
+    "example_ipa": "maʦʃ"
+  },
+  {
+    "letter": "PF",
+    "ipa": "pf",
+    "example": "Pfeil",
+    "example_info": "Arrow",
+    "audio_ipa": "de/Consonants/pf_consonant.mp3",
+    "audio_example": "de/Consonants/Pfeil_example.mp3",
+    "ipa_img": "de/Consonants/pf_consonant.jpg",
+    "example_img": "de/Consonants/Pfeil_example.jpg",
+    "example_ipa": "faɪl"
+  },
+  {
+    "letter": "Z",
+    "ipa": "ts",
+    "example": "Zahl",
+    "example_info": "Number",
+    "audio_ipa": "de/Consonants/ts_consonant.mp3",
+    "audio_example": "de/Consonants/Zahl_example.mp3",
+    "ipa_img": "de/Consonants/ts_consonant.jpg",
+    "example_img": "de/Consonants/Zahl_example.jpg",
+    "example_ipa": "tsaːl"
   }
 ]
