@@ -3,12 +3,12 @@ console.log(re.consonants.length);
 console.log(re.vowels.length);
 console.log(re.compound.length);
 
-const vowels = require('./Vowels.json').map(({ letter, ipa }) => {
-  return { letter, ipa };
+const vowels = require('./Consonants.json').map(({ letter, ipa }) => {
+  return { letter };
 });
 
-vowels.push({
-  letter: 'ER',
-  ipa: 'ɐ',
-});
+// vowels.push({
+//   letter: 'ER',
+//   ipa: 'ɐ',
+// });
 console.log(JSON.stringify(vowels));

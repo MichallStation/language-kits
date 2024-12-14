@@ -1,0 +1,908 @@
+{
+  "consonants": [
+    {
+      "type": "d",
+      "word": "Abend",
+      "info": "evening"
+    },
+    {
+      "type": "d",
+      "word": "Kind",
+      "info": "child"
+    },
+    {
+      "type": "d",
+      "word": "Wald",
+      "info": "forest"
+    },
+    {
+      "type": "d",
+      "word": "Hand",
+      "info": "hand"
+    },
+    {
+      "type": "d",
+      "word": "Stadtrand",
+      "info": "city outskirts"
+    },
+    {
+      "type": "d",
+      "word": "Sand",
+      "info": "sand"
+    },
+    {
+      "type": "d",
+      "word": "Kondition",
+      "info": "condition"
+    },
+    {
+      "type": "d",
+      "word": "Ladung",
+      "info": "load"
+    },
+    {
+      "type": "d",
+      "word": "Blut",
+      "info": "blood"
+    },
+    {
+      "type": "d",
+      "word": "Hund",
+      "info": "dog"
+    },
+    {
+      "type": "z",
+      "word": "Konzert",
+      "info": "concert"
+    },
+    {
+      "type": "z",
+      "word": "Satz",
+      "info": "sentence"
+    },
+    {
+      "type": "z",
+      "word": "Stutz",
+      "info": "support"
+    },
+    {
+      "type": "z",
+      "word": "Putz",
+      "info": "plaster"
+    },
+    {
+      "type": "z",
+      "word": "Erlebnis",
+      "info": "experience"
+    },
+    {
+      "type": "z",
+      "word": "Fazit",
+      "info": "conclusion"
+    },
+    {
+      "type": "z",
+      "word": "Schwatz",
+      "info": "chat"
+    },
+    {
+      "type": "z",
+      "word": "Platz",
+      "info": "place, square"
+    },
+    {
+      "type": "z",
+      "word": "Schutz",
+      "info": "protection"
+    },
+    {
+      "type": "z",
+      "word": "Witz",
+      "info": "joke"
+    },
+    {
+      "type": "b",
+      "word": "Abend",
+      "info": "evening"
+    },
+    {
+      "type": "b",
+      "word": "Stab",
+      "info": "stick"
+    },
+    {
+      "type": "b",
+      "word": "Hobby",
+      "info": "hobby"
+    },
+    {
+      "type": "b",
+      "word": "Bub",
+      "info": "boy"
+    },
+    {
+      "type": "b",
+      "word": "Treibholz",
+      "info": "driftwood"
+    },
+    {
+      "type": "b",
+      "word": "Turbine",
+      "info": "turbine"
+    },
+    {
+      "type": "b",
+      "word": "Job",
+      "info": "job"
+    },
+    {
+      "type": "b",
+      "word": "Kloben",
+      "info": "block"
+    },
+    {
+      "type": "b",
+      "word": "Korb",
+      "info": "basket"
+    },
+    {
+      "type": "b",
+      "word": "Stab",
+      "info": "stick"
+    },
+    {
+      "type": "v",
+      "word": "Nerv",
+      "info": "nerve"
+    },
+    {
+      "type": "v",
+      "word": "Voll",
+      "info": "full"
+    },
+    {
+      "type": "v",
+      "word": "Schwerv",
+      "info": "difficult (rare)"
+    },
+    {
+      "type": "v",
+      "word": "Hervorragend",
+      "info": "excellent"
+    },
+    {
+      "type": "v",
+      "word": "Verwaltung",
+      "info": "administration"
+    },
+    {
+      "type": "v",
+      "word": "Löffel",
+      "info": "spoon"
+    },
+    {
+      "type": "v",
+      "word": "Verein",
+      "info": "club, association"
+    },
+    {
+      "type": "v",
+      "word": "Vertrieb",
+      "info": "distribution"
+    },
+    {
+      "type": "v",
+      "word": "Erwerb",
+      "info": "acquisition"
+    },
+    {
+      "type": "v",
+      "word": "Liev",
+      "info": "dear (rare, regional)"
+    },
+    {
+      "type": "g",
+      "word": "Weg",
+      "info": "way, path"
+    },
+    {
+      "type": "g",
+      "word": "Tag",
+      "info": "day"
+    },
+    {
+      "type": "g",
+      "word": "Mag",
+      "info": "I like"
+    },
+    {
+      "type": "g",
+      "word": "Geschenk",
+      "info": "gift"
+    },
+    {
+      "type": "g",
+      "word": "Lager",
+      "info": "camp, warehouse"
+    },
+    {
+      "type": "g",
+      "word": "Zug",
+      "info": "train"
+    },
+    {
+      "type": "g",
+      "word": "Abflug",
+      "info": "departure"
+    },
+    {
+      "type": "g",
+      "word": "Gegenteil",
+      "info": "opposite"
+    },
+    {
+      "type": "g",
+      "word": "Hochzug",
+      "info": "ascent"
+    },
+    {
+      "type": "g",
+      "word": "Berg",
+      "info": "mountain"
+    }
+  ],
+  "vowels": [
+    {
+      "type": "short",
+      "word": "bitte",
+      "info": "please"
+    },
+    {
+      "type": "short",
+      "word": "Hölle",
+      "info": "hell"
+    },
+    {
+      "type": "short",
+      "word": "Docht",
+      "info": "wick"
+    },
+    {
+      "type": "short",
+      "word": "bitter",
+      "info": "bitter"
+    },
+    {
+      "type": "short",
+      "word": "Mitte",
+      "info": "middle"
+    },
+    {
+      "type": "short",
+      "word": "Götter",
+      "info": "gods"
+    },
+    {
+      "type": "short",
+      "word": "Schritt",
+      "info": "step"
+    },
+    {
+      "type": "short",
+      "word": "Wolle",
+      "info": "wool"
+    },
+    {
+      "type": "short",
+      "word": "Köpfe",
+      "info": "heads"
+    },
+    {
+      "type": "short",
+      "word": "Töpfe",
+      "info": "pots"
+    },
+    {
+      "type": "short",
+      "word": "Pfütze",
+      "info": "puddle"
+    },
+    {
+      "type": "short",
+      "word": "Witz",
+      "info": "joke"
+    },
+    {
+      "type": "short",
+      "word": "Welle",
+      "info": "wave"
+    },
+    {
+      "type": "short",
+      "word": "Mütze",
+      "info": "cap"
+    },
+    {
+      "type": "short",
+      "word": "Ritter",
+      "info": "knight"
+    },
+    {
+      "type": "short",
+      "word": "Mutter",
+      "info": "mother"
+    },
+    {
+      "type": "short",
+      "word": "Kasten",
+      "info": "box"
+    },
+    {
+      "type": "short",
+      "word": "Gasten",
+      "info": "guests"
+    },
+    {
+      "type": "short",
+      "word": "Futter",
+      "info": "feed"
+    },
+    {
+      "type": "short",
+      "word": "Puffer",
+      "info": "buffer"
+    },
+    {
+      "type": "short",
+      "word": "Koffer",
+      "info": "suitcase"
+    },
+    {
+      "type": "short",
+      "word": "Bissen",
+      "info": "bite"
+    },
+    {
+      "type": "short",
+      "word": "Zucke",
+      "info": "sugar"
+    },
+    {
+      "type": "short",
+      "word": "Hütte",
+      "info": "hut"
+    },
+    {
+      "type": "short",
+      "word": "Ratte",
+      "info": "rat"
+    },
+    {
+      "type": "long",
+      "word": "Dieb",
+      "info": "thief"
+    },
+    {
+      "type": "long",
+      "word": "Fee",
+      "info": "fairy"
+    },
+    {
+      "type": "long",
+      "word": "Ahle",
+      "info": "awl"
+    },
+    {
+      "type": "long",
+      "word": "See",
+      "info": "lake"
+    },
+    {
+      "type": "long",
+      "word": "Meer",
+      "info": "sea"
+    },
+    {
+      "type": "long",
+      "word": "Bier",
+      "info": "beer"
+    },
+    {
+      "type": "long",
+      "word": "Haar",
+      "info": "hair"
+    },
+    {
+      "type": "long",
+      "word": "Lehr",
+      "info": "lesson (archaic)"
+    },
+    {
+      "type": "long",
+      "word": "Vieh",
+      "info": "cattle"
+    },
+    {
+      "type": "long",
+      "word": "Steh",
+      "info": "stand (verb)"
+    },
+    {
+      "type": "long",
+      "word": "Fieber",
+      "info": "fever"
+    },
+    {
+      "type": "long",
+      "word": "Ehre",
+      "info": "honor"
+    },
+    {
+      "type": "long",
+      "word": "Höhle",
+      "info": "cave"
+    },
+    {
+      "type": "long",
+      "word": "Käse",
+      "info": "cheese"
+    },
+    {
+      "type": "long",
+      "word": "Gehör",
+      "info": "hearing"
+    },
+    {
+      "type": "long",
+      "word": "Teer",
+      "info": "tar"
+    },
+    {
+      "type": "long",
+      "word": "Sähe",
+      "info": "would sow (subjunctive)"
+    },
+    {
+      "type": "long",
+      "word": "Hase",
+      "info": "hare"
+    },
+    {
+      "type": "long",
+      "word": "Ruh",
+      "info": "rest (archaic)"
+    },
+    {
+      "type": "long",
+      "word": "Knie",
+      "info": "knee"
+    },
+    {
+      "type": "long",
+      "word": "Viel",
+      "info": "much"
+    },
+    {
+      "type": "long",
+      "word": "Zweck",
+      "info": "purpose"
+    },
+    {
+      "type": "long",
+      "word": "Beet",
+      "info": "bed (garden)"
+    },
+    {
+      "type": "long",
+      "word": "Blut",
+      "info": "blood"
+    },
+    {
+      "type": "long",
+      "word": "Glut",
+      "info": "glow"
+    }
+  ],
+  "compound": [
+    {
+      "word1": "Rund",
+      "info1": "round",
+      "word2": "Dorf",
+      "info2": "village",
+      "combined": "Runddorf",
+      "combined_info": "Round village"
+    },
+    {
+      "word1": "Alt",
+      "info1": "old",
+      "word2": "Stadt",
+      "info2": "city",
+      "combined": "Altstadt",
+      "combined_info": "Old city"
+    },
+    {
+      "word1": "Neu",
+      "info1": "new",
+      "word2": "Haus",
+      "info2": "house",
+      "combined": "Neuhause",
+      "combined_info": "New house"
+    },
+    {
+      "word1": "Groß",
+      "info1": "big",
+      "word2": "Stadt",
+      "info2": "city",
+      "combined": "Großstadt",
+      "combined_info": "Big city"
+    },
+    {
+      "word1": "Klein",
+      "info1": "small",
+      "word2": "Dorf",
+      "info2": "village",
+      "combined": "Kleindorf",
+      "combined_info": "Small village"
+    },
+    {
+      "word1": "Ober",
+      "info1": "upper",
+      "word2": "Burg",
+      "info2": "castle",
+      "combined": "Oberburg",
+      "combined_info": "Upper castle"
+    },
+    {
+      "word1": "Unter",
+      "info1": "under",
+      "word2": "Wasser",
+      "info2": "water",
+      "combined": "Unterwasser",
+      "combined_info": "Underwater"
+    },
+    {
+      "word1": "Voll",
+      "info1": "full",
+      "word2": "Mund",
+      "info2": "mouth",
+      "combined": "Vollmund",
+      "combined_info": "Full mouth"
+    },
+    {
+      "word1": "Hoch",
+      "info1": "high",
+      "word2": "Haus",
+      "info2": "house",
+      "combined": "Hochhaus",
+      "combined_info": "High house"
+    },
+    {
+      "word1": "Alpen",
+      "info1": "Alps",
+      "word2": "Dorf",
+      "info2": "village",
+      "combined": "Alpendorf",
+      "combined_info": "Alps village"
+    },
+    {
+      "word1": "Eis",
+      "info1": "ice",
+      "word2": "Bahn",
+      "info2": "track",
+      "combined": "Eisbahn",
+      "combined_info": "Ice track"
+    },
+    {
+      "word1": "Licht",
+      "info1": "light",
+      "word2": "Haus",
+      "info2": "house",
+      "combined": "Lichthaus",
+      "combined_info": "Light house"
+    },
+    {
+      "word1": "Weiß",
+      "info1": "white",
+      "word2": "Blume",
+      "info2": "flower",
+      "combined": "Weißblume",
+      "combined_info": "White flower"
+    },
+    {
+      "word1": "Schwarz",
+      "info1": "black",
+      "word2": "Brot",
+      "info2": "bread",
+      "combined": "Schwarzbrot",
+      "combined_info": "Black bread"
+    },
+    {
+      "word1": "Zahl",
+      "info1": "number",
+      "word2": "Tafel",
+      "info2": "board",
+      "combined": "Zahltafel",
+      "combined_info": "Number board"
+    },
+    {
+      "word1": "Wald",
+      "info1": "forest",
+      "word2": "Hütte",
+      "info2": "cabin",
+      "combined": "Waldbhut",
+      "combined_info": "Forest cabin"
+    },
+    {
+      "word1": "Hoch",
+      "info1": "high",
+      "word2": "Tal",
+      "info2": "valley",
+      "combined": "Hochtal",
+      "combined_info": "High valley"
+    },
+    {
+      "word1": "Winter",
+      "info1": "winter",
+      "word2": "Wald",
+      "info2": "forest",
+      "combined": "Winterwald",
+      "combined_info": "Winter forest"
+    },
+    {
+      "word1": "Flug",
+      "info1": "flight",
+      "word2": "Zeug",
+      "info2": "thing",
+      "combined": "Flugzeug",
+      "combined_info": "Airplane"
+    },
+    {
+      "word1": "Boden",
+      "info1": "ground",
+      "word2": "Abdruck",
+      "info2": "impression",
+      "combined": "Bodenabdruck",
+      "combined_info": "Ground impression"
+    },
+    {
+      "word1": "Kraft",
+      "info1": "power",
+      "word2": "Werk",
+      "info2": "work",
+      "combined": "Kraftwerk",
+      "combined_info": "Power plant"
+    },
+    {
+      "word1": "Frei",
+      "info1": "free",
+      "word2": "Zeit",
+      "info2": "time",
+      "combined": "Freizeit",
+      "combined_info": "Leisure time"
+    },
+    {
+      "word1": "Stark",
+      "info1": "strong",
+      "word2": "Mensch",
+      "info2": "person",
+      "combined": "Starkmensch",
+      "combined_info": "Strong person"
+    },
+    {
+      "word1": "Bau",
+      "info1": "building",
+      "word2": "Werk",
+      "info2": "work",
+      "combined": "Bauwerk",
+      "combined_info": "Building work"
+    },
+    {
+      "word1": "Alt",
+      "info1": "old",
+      "word2": "Bier",
+      "info2": "beer",
+      "combined": "Altbier",
+      "combined_info": "Old beer"
+    },
+    {
+      "word1": "Lange",
+      "info1": "long",
+      "word2": "Woche",
+      "info2": "week",
+      "combined": "Langewoche",
+      "combined_info": "Long week"
+    },
+    {
+      "word1": "Rund",
+      "info1": "round",
+      "word2": "Gang",
+      "info2": "corridor",
+      "combined": "Rundgang",
+      "combined_info": "Round tour"
+    },
+    {
+      "word1": "Hoch",
+      "info1": "high",
+      "word2": "Schule",
+      "info2": "school",
+      "combined": "Hochschule",
+      "combined_info": "University"
+    },
+    {
+      "word1": "Schnell",
+      "info1": "fast",
+      "word2": "Straße",
+      "info2": "road",
+      "combined": "Schnellstraße",
+      "combined_info": "Expressway"
+    },
+    {
+      "word1": "Bier",
+      "info1": "beer",
+      "word2": "Halle",
+      "info2": "hall",
+      "combined": "Bierhalle",
+      "combined_info": "Beer hall"
+    },
+    {
+      "word1": "Kalt",
+      "info1": "cold",
+      "word2": "Wasser",
+      "info2": "water",
+      "combined": "Kaltwasser",
+      "combined_info": "Cold water"
+    },
+    {
+      "word1": "Kurz",
+      "info1": "short",
+      "word2": "Zeit",
+      "info2": "time",
+      "combined": "Kurzzeit",
+      "combined_info": "Short time"
+    },
+    {
+      "word1": "Berg",
+      "info1": "mountain",
+      "word2": "Spitze",
+      "info2": "peak",
+      "combined": "Bergspitze",
+      "combined_info": "Mountain peak"
+    },
+    {
+      "word1": "Küche",
+      "info1": "kitchen",
+      "word2": "Haus",
+      "info2": "house",
+      "combined": "Küchenhaus",
+      "combined_info": "Kitchen house"
+    },
+    {
+      "word1": "Abend",
+      "info1": "evening",
+      "word2": "Brot",
+      "info2": "bread",
+      "combined": "Abendbrot",
+      "combined_info": "Evening bread"
+    },
+    {
+      "word1": "Garten",
+      "info1": "garden",
+      "word2": "Haus",
+      "info2": "house",
+      "combined": "Gartenhaus",
+      "combined_info": "Garden house"
+    },
+    {
+      "word1": "Boden",
+      "info1": "ground",
+      "word2": "Welle",
+      "info2": "wave",
+      "combined": "Bodenwelle",
+      "combined_info": "Ground wave"
+    },
+    {
+      "word1": "Meer",
+      "info1": "sea",
+      "word2": "Blick",
+      "info2": "view",
+      "combined": "Meerblick",
+      "combined_info": "Sea view"
+    },
+    {
+      "word1": "Sturm",
+      "info1": "storm",
+      "word2": "Himmel",
+      "info2": "sky",
+      "combined": "Sturmhimmel",
+      "combined_info": "Storm sky"
+    },
+    {
+      "word1": "Gold",
+      "info1": "gold",
+      "word2": "Grube",
+      "info2": "mine",
+      "combined": "Goldgrube",
+      "combined_info": "Gold mine"
+    },
+    {
+      "word1": "Himmel",
+      "info1": "sky",
+      "word2": "Tür",
+      "info2": "door",
+      "combined": "Himmeltür",
+      "combined_info": "Sky door"
+    },
+    {
+      "word1": "Blau",
+      "info1": "blue",
+      "word2": "Himmel",
+      "info2": "sky",
+      "combined": "Blauhimmel",
+      "combined_info": "Blue sky"
+    },
+    {
+      "word1": "Wasser",
+      "info1": "water",
+      "word2": "Fall",
+      "info2": "fall",
+      "combined": "Wasserfall",
+      "combined_info": "Waterfall"
+    },
+    {
+      "word1": "Grün",
+      "info1": "green",
+      "word2": "Wiese",
+      "info2": "meadow",
+      "combined": "Grünwiese",
+      "combined_info": "Green meadow"
+    },
+    {
+      "word1": "Silber",
+      "info1": "silver",
+      "word2": "Münze",
+      "info2": "coin",
+      "combined": "Silbermünze",
+      "combined_info": "Silver coin"
+    },
+    {
+      "word1": "Schatten",
+      "info1": "shadow",
+      "word2": "Seite",
+      "info2": "side",
+      "combined": "Schattenseite",
+      "combined_info": "Shadow side"
+    },
+    {
+      "word1": "Süß",
+      "info1": "sweet",
+      "word2": "Kuchen",
+      "info2": "cake",
+      "combined": "Süßkuchen",
+      "combined_info": "Sweet cake"
+    },
+    {
+      "word1": "Fern",
+      "info1": "far",
+      "word2": "Sehen",
+      "info2": "view",
+      "combined": "Fernsehen",
+      "combined_info": "Television"
+    },
+    {
+      "word1": "Sonne",
+      "info1": "sun",
+      "word2": "Blume",
+      "info2": "flower",
+      "combined": "Sonnenblume",
+      "combined_info": "Sunflower"
+    },
+    {
+      "word1": "Kühl",
+      "info1": "cool",
+      "word2": "Schrank",
+      "info2": "cabinet",
+      "combined": "Kühlschrank",
+      "combined_info": "Refrigerator"
+    }
+  ]
+}
