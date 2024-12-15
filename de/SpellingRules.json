@@ -55,7 +55,12 @@
       "ipa": "ˈdɔktɔʁ",
       "note": "D is the most popular spelling for 'd,' while at the end of a word, it is spelled as 't.'"
     },
-    { "type": "F", "word": "Fisch", "info": "fish", "ipa": "fɪʃ" },
+    {
+      "type": "F",
+      "word": "Fisch",
+      "info": "fish",
+      "ipa": "fɪʃ"
+    },
     {
       "type": "G",
       "word": "Garten",
@@ -63,15 +68,60 @@
       "ipa": "ˈɡaːʁtn̩",
       "note": "G is the most popular spelling for 'ɡ,' while in specific cases or at the end of a word, it may be spelled as 'k.'"
     },
-    { "type": "H", "word": "Haus", "info": "house", "ipa": "haʊs" },
-    { "type": "K", "word": "Katze", "info": "cat", "ipa": "ˈkatsə" },
-    { "type": "L", "word": "Leben", "info": "life", "ipa": "ˈleːbən" },
-    { "type": "M", "word": "Mutter", "info": "mother", "ipa": "ˈmʊtɐ" },
-    { "type": "N", "word": "Nacht", "info": "night", "ipa": "naχt" },
-    { "type": "QU", "word": "Qualle", "info": "jellyfish", "ipa": "ˈkvalə" },
-    { "type": "S", "word": "Sonne", "info": "sun", "ipa": "ˈzɔnə" },
-    { "type": "ß", "word": "Straße", "info": "street", "ipa": "ˈʃtʁaːsə" },
-    { "type": "T", "word": "Tisch", "info": "table", "ipa": "tɪʃ" },
+    {
+      "type": "H",
+      "word": "Haus",
+      "info": "house",
+      "ipa": "haʊs"
+    },
+    {
+      "type": "K",
+      "word": "Katze",
+      "info": "cat",
+      "ipa": "ˈkatsə"
+    },
+    {
+      "type": "L",
+      "word": "Leben",
+      "info": "life",
+      "ipa": "ˈleːbən"
+    },
+    {
+      "type": "M",
+      "word": "Mutter",
+      "info": "mother",
+      "ipa": "ˈmʊtɐ"
+    },
+    {
+      "type": "N",
+      "word": "Nacht",
+      "info": "night",
+      "ipa": "naχt"
+    },
+    {
+      "type": "QU",
+      "word": "Qualle",
+      "info": "jellyfish",
+      "ipa": "ˈkvalə"
+    },
+    {
+      "type": "S",
+      "word": "Sonne",
+      "info": "sun",
+      "ipa": "ˈzɔnə"
+    },
+    {
+      "type": "ß",
+      "word": "Straße",
+      "info": "street",
+      "ipa": "ˈʃtʁaːsə"
+    },
+    {
+      "type": "T",
+      "word": "Tisch",
+      "info": "table",
+      "ipa": "tɪʃ"
+    },
     {
       "type": "V",
       "word": "Vater",
@@ -79,8 +129,18 @@
       "ipa": "ˈfaːtɐ",
       "note": "V is the most popular spelling for 'f,' while specific may spell it as 'v.'"
     },
-    { "type": "Z", "word": "Zug", "info": "train", "ipa": "tsuːk" },
-    { "type": "L", "word": "Löffel", "info": "spoon", "ipa": "ˈlœfəl" },
+    {
+      "type": "Z",
+      "word": "Zug",
+      "info": "train",
+      "ipa": "tsuːk"
+    },
+    {
+      "type": "L",
+      "word": "Löffel",
+      "info": "spoon",
+      "ipa": "ˈlœfəl"
+    },
     {
       "type": "J",
       "word": "Jahr",
@@ -88,8 +148,18 @@
       "ipa": "jaːʁ",
       "note": "J is the most popular spelling for 'j,' while specific may spell it as 'ʒ.'"
     },
-    { "type": "NG", "word": "Singen", "info": "sing", "ipa": "ˈzɪŋən" },
-    { "type": "SCH", "word": "Schule", "info": "school", "ipa": "ˈʃuːlə" },
+    {
+      "type": "NG",
+      "word": "Singen",
+      "info": "sing",
+      "ipa": "ˈzɪŋən"
+    },
+    {
+      "type": "SCH",
+      "word": "Schule",
+      "info": "school",
+      "ipa": "ˈʃuːlə"
+    },
     {
       "type": "R",
       "word": "Rot",
@@ -132,12 +202,42 @@
       "ipa": "ˈvɪçtɪç",
       "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
     },
-    { "type": "TSCH", "word": "Tschüss", "info": "bye", "ipa": "tʃʏs" },
-    { "type": "PF", "word": "Pfeffer", "info": "pepper", "ipa": "ˈpfɛfɐ" },
-    { "type": "TH", "word": "Thema", "info": "theme", "ipa": "ˈteːma" },
-    { "type": "X", "word": "Box", "info": "box", "ipa": "bɔks" },
-    { "type": "W", "word": "Wasser", "info": "water", "ipa": "ˈvasɐ" },
-    { "type": "Y", "word": "Yoga", "info": "yoga", "ipa": "ˈjoːɡa" },
+    {
+      "type": "TSCH",
+      "word": "Tschüss",
+      "info": "bye",
+      "ipa": "tʃʏs"
+    },
+    {
+      "type": "PF",
+      "word": "Pfeffer",
+      "info": "pepper",
+      "ipa": "ˈpfɛfɐ"
+    },
+    {
+      "type": "TH",
+      "word": "Thema",
+      "info": "theme",
+      "ipa": "ˈteːma"
+    },
+    {
+      "type": "X",
+      "word": "Box",
+      "info": "box",
+      "ipa": "bɔks"
+    },
+    {
+      "type": "W",
+      "word": "Wasser",
+      "info": "water",
+      "ipa": "ˈvasɐ"
+    },
+    {
+      "type": "Y",
+      "word": "Yoga",
+      "info": "yoga",
+      "ipa": "ˈjoːɡa"
+    },
     {
       "type": "B",
       "word": "abholen",
@@ -152,15 +252,60 @@
       "ipa": "ˈtsɛlzi̯ʊs",
       "note": "C is the most popular spelling for 'k,' while specific may spell it as 'ts.'"
     },
-    { "type": "F", "word": "Fahrrad", "info": "bicycle", "ipa": "ˈfaːʁat" },
-    { "type": "H", "word": "Himmel", "info": "sky", "ipa": "ˈhɪməl" },
-    { "type": "K", "word": "König", "info": "king", "ipa": "ˈkøːnɪɡ" },
-    { "type": "M", "word": "Mensch", "info": "human", "ipa": "mɛnʃ" },
-    { "type": "N", "word": "Nase", "info": "nose", "ipa": "ˈnaːzə" },
-    { "type": "P", "word": "Puppe", "info": "doll", "ipa": "ˈpʊpə" },
-    { "type": "ST", "word": "Stern", "info": "star", "ipa": "ʃtɛʁn" },
-    { "type": "ß", "word": "Maß", "info": "measure", "ipa": "maːs" },
-    { "type": "T", "word": "Tier", "info": "animal", "ipa": "tiːɐ" },
+    {
+      "type": "F",
+      "word": "Fahrrad",
+      "info": "bicycle",
+      "ipa": "ˈfaːʁat"
+    },
+    {
+      "type": "H",
+      "word": "Himmel",
+      "info": "sky",
+      "ipa": "ˈhɪməl"
+    },
+    {
+      "type": "K",
+      "word": "König",
+      "info": "king",
+      "ipa": "ˈkøːnɪɡ"
+    },
+    {
+      "type": "M",
+      "word": "Mensch",
+      "info": "human",
+      "ipa": "mɛnʃ"
+    },
+    {
+      "type": "N",
+      "word": "Nase",
+      "info": "nose",
+      "ipa": "ˈnaːzə"
+    },
+    {
+      "type": "P",
+      "word": "Puppe",
+      "info": "doll",
+      "ipa": "ˈpʊpə"
+    },
+    {
+      "type": "ST",
+      "word": "Stern",
+      "info": "star",
+      "ipa": "ʃtɛʁn"
+    },
+    {
+      "type": "ß",
+      "word": "Maß",
+      "info": "measure",
+      "ipa": "maːs"
+    },
+    {
+      "type": "T",
+      "word": "Tier",
+      "info": "animal",
+      "ipa": "tiːɐ"
+    },
     {
       "type": "V",
       "word": "Vase",
@@ -175,8 +320,18 @@
       "ipa": "ʒʊʁˈnaːl",
       "note": "J is the most popular spelling for 'j,' while specific may spell it as 'ʒ.'"
     },
-    { "type": "NG", "word": "King", "info": "king", "ipa": "kɪŋ" },
-    { "type": "SCH", "word": "Schwimmen", "info": "swim", "ipa": "ˈʃvɪmən" },
+    {
+      "type": "NG",
+      "word": "King",
+      "info": "king",
+      "ipa": "kɪŋ"
+    },
+    {
+      "type": "SCH",
+      "word": "Schwimmen",
+      "info": "swim",
+      "ipa": "ˈʃvɪmən"
+    },
     {
       "type": "R",
       "word": "richtig",
@@ -219,436 +374,1123 @@
       "ipa": "ʃɑ̃ˈzɔ̃",
       "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
     },
-    { "type": "TSCH", "word": "Tschick", "info": "cigarette", "ipa": "tʃɪk" },
-    { "type": "PF", "word": "Pferd", "info": "horse", "ipa": "pfɛʁt" },
-    { "type": "TH", "word": "Thron", "info": "throne", "ipa": "tʁoːn" },
-    { "type": "X", "word": "Taxi", "info": "taxi", "ipa": "ˈtaksi" },
-    { "type": "W", "word": "Wort", "info": "word", "ipa": "vɔʁt" },
-    { "type": "Y", "word": "Yacht", "info": "yacht", "ipa": "jaχt" },
-    { "type": "BL", "word": "Blume", "info": "flower", "ipa": "ˈbluːmə" },
-    { "type": "BR", "word": "Brücke", "info": "bridge", "ipa": "ˈbrʏkə" },
-    { "type": "CL", "word": "Clown", "info": "clown", "ipa": "klaʊn" },
-    { "type": "DR", "word": "drucken", "info": "to print", "ipa": "ˈdʁʊkən" },
-    { "type": "FL", "word": "fliegen", "info": "to fly", "ipa": "ˈfliːɡən" },
-    { "type": "FR", "word": "Freund", "info": "friend", "ipa": "fʁɔʏnt" },
-    { "type": "GL", "word": "Glück", "info": "luck", "ipa": "ɡlʏk" },
-    { "type": "GR", "word": "Gruppe", "info": "group", "ipa": "ˈɡʁʊpə" },
-    { "type": "KL", "word": "Klein", "info": "small", "ipa": "klaɪn" },
-    { "type": "KR", "word": "Kraft", "info": "strength", "ipa": "kʁaft" },
-    { "type": "PL", "word": "Platz", "info": "place", "ipa": "plats" },
-    { "type": "PR", "word": "Preis", "info": "price", "ipa": "pʁaɪs" },
-    { "type": "SH", "word": "schön", "info": "beautiful", "ipa": "ʃøːn" },
-    { "type": "SP", "word": "Spiel", "info": "game", "ipa": "ʃpiːl" },
-    { "type": "SW", "word": "schwarz", "info": "black", "ipa": "ʃvaʁt͡s" },
-    { "type": "TR", "word": "Traum", "info": "dream", "ipa": "tʁaʊm" },
-    { "type": "ZW", "word": "zwei", "info": "two", "ipa": "tsvaɪ" }
+    {
+      "type": "TSCH",
+      "word": "Tschick",
+      "info": "cigarette",
+      "ipa": "tʃɪk"
+    },
+    {
+      "type": "PF",
+      "word": "Pferd",
+      "info": "horse",
+      "ipa": "pfɛʁt"
+    },
+    {
+      "type": "TH",
+      "word": "Thron",
+      "info": "throne",
+      "ipa": "tʁoːn"
+    },
+    {
+      "type": "X",
+      "word": "Taxi",
+      "info": "taxi",
+      "ipa": "ˈtaksi"
+    },
+    {
+      "type": "W",
+      "word": "Wort",
+      "info": "word",
+      "ipa": "vɔʁt"
+    },
+    {
+      "type": "Y",
+      "word": "Yacht",
+      "info": "yacht",
+      "ipa": "jaχt"
+    },
+    {
+      "type": "BL",
+      "word": "Blume",
+      "info": "flower",
+      "ipa": "ˈbluːmə"
+    },
+    {
+      "type": "BR",
+      "word": "Brücke",
+      "info": "bridge",
+      "ipa": "ˈbrʏkə"
+    },
+    {
+      "type": "CL",
+      "word": "Clown",
+      "info": "clown",
+      "ipa": "klaʊn"
+    },
+    {
+      "type": "DR",
+      "word": "drucken",
+      "info": "to print",
+      "ipa": "ˈdʁʊkən"
+    },
+    {
+      "type": "FL",
+      "word": "fliegen",
+      "info": "to fly",
+      "ipa": "ˈfliːɡən"
+    },
+    {
+      "type": "FR",
+      "word": "Freund",
+      "info": "friend",
+      "ipa": "fʁɔʏnt"
+    },
+    {
+      "type": "GL",
+      "word": "Glück",
+      "info": "luck",
+      "ipa": "ɡlʏk"
+    },
+    {
+      "type": "GR",
+      "word": "Gruppe",
+      "info": "group",
+      "ipa": "ˈɡʁʊpə"
+    },
+    {
+      "type": "KL",
+      "word": "Klein",
+      "info": "small",
+      "ipa": "klaɪn"
+    },
+    {
+      "type": "KR",
+      "word": "Kraft",
+      "info": "strength",
+      "ipa": "kʁaft"
+    },
+    {
+      "type": "PL",
+      "word": "Platz",
+      "info": "place",
+      "ipa": "plats"
+    },
+    {
+      "type": "PR",
+      "word": "Preis",
+      "info": "price",
+      "ipa": "pʁaɪs"
+    },
+    {
+      "type": "SH",
+      "word": "schön",
+      "info": "beautiful",
+      "ipa": "ʃøːn"
+    },
+    {
+      "type": "SP",
+      "word": "Spiel",
+      "info": "game",
+      "ipa": "ʃpiːl"
+    },
+    {
+      "type": "SW",
+      "word": "schwarz",
+      "info": "black",
+      "ipa": "ʃvaʁt͡s"
+    },
+    {
+      "type": "TR",
+      "word": "Traum",
+      "info": "dream",
+      "ipa": "tʁaʊm"
+    },
+    {
+      "type": "ZW",
+      "word": "zwei",
+      "info": "two",
+      "ipa": "tsvaɪ"
+    }
   ],
   "vowels": [
-    { "type": "I", "word": "bitte", "info": "please", "ipa": "ˈbɪtə" },
-    { "type": "E", "word": "beten", "info": "to pray", "ipa": "ˈbeːtn̩" },
-    { "type": "U", "word": "buch", "info": "book", "ipa": "buːx" },
-    { "type": "U", "word": "gut", "info": "good", "ipa": "guːt" },
-    { "type": "I", "word": "wie", "info": "how", "ipa": "viː" },
-    { "type": "A", "word": "laden", "info": "to load", "ipa": "ˈlaːdn̩" },
-    { "type": "E", "word": "sehen", "info": "to see", "ipa": "ˈzeːən" },
-    { "type": "O", "word": "boot", "info": "boat", "ipa": "boːt" },
-    { "type": "Ü", "word": "früh", "info": "early", "ipa": "fryː" },
-    { "type": "Ö", "word": "schön", "info": "beautiful", "ipa": "ʃøːn" },
-    { "type": "O", "word": "offen", "info": "open", "ipa": "ˈɔfən" },
-    { "type": "Ü", "word": "kühl", "info": "cool", "ipa": "kʏːl" },
-    { "type": "Ö", "word": "mögen", "info": "to like", "ipa": "ˈmøːɡn̩" },
-    { "type": "E", "word": "der", "info": "the (masc.)", "ipa": "dəʁ" },
-    { "type": "A", "word": "mann", "info": "man", "ipa": "man" },
-    { "type": "EI", "word": "mein", "info": "my", "ipa": "maɪ̯n" },
-    { "type": "AU", "word": "haus", "info": "house", "ipa": "haʊ̯s" },
-    { "type": "EU", "word": "neun", "info": "nine", "ipa": "nɔɪ̯n" },
-    { "type": "ER", "word": "lehrer", "info": "teacher", "ipa": "ˈleːʁɐ" },
-    { "type": "I", "word": "mit", "info": "with", "ipa": "mɪt" },
-    { "type": "E", "word": "besser", "info": "better", "ipa": "ˈbɛsɐ" },
-    { "type": "U", "word": "hund", "info": "dog", "ipa": "hʊnt" },
-    { "type": "U", "word": "stuhl", "info": "chair", "ipa": "ʃtuːl" },
-    { "type": "I", "word": "bitte", "info": "please", "ipa": "ˈbɪtə" },
-    { "type": "A", "word": "ab", "info": "off", "ipa": "ap" },
-    { "type": "E", "word": "net", "info": "nice", "ipa": "nɛt" },
-    { "type": "O", "word": "sonne", "info": "sun", "ipa": "ˈzɔnə" },
-    { "type": "Ü", "word": "küche", "info": "kitchen", "ipa": "ˈkʏçə" },
-    { "type": "Ö", "word": "grün", "info": "green", "ipa": "ɡʁyːn" },
-    { "type": "O", "word": "toll", "info": "great", "ipa": "tɔl" },
-    { "type": "Ü", "word": "über", "info": "over", "ipa": "ˈyːbɐ" },
-    { "type": "Ö", "word": "köln", "info": "Cologne", "ipa": "kœln" },
-    { "type": "E", "word": "hilfe", "info": "help", "ipa": "ˈhɪlfə" },
-    { "type": "A", "word": "wagen", "info": "car", "ipa": "ˈvaːɡn̩" },
-    { "type": "EI", "word": "stein", "info": "stone", "ipa": "ʃtaɪ̯n" },
-    { "type": "AU", "word": "laut", "info": "loud", "ipa": "laʊ̯t" },
-    { "type": "EU", "word": "neu", "info": "new", "ipa": "nɔɪ̯" },
-    { "type": "ER", "word": "wasser", "info": "water", "ipa": "ˈvasɐ" },
-    { "type": "I", "word": "singen", "info": "to sing", "ipa": "ˈzɪŋən" },
-    { "type": "E", "word": "leben", "info": "to live", "ipa": "ˈleːbn̩" },
-    { "type": "U", "word": "hundert", "info": "hundred", "ipa": "ˈhʊndɐt" },
-    { "type": "U", "word": "muskel", "info": "muscle", "ipa": "ˈmʊskəl" },
-    { "type": "I", "word": "mit", "info": "with", "ipa": "mɪt" },
-    { "type": "A", "word": "fahren", "info": "to drive", "ipa": "ˈfaːʁən" },
-    { "type": "E", "word": "essen", "info": "to eat", "ipa": "ˈɛsən" },
-    { "type": "O", "word": "boden", "info": "floor", "ipa": "ˈboːdn̩" },
-    { "type": "Ü", "word": "für", "info": "for", "ipa": "fyːɐ" },
-    { "type": "Ö", "word": "hören", "info": "to hear", "ipa": "ˈhøːʁən" },
-    { "type": "O", "word": "rohr", "info": "pipe", "ipa": "ʁoːʁ" },
-    { "type": "Ü", "word": "tür", "info": "door", "ipa": "tʏːʁ" },
-    { "type": "Ö", "word": "möbel", "info": "furniture", "ipa": "ˈmøːbəl" },
-    { "type": "E", "word": "lehrer", "info": "teacher", "ipa": "ˈleːʁɐ" },
+    {
+      "type": "I",
+      "word": "bitte",
+      "info": "please",
+      "ipa": "ˈbɪtə"
+    },
+    {
+      "type": "E",
+      "word": "beten",
+      "info": "to pray",
+      "ipa": "ˈbeːtn̩"
+    },
+    {
+      "type": "U",
+      "word": "buch",
+      "info": "book",
+      "ipa": "buːx"
+    },
+    {
+      "type": "U",
+      "word": "gut",
+      "info": "good",
+      "ipa": "guːt"
+    },
+    {
+      "type": "I",
+      "word": "wie",
+      "info": "how",
+      "ipa": "viː"
+    },
     {
       "type": "A",
-      "word": "abenteuer",
-      "info": "adventure",
-      "ipa": "ˈʔaːbənˌtɔʏɐ"
+      "word": "laden",
+      "info": "to load",
+      "ipa": "ˈlaːdn̩"
     },
-    { "type": "EI", "word": "wein", "info": "wine", "ipa": "vaɪ̯n" },
-    { "type": "AU", "word": "laut", "info": "loud", "ipa": "laʊ̯t" },
-    { "type": "EU", "word": "feuer", "info": "fire", "ipa": "ˈfɔɪ̯ɐ" },
-    { "type": "ER", "word": "lehrer", "info": "teacher", "ipa": "ˈleːʁɐ" }
+    {
+      "type": "E",
+      "word": "sehen",
+      "info": "to see",
+      "ipa": "ˈzeːən"
+    },
+    {
+      "type": "O",
+      "word": "boot",
+      "info": "boat",
+      "ipa": "boːt"
+    },
+    {
+      "type": "Ü",
+      "word": "früh",
+      "info": "early",
+      "ipa": "fryː"
+    },
+    {
+      "type": "Ö",
+      "word": "schön",
+      "info": "beautiful",
+      "ipa": "ʃøːn"
+    },
+    {
+      "type": "O",
+      "word": "offen",
+      "info": "open",
+      "ipa": "ˈɔfən"
+    },
+    {
+      "type": "Ü",
+      "word": "kühl",
+      "info": "cool",
+      "ipa": "kʏːl"
+    },
+    {
+      "type": "Ö",
+      "word": "mögen",
+      "info": "to like",
+      "ipa": "ˈmøːɡn̩"
+    },
+    {
+      "type": "E",
+      "word": "der",
+      "info": "the (masc.)",
+      "ipa": "dəʁ"
+    },
+    {
+      "type": "A",
+      "word": "mann",
+      "info": "man",
+      "ipa": "man"
+    },
+    {
+      "type": "AI",
+      "word": "mein",
+      "info": "my",
+      "ipa": "maɪ̯n"
+    },
+    {
+      "type": "EI",
+      "word": "mein",
+      "info": "my",
+      "ipa": "maɪ̯n"
+    },
+    {
+      "type": "AU",
+      "word": "haus",
+      "info": "house",
+      "ipa": "haʊ̯s"
+    },
+    {
+      "type": "EU",
+      "word": "neun",
+      "info": "nine",
+      "ipa": "nɔɪ̯n"
+    },
+    {
+      "type": "ER",
+      "word": "lehrer",
+      "info": "teacher",
+      "ipa": "ˈleːʁɐ"
+    },
+    {
+      "type": "EN",
+      "word": "machen",
+      "info": "to do",
+      "ipa": "ˈmaːxən"
+    },
+    {
+      "type": "IE",
+      "word": "Bier",
+      "info": "beer",
+      "ipa": "biːɐ"
+    },
+    {
+      "type": "ÄU",
+      "word": "bäume",
+      "info": "trees",
+      "ipa": "ˈbɔʏmə"
+    },
+    {
+      "type": "I",
+      "word": "mit",
+      "info": "with",
+      "ipa": "mɪt"
+    },
+    {
+      "type": "E",
+      "word": "besser",
+      "info": "better",
+      "ipa": "ˈbɛsɐ"
+    },
+    {
+      "type": "U",
+      "word": "hund",
+      "info": "dog",
+      "ipa": "hʊnt"
+    },
+    {
+      "type": "U",
+      "word": "stuhl",
+      "info": "chair",
+      "ipa": "ʃtuːl"
+    },
+    {
+      "type": "I",
+      "word": "bitte",
+      "info": "please",
+      "ipa": "ˈbɪtə"
+    },
+    {
+      "type": "A",
+      "word": "ab",
+      "info": "off",
+      "ipa": "ap"
+    },
+    {
+      "type": "E",
+      "word": "net",
+      "info": "nice",
+      "ipa": "nɛt"
+    },
+    {
+      "type": "O",
+      "word": "sonne",
+      "info": "sun",
+      "ipa": "ˈzɔnə"
+    },
+    {
+      "type": "Ü",
+      "word": "küche",
+      "info": "kitchen",
+      "ipa": "ˈkʏçə"
+    },
+    {
+      "type": "Ö",
+      "word": "grün",
+      "info": "green",
+      "ipa": "ɡʁyːn"
+    },
+    {
+      "type": "O",
+      "word": "toll",
+      "info": "great",
+      "ipa": "tɔl"
+    },
+    {
+      "type": "Ü",
+      "word": "über",
+      "info": "over",
+      "ipa": "ˈyːbɐ"
+    },
+    {
+      "type": "Ö",
+      "word": "köln",
+      "info": "Cologne",
+      "ipa": "kœln"
+    },
+    {
+      "type": "E",
+      "word": "hilfe",
+      "info": "help",
+      "ipa": "ˈhɪlfə"
+    },
+    {
+      "type": "A",
+      "word": "wagen",
+      "info": "car",
+      "ipa": "ˈvaːɡn̩"
+    },
+    {
+      "type": "EI",
+      "word": "stein",
+      "info": "stone",
+      "ipa": "ʃtaɪ̯n"
+    },
+    {
+      "type": "AU",
+      "word": "laut",
+      "info": "loud",
+      "ipa": "laʊ̯t"
+    },
+    {
+      "type": "EU",
+      "word": "neu",
+      "info": "new",
+      "ipa": "nɔɪ̯"
+    },
+    {
+      "type": "ER",
+      "word": "wasser",
+      "info": "water",
+      "ipa": "ˈvasɐ"
+    },
+    {
+      "type": "EN",
+      "word": "reden",
+      "info": "to talk",
+      "ipa": "ˈʁeːdən"
+    },
+    {
+      "type": "IE",
+      "word": "Liebe",
+      "info": "love",
+      "ipa": "ˈliːbə"
+    },
+    {
+      "type": "ÄU",
+      "word": "häuser",
+      "info": "houses",
+      "ipa": "ˈhɔʏzɐ"
+    }
   ],
   "compound": [
     {
       "word": "Runddorf",
       "info": "Round village",
       "pounds": [
-        { "word": "Rund", "info": "round", "ipa": "ʁʊnt" },
-        { "word": "Dorf", "info": "village", "ipa": "dɔʁf" }
+        {
+          "word": "Rund",
+          "info": "round",
+          "ipa": "ʁʊnt"
+        },
+        {
+          "word": "Dorf",
+          "info": "village",
+          "ipa": "dɔʁf"
+        }
       ]
     },
     {
       "word": "Handschuh",
       "info": "Glove",
       "pounds": [
-        { "word": "Hand", "info": "hand", "ipa": "hant" },
-        { "word": "Schuh", "info": "shoe", "ipa": "ʃuː" }
+        {
+          "word": "Hand",
+          "info": "hand",
+          "ipa": "hant"
+        },
+        {
+          "word": "Schuh",
+          "info": "shoe",
+          "ipa": "ʃuː"
+        }
       ]
     },
     {
       "word": "Fernsehen",
       "info": "Television",
       "pounds": [
-        { "word": "Fern", "info": "far", "ipa": "fɛʁn" },
-        { "word": "sehen", "info": "to see", "ipa": "zeːən" }
+        {
+          "word": "Fern",
+          "info": "far",
+          "ipa": "fɛʁn"
+        },
+        {
+          "word": "sehen",
+          "info": "to see",
+          "ipa": "zeːən"
+        }
       ]
     },
     {
       "word": "Staubsauger",
       "info": "Vacuum cleaner",
       "pounds": [
-        { "word": "Staub", "info": "dust", "ipa": "ʃtaʊp" },
-        { "word": "Sauger", "info": "sucker", "ipa": "zaʊɡɐ" }
+        {
+          "word": "Staub",
+          "info": "dust",
+          "ipa": "ʃtaʊp"
+        },
+        {
+          "word": "Sauger",
+          "info": "sucker",
+          "ipa": "zaʊɡɐ"
+        }
       ]
     },
     {
       "word": "Flughafen",
       "info": "Airport",
       "pounds": [
-        { "word": "Flug", "info": "flight", "ipa": "fluːk" },
-        { "word": "Hafen", "info": "harbor", "ipa": "haːfən" }
+        {
+          "word": "Flug",
+          "info": "flight",
+          "ipa": "fluːk"
+        },
+        {
+          "word": "Hafen",
+          "info": "harbor",
+          "ipa": "haːfən"
+        }
       ]
     },
     {
       "word": "Apfelsaft",
       "info": "Apple juice",
       "pounds": [
-        { "word": "Apfel", "info": "apple", "ipa": "apfəl" },
-        { "word": "Saft", "info": "juice", "ipa": "zaft" }
+        {
+          "word": "Apfel",
+          "info": "apple",
+          "ipa": "apfəl"
+        },
+        {
+          "word": "Saft",
+          "info": "juice",
+          "ipa": "zaft"
+        }
       ]
     },
     {
       "word": "Buchstabe",
       "info": "Letter (of the alphabet)",
       "pounds": [
-        { "word": "Buch", "info": "book", "ipa": "bʊx" },
-        { "word": "Stabe", "info": "stick", "ipa": "ʃtabe" }
+        {
+          "word": "Buch",
+          "info": "book",
+          "ipa": "bʊx"
+        },
+        {
+          "word": "Stabe",
+          "info": "stick",
+          "ipa": "ʃtabe"
+        }
       ]
     },
     {
       "word": "Kühlschrank",
       "info": "Refrigerator",
       "pounds": [
-        { "word": "Kühl", "info": "cool", "ipa": "kyl" },
-        { "word": "Schrank", "info": "cabinet", "ipa": "ʃʁaŋk" }
+        {
+          "word": "Kühl",
+          "info": "cool",
+          "ipa": "kyl"
+        },
+        {
+          "word": "Schrank",
+          "info": "cabinet",
+          "ipa": "ʃʁaŋk"
+        }
       ]
     },
     {
       "word": "Zahnarzt",
       "info": "Dentist",
       "pounds": [
-        { "word": "Zahn", "info": "tooth", "ipa": "tsaːn" },
-        { "word": "Arzt", "info": "doctor", "ipa": "aʁt͡st" }
+        {
+          "word": "Zahn",
+          "info": "tooth",
+          "ipa": "tsaːn"
+        },
+        {
+          "word": "Arzt",
+          "info": "doctor",
+          "ipa": "aʁt͡st"
+        }
       ]
     },
     {
       "word": "Wasserkocher",
       "info": "Kettle",
       "pounds": [
-        { "word": "Wasser", "info": "water", "ipa": "vasɐ" },
-        { "word": "Kocher", "info": "boiler", "ipa": "kɔxɐ" }
+        {
+          "word": "Wasser",
+          "info": "water",
+          "ipa": "vasɐ"
+        },
+        {
+          "word": "Kocher",
+          "info": "boiler",
+          "ipa": "kɔxɐ"
+        }
       ]
     },
     {
       "word": "Bleistift",
       "info": "Pencil",
       "pounds": [
-        { "word": "Blei", "info": "lead", "ipa": "blaɪ" },
-        { "word": "Stift", "info": "pen", "ipa": "ʃtɪft" }
+        {
+          "word": "Blei",
+          "info": "lead",
+          "ipa": "blaɪ"
+        },
+        {
+          "word": "Stift",
+          "info": "pen",
+          "ipa": "ʃtɪft"
+        }
       ]
     },
     {
       "word": "Schreibtisch",
       "info": "Desk",
       "pounds": [
-        { "word": "Schreib", "info": "write", "ipa": "ʃʁaɪ̯b" },
-        { "word": "Tisch", "info": "table", "ipa": "tɪʃ" }
+        {
+          "word": "Schreib",
+          "info": "write",
+          "ipa": "ʃʁaɪ̯b"
+        },
+        {
+          "word": "Tisch",
+          "info": "table",
+          "ipa": "tɪʃ"
+        }
       ]
     },
     {
       "word": "Taschentuch",
       "info": "Tissue",
       "pounds": [
-        { "word": "Tasche", "info": "pocket", "ipa": "taʃə" },
-        { "word": "Tuch", "info": "cloth", "ipa": "tuːx" }
+        {
+          "word": "Tasche",
+          "info": "pocket",
+          "ipa": "taʃə"
+        },
+        {
+          "word": "Tuch",
+          "info": "cloth",
+          "ipa": "tuːx"
+        }
       ]
     },
     {
       "word": "Feuerzeug",
       "info": "Lighter",
       "pounds": [
-        { "word": "Feuer", "info": "fire", "ipa": "fɔʏɐ" },
-        { "word": "Zeug", "info": "thing", "ipa": "t͡sɔʏk" }
+        {
+          "word": "Feuer",
+          "info": "fire",
+          "ipa": "fɔʏɐ"
+        },
+        {
+          "word": "Zeug",
+          "info": "thing",
+          "ipa": "t͡sɔʏk"
+        }
       ]
     },
     {
       "word": "Dachfenster",
       "info": "Roof window",
       "pounds": [
-        { "word": "Dach", "info": "roof", "ipa": "dax" },
-        { "word": "Fenster", "info": "window", "ipa": "fɛnstɐ" }
+        {
+          "word": "Dach",
+          "info": "roof",
+          "ipa": "dax"
+        },
+        {
+          "word": "Fenster",
+          "info": "window",
+          "ipa": "fɛnstɐ"
+        }
       ]
     },
     {
       "word": "Lichtschalter",
       "info": "Light switch",
       "pounds": [
-        { "word": "Licht", "info": "light", "ipa": "lɪçt" },
-        { "word": "Schalter", "info": "switch", "ipa": "ʃaltɐ" }
+        {
+          "word": "Licht",
+          "info": "light",
+          "ipa": "lɪçt"
+        },
+        {
+          "word": "Schalter",
+          "info": "switch",
+          "ipa": "ʃaltɐ"
+        }
       ]
     },
     {
       "word": "Autobahn",
       "info": "Motorway",
       "pounds": [
-        { "word": "Auto", "info": "car", "ipa": "aʊ̯to" },
-        { "word": "Bahn", "info": "track", "ipa": "baːn" }
+        {
+          "word": "Auto",
+          "info": "car",
+          "ipa": "aʊ̯to"
+        },
+        {
+          "word": "Bahn",
+          "info": "track",
+          "ipa": "baːn"
+        }
       ]
     },
     {
       "word": "Handy",
       "info": "Mobile phone",
       "pounds": [
-        { "word": "Hand", "info": "hand", "ipa": "hant" },
-        { "word": "Y", "info": "phone", "ipa": "iː" }
+        {
+          "word": "Hand",
+          "info": "hand",
+          "ipa": "hant"
+        },
+        {
+          "word": "Y",
+          "info": "phone",
+          "ipa": "iː"
+        }
       ]
     },
     {
       "word": "Stuhlbein",
       "info": "Chair leg",
       "pounds": [
-        { "word": "Stuhl", "info": "chair", "ipa": "ʃtuːl" },
-        { "word": "Bein", "info": "leg", "ipa": "baɪn" }
+        {
+          "word": "Stuhl",
+          "info": "chair",
+          "ipa": "ʃtuːl"
+        },
+        {
+          "word": "Bein",
+          "info": "leg",
+          "ipa": "baɪn"
+        }
       ]
     },
     {
       "word": "Fahrrad",
       "info": "Bicycle",
       "pounds": [
-        { "word": "Fahr", "info": "ride", "ipa": "faːɐ̯" },
-        { "word": "Rad", "info": "wheel", "ipa": "ʁaːt" }
+        {
+          "word": "Fahr",
+          "info": "ride",
+          "ipa": "faːɐ̯"
+        },
+        {
+          "word": "Rad",
+          "info": "wheel",
+          "ipa": "ʁaːt"
+        }
       ]
     },
     {
       "word": "Schlafzimmer",
       "info": "Bedroom",
       "pounds": [
-        { "word": "Schlaf", "info": "sleep", "ipa": "ʃlaːf" },
-        { "word": "Zimmer", "info": "room", "ipa": "tsɪmɐ" }
+        {
+          "word": "Schlaf",
+          "info": "sleep",
+          "ipa": "ʃlaːf"
+        },
+        {
+          "word": "Zimmer",
+          "info": "room",
+          "ipa": "tsɪmɐ"
+        }
       ]
     },
     {
       "word": "Taschenlampe",
       "info": "Flashlight",
       "pounds": [
-        { "word": "Tasche", "info": "pocket", "ipa": "taʃə" },
-        { "word": "Lampe", "info": "lamp", "ipa": "lampə" }
+        {
+          "word": "Tasche",
+          "info": "pocket",
+          "ipa": "taʃə"
+        },
+        {
+          "word": "Lampe",
+          "info": "lamp",
+          "ipa": "lampə"
+        }
       ]
     },
     {
       "word": "Winterjacke",
       "info": "Winter jacket",
       "pounds": [
-        { "word": "Winter", "info": "winter", "ipa": "vɪntɐ" },
-        { "word": "Jacke", "info": "jacket", "ipa": "jakə" }
+        {
+          "word": "Winter",
+          "info": "winter",
+          "ipa": "vɪntɐ"
+        },
+        {
+          "word": "Jacke",
+          "info": "jacket",
+          "ipa": "jakə"
+        }
       ]
     },
     {
       "word": "Taschenmesser",
       "info": "Pocket knife",
       "pounds": [
-        { "word": "Tasche", "info": "pocket", "ipa": "taʃə" },
-        { "word": "Messer", "info": "knife", "ipa": "mɛsɐ" }
+        {
+          "word": "Tasche",
+          "info": "pocket",
+          "ipa": "taʃə"
+        },
+        {
+          "word": "Messer",
+          "info": "knife",
+          "ipa": "mɛsɐ"
+        }
       ]
     },
     {
       "word": "Fahrkarte",
       "info": "Ticket",
       "pounds": [
-        { "word": "Fahr", "info": "ride", "ipa": "faːɐ̯" },
-        { "word": "Karte", "info": "card", "ipa": "kaʁtə" }
+        {
+          "word": "Fahr",
+          "info": "ride",
+          "ipa": "faːɐ̯"
+        },
+        {
+          "word": "Karte",
+          "info": "card",
+          "ipa": "kaʁtə"
+        }
       ]
     },
     {
       "word": "Kaffeetasse",
       "info": "Coffee cup",
       "pounds": [
-        { "word": "Kaffee", "info": "coffee", "ipa": "kaːfeː" },
-        { "word": "Tasse", "info": "cup", "ipa": "tasə" }
+        {
+          "word": "Kaffee",
+          "info": "coffee",
+          "ipa": "kaːfeː"
+        },
+        {
+          "word": "Tasse",
+          "info": "cup",
+          "ipa": "tasə"
+        }
       ]
     },
     {
       "word": "Zeltplatz",
       "info": "Campsite",
       "pounds": [
-        { "word": "Zelt", "info": "tent", "ipa": "tsɛlt" },
-        { "word": "Platz", "info": "place", "ipa": "plats" }
+        {
+          "word": "Zelt",
+          "info": "tent",
+          "ipa": "tsɛlt"
+        },
+        {
+          "word": "Platz",
+          "info": "place",
+          "ipa": "plats"
+        }
       ]
     },
     {
       "word": "Glühbirne",
       "info": "Light bulb",
       "pounds": [
-        { "word": "Glüh", "info": "glow", "ipa": "ɡlʏː" },
-        { "word": "Birne", "info": "bulb", "ipa": "bɪʁnə" }
+        {
+          "word": "Glüh",
+          "info": "glow",
+          "ipa": "ɡlʏː"
+        },
+        {
+          "word": "Birne",
+          "info": "bulb",
+          "ipa": "bɪʁnə"
+        }
       ]
     },
     {
       "word": "Löffelstiel",
       "info": "Spoon handle",
       "pounds": [
-        { "word": "Löffel", "info": "spoon", "ipa": "lœfəl" },
-        { "word": "Stiel", "info": "handle", "ipa": "ʃtiːl" }
+        {
+          "word": "Löffel",
+          "info": "spoon",
+          "ipa": "lœfəl"
+        },
+        {
+          "word": "Stiel",
+          "info": "handle",
+          "ipa": "ʃtiːl"
+        }
       ]
     },
     {
       "word": "Kühlschranktür",
       "info": "Refrigerator door",
       "pounds": [
-        { "word": "Kühlschrank", "info": "refrigerator", "ipa": "kylʃʁaŋk" },
-        { "word": "Tür", "info": "door", "ipa": "tyːʁ" }
+        {
+          "word": "Kühlschrank",
+          "info": "refrigerator",
+          "ipa": "kylʃʁaŋk"
+        },
+        {
+          "word": "Tür",
+          "info": "door",
+          "ipa": "tyːʁ"
+        }
       ]
     },
     {
       "word": "Lebensmittel",
       "info": "Groceries",
       "pounds": [
-        { "word": "Leben", "info": "life", "ipa": "leːbn̩" },
-        { "word": "Mittel", "info": "means", "ipa": "mɪtəl" }
+        {
+          "word": "Leben",
+          "info": "life",
+          "ipa": "leːbn̩"
+        },
+        {
+          "word": "Mittel",
+          "info": "means",
+          "ipa": "mɪtəl"
+        }
       ]
     },
     {
       "word": "Windmühle",
       "info": "Windmill",
       "pounds": [
-        { "word": "Wind", "info": "wind", "ipa": "vɪnt" },
-        { "word": "Mühle", "info": "mill", "ipa": "myːlə" }
+        {
+          "word": "Wind",
+          "info": "wind",
+          "ipa": "vɪnt"
+        },
+        {
+          "word": "Mühle",
+          "info": "mill",
+          "ipa": "myːlə"
+        }
       ]
     },
     {
       "word": "Autoreifen",
       "info": "Car tire",
       "pounds": [
-        { "word": "Auto", "info": "car", "ipa": "aʊ̯to" },
-        { "word": "Reifen", "info": "tire", "ipa": "ʁaɪ̯fən" }
+        {
+          "word": "Auto",
+          "info": "car",
+          "ipa": "aʊ̯to"
+        },
+        {
+          "word": "Reifen",
+          "info": "tire",
+          "ipa": "ʁaɪ̯fən"
+        }
       ]
     },
     {
       "word": "Lautsprecher",
       "info": "Loudspeaker",
       "pounds": [
-        { "word": "Laut", "info": "loud", "ipa": "laʊt" },
-        { "word": "Sprecher", "info": "speaker", "ipa": "ʃpʁɛçɐ" }
+        {
+          "word": "Laut",
+          "info": "loud",
+          "ipa": "laʊt"
+        },
+        {
+          "word": "Sprecher",
+          "info": "speaker",
+          "ipa": "ʃpʁɛçɐ"
+        }
       ]
     },
     {
       "word": "Brennnessel",
       "info": "Nettle",
       "pounds": [
-        { "word": "Brenn", "info": "burn", "ipa": "bʁɛn" },
-        { "word": "Nessel", "info": "nettle", "ipa": "nɛsəl" }
+        {
+          "word": "Brenn",
+          "info": "burn",
+          "ipa": "bʁɛn"
+        },
+        {
+          "word": "Nessel",
+          "info": "nettle",
+          "ipa": "nɛsəl"
+        }
       ]
     },
     {
       "word": "Handtuch",
       "info": "Towel",
       "pounds": [
-        { "word": "Hand", "info": "hand", "ipa": "hant" },
-        { "word": "Tuch", "info": "cloth", "ipa": "tuːx" }
+        {
+          "word": "Hand",
+          "info": "hand",
+          "ipa": "hant"
+        },
+        {
+          "word": "Tuch",
+          "info": "cloth",
+          "ipa": "tuːx"
+        }
       ]
     },
     {
       "word": "Schneemann",
       "info": "Snowman",
       "pounds": [
-        { "word": "Schnee", "info": "snow", "ipa": "ʃneː" },
-        { "word": "Mann", "info": "man", "ipa": "man" }
+        {
+          "word": "Schnee",
+          "info": "snow",
+          "ipa": "ʃneː"
+        },
+        {
+          "word": "Mann",
+          "info": "man",
+          "ipa": "man"
+        }
       ]
     },
     {
       "word": "Kreditkarte",
       "info": "Credit card",
       "pounds": [
-        { "word": "Kredit", "info": "credit", "ipa": "kʁɛdɪt" },
-        { "word": "Karte", "info": "card", "ipa": "kaʁtə" }
+        {
+          "word": "Kredit",
+          "info": "credit",
+          "ipa": "kʁɛdɪt"
+        },
+        {
+          "word": "Karte",
+          "info": "card",
+          "ipa": "kaʁtə"
+        }
       ]
     },
     {
       "word": "Zuckerguss",
       "info": "Icing",
       "pounds": [
-        { "word": "Zucker", "info": "sugar", "ipa": "tsʊkɐ" },
-        { "word": "Guss", "info": "icing", "ipa": "ɡʊs" }
+        {
+          "word": "Zucker",
+          "info": "sugar",
+          "ipa": "tsʊkɐ"
+        },
+        {
+          "word": "Guss",
+          "info": "icing",
+          "ipa": "ɡʊs"
+        }
       ]
     },
     {
       "word": "Regenbogen",
       "info": "Rainbow",
       "pounds": [
-        { "word": "Regen", "info": "rain", "ipa": "ʁeːɡn̩" },
-        { "word": "Bogen", "info": "arc", "ipa": "boːɡn̩" }
+        {
+          "word": "Regen",
+          "info": "rain",
+          "ipa": "ʁeːɡn̩"
+        },
+        {
+          "word": "Bogen",
+          "info": "arc",
+          "ipa": "boːɡn̩"
+        }
       ]
     },
     {
       "word": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz",
       "info": "Beef labeling and monitoring task delegation law",
       "pounds": [
-        { "word": "Rindfleisch", "info": "beef", "ipa": "ʁɪntflaɪ̯ʃ" },
-        { "word": "Etikettierung", "info": "labeling", "ipa": "ɛtɪkɛtiˈʁʊŋ" },
-        { "word": "Überwachung", "info": "monitoring", "ipa": "ˈʏːbɐˌvaχʊŋ" },
-        { "word": "Aufgabe", "info": "task", "ipa": "aʊ̯fˌɡaːbə" },
-        { "word": "Übertragung", "info": "delegation", "ipa": "ʏːbɐˈtʁaːɡʊŋ" },
-        { "word": "Gesetz", "info": "law", "ipa": "ɡəˈzɛt͡s" }
+        {
+          "word": "Rindfleisch",
+          "info": "beef",
+          "ipa": "ʁɪntflaɪ̯ʃ"
+        },
+        {
+          "word": "Etikettierung",
+          "info": "labeling",
+          "ipa": "ɛtɪkɛtiˈʁʊŋ"
+        },
+        {
+          "word": "Überwachung",
+          "info": "monitoring",
+          "ipa": "ˈʏːbɐˌvaχʊŋ"
+        },
+        {
+          "word": "Aufgabe",
+          "info": "task",
+          "ipa": "aʊ̯fˌɡaːbə"
+        },
+        {
+          "word": "Übertragung",
+          "info": "delegation",
+          "ipa": "ʏːbɐˈtʁaːɡʊŋ"
+        },
+        {
+          "word": "Gesetz",
+          "info": "law",
+          "ipa": "ɡəˈzɛt͡s"
+        }
       ]
     },
     {
       "word": "Donaudampfschifffahrtsgesellschaftskapitän",
       "info": "Danube steamship company captain",
       "pounds": [
-        { "word": "Donau", "info": "Danube", "ipa": "ˈdoːnaʊ" },
-        { "word": "Dampfschiff", "info": "steamship", "ipa": "ˈdampfˌʃɪf" },
-        { "word": "Fahrt", "info": "voyage", "ipa": "faːʁt" },
-        { "word": "Gesellschaft", "info": "company", "ipa": "ɡəˈzɛlʃaft" },
-        { "word": "Kapitän", "info": "captain", "ipa": "kaˈpɪtɛːn" }
+        {
+          "word": "Donau",
+          "info": "Danube",
+          "ipa": "ˈdoːnaʊ"
+        },
+        {
+          "word": "Dampfschiff",
+          "info": "steamship",
+          "ipa": "ˈdampfˌʃɪf"
+        },
+        {
+          "word": "Fahrt",
+          "info": "voyage",
+          "ipa": "faːʁt"
+        },
+        {
+          "word": "Gesellschaft",
+          "info": "company",
+          "ipa": "ɡəˈzɛlʃaft"
+        },
+        {
+          "word": "Kapitän",
+          "info": "captain",
+          "ipa": "kaˈpɪtɛːn"
+        }
       ]
     },
     {
@@ -660,8 +1502,16 @@
           "info": "motor vehicle",
           "ipa": "ˈkʁaftˌfaːʁt͡sʏk"
         },
-        { "word": "Haftpflicht", "info": "liability", "ipa": "ˈhaftˌflɪçt" },
-        { "word": "Versicherung", "info": "insurance", "ipa": "fɛʁˈzɪçəʁʊŋ" }
+        {
+          "word": "Haftpflicht",
+          "info": "liability",
+          "ipa": "ˈhaftˌflɪçt"
+        },
+        {
+          "word": "Versicherung",
+          "info": "insurance",
+          "ipa": "fɛʁˈzɪçəʁʊŋ"
+        }
       ]
     },
     {
@@ -673,8 +1523,16 @@
           "info": "legal protection",
           "ipa": "ˈʁɛçtˌʃʊts"
         },
-        { "word": "Versicherung", "info": "insurance", "ipa": "fɛʁˈzɪçəʁʊŋ" },
-        { "word": "Gesellschaften", "info": "companies", "ipa": "ɡəˈzɛlʃaftən" }
+        {
+          "word": "Versicherung",
+          "info": "insurance",
+          "ipa": "fɛʁˈzɪçəʁʊŋ"
+        },
+        {
+          "word": "Gesellschaften",
+          "info": "companies",
+          "ipa": "ɡəˈzɛlʃaftən"
+        }
       ]
     },
     {
@@ -686,30 +1544,54 @@
           "info": "independence",
           "ipa": "ʊnʔaˈhɛŋɪkˌkaɪ̯t"
         },
-        { "word": "Erklärung", "info": "declaration", "ipa": "ɛɐ̯ˈklɛːʁʊŋ" }
+        {
+          "word": "Erklärung",
+          "info": "declaration",
+          "ipa": "ɛɐ̯ˈklɛːʁʊŋ"
+        }
       ]
     },
     {
       "word": "Abschleppwagen",
       "info": "Tow truck",
       "pounds": [
-        { "word": "Abschlepp", "info": "towing", "ipa": "ˈapˌʃlɛp" },
-        { "word": "Wagen", "info": "vehicle", "ipa": "ˈvaːɡn̩" }
+        {
+          "word": "Abschlepp",
+          "info": "towing",
+          "ipa": "ˈapˌʃlɛp"
+        },
+        {
+          "word": "Wagen",
+          "info": "vehicle",
+          "ipa": "ˈvaːɡn̩"
+        }
       ]
     },
     {
       "word": "Buchstabensuppe",
       "info": "Alphabet soup",
       "pounds": [
-        { "word": "Buchstabe", "info": "letter", "ipa": "ˈbʊxˌʃtaːbə" },
-        { "word": "Suppe", "info": "soup", "ipa": "ˈzʊpə" }
+        {
+          "word": "Buchstabe",
+          "info": "letter",
+          "ipa": "ˈbʊxˌʃtaːbə"
+        },
+        {
+          "word": "Suppe",
+          "info": "soup",
+          "ipa": "ˈzʊpə"
+        }
       ]
     },
     {
       "word": "Lebensmittelunverträglichkeiten",
       "info": "Food intolerances",
       "pounds": [
-        { "word": "Lebensmittel", "info": "food", "ipa": "ˈleːbənˌmɪtl̩" },
+        {
+          "word": "Lebensmittel",
+          "info": "food",
+          "ipa": "ˈleːbənˌmɪtl̩"
+        },
         {
           "word": "Unverträglichkeit",
           "info": "intolerance",
@@ -721,22 +1603,42 @@
       "word": "Zwischenablage",
       "info": "Clipboard",
       "pounds": [
-        { "word": "Zwischen", "info": "between", "ipa": "ˈtsvɪʃən" },
-        { "word": "Ablage", "info": "tray", "ipa": "ˈaplaːɡə" }
+        {
+          "word": "Zwischen",
+          "info": "between",
+          "ipa": "ˈtsvɪʃən"
+        },
+        {
+          "word": "Ablage",
+          "info": "tray",
+          "ipa": "ˈaplaːɡə"
+        }
       ]
     },
     {
       "word": "Verkehrsinfrastrukturfinanzierungsgesellschaft",
       "info": "Transportation infrastructure financing company",
       "pounds": [
-        { "word": "Verkehr", "info": "traffic", "ipa": "fɛʁˈkeːɐ̯" },
+        {
+          "word": "Verkehr",
+          "info": "traffic",
+          "ipa": "fɛʁˈkeːɐ̯"
+        },
         {
           "word": "Infrastruktur",
           "info": "infrastructure",
           "ipa": "ɪnˈfʁaːstʊʁʊktʊʁ"
         },
-        { "word": "Finanzierung", "info": "financing", "ipa": "fɪnanˈtsɪʁʊŋ" },
-        { "word": "Gesellschaft", "info": "company", "ipa": "ɡəˈzɛlʃaft" }
+        {
+          "word": "Finanzierung",
+          "info": "financing",
+          "ipa": "fɪnanˈtsɪʁʊŋ"
+        },
+        {
+          "word": "Gesellschaft",
+          "info": "company",
+          "ipa": "ɡəˈzɛlʃaft"
+        }
       ]
     }
   ]
