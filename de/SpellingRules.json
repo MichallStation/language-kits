@@ -1,35 +1,137 @@
 {
   "consonants": [
-    { "type": "D", "word": "Hund", "info": "dog", "ipa": "hʊnt" },
-    { "type": "Z", "word": "Herz", "info": "heart", "ipa": "hɛrts" },
-    { "type": "B", "word": "Raub", "info": "robbery", "ipa": "raʊp" },
-    { "type": "V", "word": "Brav", "info": "well-behaved", "ipa": "bʁaːf" },
-    { "type": "G", "word": "Tag", "info": "day", "ipa": "tak" },
-    { "type": "D", "word": "Kind", "info": "child", "ipa": "kɪnt" },
-    { "type": "Z", "word": "Satz", "info": "sentence", "ipa": "zats" },
-    { "type": "B", "word": "Grab", "info": "grave", "ipa": "ɡraːp" },
-    { "type": "V", "word": "Kav", "info": "archaic term", "ipa": "kaf" },
-    { "type": "G", "word": "Weg", "info": "way", "ipa": "veːk" },
-    { "type": "B", "word": "Banane", "info": "banana", "ipa": "baˈnaːnə" },
-    { "type": "ß", "word": "Straße", "info": "street", "ipa": "ˈʃtʁaːsə" },
-    { "type": "D", "word": "Doktor", "info": "doctor", "ipa": "ˈdɔktɔʁ" },
+    {
+      "type": "D",
+      "word": "Hund",
+      "info": "dog",
+      "ipa": "hʊnt",
+      "note": "D is the most popular spelling for 'd,' while at the end of a word, it is spelled as 't.'"
+    },
+    {
+      "type": "Z",
+      "word": "Herz",
+      "info": "heart",
+      "ipa": "hɛrts"
+    },
+    {
+      "type": "B",
+      "word": "Raub",
+      "info": "robbery",
+      "ipa": "raʊp",
+      "note": "B is the most popular spelling for 'b,' while in specific cases or at the end of a word, it may be spelled as 'p.'"
+    },
+    {
+      "type": "V",
+      "word": "Brav",
+      "info": "well-behaved",
+      "ipa": "bʁaːf",
+      "note": "V is the most popular spelling for 'f,' while in specific cases, it may be spelled as 'v.'"
+    },
+    {
+      "type": "G",
+      "word": "Tag",
+      "info": "day",
+      "ipa": "tak",
+      "note": "G is the most popular spelling for 'ɡ,' while in specific cases or at the end of a word, it may be spelled as 'k.'"
+    },
+    {
+      "type": "B",
+      "word": "Banane",
+      "info": "banana",
+      "ipa": "baˈnaːnə",
+      "note": "B is the most popular spelling for 'b,' while in specific cases or at the end of a word, it may be spelled as 'p.'"
+    },
+    {
+      "type": "C",
+      "word": "Café",
+      "info": "coffee",
+      "ipa": "kaˈfeː",
+      "note": "C is the most popular spelling for 'k,' while specific may spell it as 'ts.'"
+    },
+    {
+      "type": "D",
+      "word": "Doktor",
+      "info": "doctor",
+      "ipa": "ˈdɔktɔʁ",
+      "note": "D is the most popular spelling for 'd,' while at the end of a word, it is spelled as 't.'"
+    },
     { "type": "F", "word": "Fisch", "info": "fish", "ipa": "fɪʃ" },
-    { "type": "G", "word": "Garten", "info": "garden", "ipa": "ˈɡaːʁtn̩" },
+    {
+      "type": "G",
+      "word": "Garten",
+      "info": "garden",
+      "ipa": "ˈɡaːʁtn̩",
+      "note": "G is the most popular spelling for 'ɡ,' while in specific cases or at the end of a word, it may be spelled as 'k.'"
+    },
     { "type": "H", "word": "Haus", "info": "house", "ipa": "haʊs" },
     { "type": "K", "word": "Katze", "info": "cat", "ipa": "ˈkatsə" },
+    { "type": "L", "word": "Leben", "info": "life", "ipa": "ˈleːbən" },
     { "type": "M", "word": "Mutter", "info": "mother", "ipa": "ˈmʊtɐ" },
     { "type": "N", "word": "Nacht", "info": "night", "ipa": "naχt" },
-    { "type": "P", "word": "Pferd", "info": "horse", "ipa": "pfɛʁt" },
+    { "type": "QU", "word": "Qualle", "info": "jellyfish", "ipa": "ˈkvalə" },
     { "type": "S", "word": "Sonne", "info": "sun", "ipa": "ˈzɔnə" },
+    { "type": "ß", "word": "Straße", "info": "street", "ipa": "ˈʃtʁaːsə" },
     { "type": "T", "word": "Tisch", "info": "table", "ipa": "tɪʃ" },
-    { "type": "V", "word": "Vater", "info": "father", "ipa": "ˈfaːtɐ" },
+    {
+      "type": "V",
+      "word": "Vater",
+      "info": "father",
+      "ipa": "ˈfaːtɐ",
+      "note": "V is the most popular spelling for 'f,' while specific may spell it as 'v.'"
+    },
     { "type": "Z", "word": "Zug", "info": "train", "ipa": "tsuːk" },
-    { "type": "L", "word": "Lampe", "info": "lamp", "ipa": "ˈlampə" },
-    { "type": "J", "word": "Jahr", "info": "year", "ipa": "jaːʁ" },
+    { "type": "L", "word": "Löffel", "info": "spoon", "ipa": "ˈlœfəl" },
+    {
+      "type": "J",
+      "word": "Jahr",
+      "info": "year",
+      "ipa": "jaːʁ",
+      "note": "J is the most popular spelling for 'j,' while specific may spell it as 'ʒ.'"
+    },
     { "type": "NG", "word": "Singen", "info": "sing", "ipa": "ˈzɪŋən" },
     { "type": "SCH", "word": "Schule", "info": "school", "ipa": "ˈʃuːlə" },
-    { "type": "R", "word": "Rot", "info": "red", "ipa": "ʁoːt" },
-    { "type": "CH", "word": "ich", "info": "I", "ipa": "ɪç" },
+    {
+      "type": "R",
+      "word": "Rot",
+      "info": "red",
+      "ipa": "ʁoːt",
+      "note": "R is the most popular spelling for 'ʁ,' while in specific cases or at the end of a word, it may be spelled as 'r.'"
+    },
+    {
+      "type": "CH",
+      "word": "ich",
+      "info": "I",
+      "ipa": "ɪç",
+      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+    },
+    {
+      "type": "CH",
+      "word": "nicht",
+      "info": "not",
+      "ipa": "nɪçt",
+      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+    },
+    {
+      "type": "CH",
+      "word": "sich",
+      "info": "oneself",
+      "ipa": "zɪç",
+      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+    },
+    {
+      "type": "CH",
+      "word": "möchte",
+      "info": "would like",
+      "ipa": "ˈmøːçtə",
+      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+    },
+    {
+      "type": "CH",
+      "word": "wichtig",
+      "info": "important",
+      "ipa": "ˈvɪçtɪç",
+      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+    },
     { "type": "TSCH", "word": "Tschüss", "info": "bye", "ipa": "tʃʏs" },
     { "type": "PF", "word": "Pfeffer", "info": "pepper", "ipa": "ˈpfɛfɐ" },
     { "type": "TH", "word": "Thema", "info": "theme", "ipa": "ˈteːma" },
@@ -40,36 +142,106 @@
       "type": "B",
       "word": "abholen",
       "info": "to pick up",
-      "ipa": "ˈapˌhoːlən"
+      "ipa": "ˈapˌhoːlən",
+      "note": "B is the most popular spelling for 'b,' while in specific cases or at the end of a word, it may be spelled as 'p.'"
     },
-    { "type": "ß", "word": "Fuß", "info": "foot", "ipa": "fʊs" },
-    { "type": "D", "word": "Dach", "info": "roof", "ipa": "daχ" },
+    {
+      "type": "C",
+      "word": "Celsius",
+      "info": "Celsius",
+      "ipa": "ˈtsɛlzi̯ʊs",
+      "note": "C is the most popular spelling for 'k,' while specific may spell it as 'ts.'"
+    },
     { "type": "F", "word": "Fahrrad", "info": "bicycle", "ipa": "ˈfaːʁat" },
-    { "type": "G", "word": "Glas", "info": "glass", "ipa": "ɡlɑs" },
     { "type": "H", "word": "Himmel", "info": "sky", "ipa": "ˈhɪməl" },
     { "type": "K", "word": "König", "info": "king", "ipa": "ˈkøːnɪɡ" },
     { "type": "M", "word": "Mensch", "info": "human", "ipa": "mɛnʃ" },
     { "type": "N", "word": "Nase", "info": "nose", "ipa": "ˈnaːzə" },
     { "type": "P", "word": "Puppe", "info": "doll", "ipa": "ˈpʊpə" },
-    { "type": "S", "word": "Stern", "info": "star", "ipa": "ʃtɛʁn" },
+    { "type": "ST", "word": "Stern", "info": "star", "ipa": "ʃtɛʁn" },
+    { "type": "ß", "word": "Maß", "info": "measure", "ipa": "maːs" },
     { "type": "T", "word": "Tier", "info": "animal", "ipa": "tiːɐ" },
-    { "type": "V", "word": "Vogel", "info": "bird", "ipa": "ˈfoːɡəl" },
-    { "type": "Z", "word": "Zahn", "info": "tooth", "ipa": "tsaːn" },
-    { "type": "L", "word": "Löffel", "info": "spoon", "ipa": "ˈlœfəl" },
-    { "type": "J", "word": "Junge", "info": "boy", "ipa": "ˈjʊŋə" },
+    {
+      "type": "V",
+      "word": "Vase",
+      "info": "vase",
+      "ipa": "ˈvaːzə",
+      "note": "V is the most popular spelling for 'f,' while specific may spell it as 'v.'"
+    },
+    {
+      "type": "J",
+      "word": "Journal",
+      "info": "journal",
+      "ipa": "ʒʊʁˈnaːl",
+      "note": "J is the most popular spelling for 'j,' while specific may spell it as 'ʒ.'"
+    },
     { "type": "NG", "word": "King", "info": "king", "ipa": "kɪŋ" },
     { "type": "SCH", "word": "Schwimmen", "info": "swim", "ipa": "ˈʃvɪmən" },
-    { "type": "R", "word": "richtig", "info": "correct", "ipa": "ˈrɪçtɪç" },
-    { "type": "CH", "word": "Chili", "info": "chili", "ipa": "ˈkɪli" },
+    {
+      "type": "R",
+      "word": "richtig",
+      "info": "correct",
+      "ipa": "ˈrɪçtɪç",
+      "note": "R is the most popular spelling for 'ʁ,' while in specific cases or at the end of a word, it may be spelled as 'r.'"
+    },
+    {
+      "type": "CH",
+      "word": "Buch",
+      "info": "book",
+      "ipa": "buːχ",
+      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+    },
+    {
+      "type": "CH",
+      "word": "hoch",
+      "info": "high",
+      "ipa": "hoːχ",
+      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+    },
+    {
+      "type": "CH",
+      "word": "auch",
+      "info": "also",
+      "ipa": "aʊχ",
+      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+    },
+    {
+      "type": "CH",
+      "word": "Chili",
+      "info": "chili",
+      "ipa": "ˈkɪli",
+      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+    },
+    {
+      "type": "CH",
+      "word": "Chanson",
+      "info": "song",
+      "ipa": "ʃɑ̃ˈzɔ̃",
+      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+    },
     { "type": "TSCH", "word": "Tschick", "info": "cigarette", "ipa": "tʃɪk" },
     { "type": "PF", "word": "Pferd", "info": "horse", "ipa": "pfɛʁt" },
     { "type": "TH", "word": "Thron", "info": "throne", "ipa": "tʁoːn" },
     { "type": "X", "word": "Taxi", "info": "taxi", "ipa": "ˈtaksi" },
     { "type": "W", "word": "Wort", "info": "word", "ipa": "vɔʁt" },
     { "type": "Y", "word": "Yacht", "info": "yacht", "ipa": "jaχt" },
-    { "type": "ß", "word": "Maß", "info": "measure", "ipa": "maːs" },
-    { "type": "V", "word": "Vater", "info": "father", "ipa": "ˈfaːtɐ" },
-    { "type": "V", "word": "Vase", "info": "vase", "ipa": "ˈvaːzə" }
+    { "type": "BL", "word": "Blume", "info": "flower", "ipa": "ˈbluːmə" },
+    { "type": "BR", "word": "Brücke", "info": "bridge", "ipa": "ˈbrʏkə" },
+    { "type": "CL", "word": "Clown", "info": "clown", "ipa": "klaʊn" },
+    { "type": "DR", "word": "drucken", "info": "to print", "ipa": "ˈdʁʊkən" },
+    { "type": "FL", "word": "fliegen", "info": "to fly", "ipa": "ˈfliːɡən" },
+    { "type": "FR", "word": "Freund", "info": "friend", "ipa": "fʁɔʏnt" },
+    { "type": "GL", "word": "Glück", "info": "luck", "ipa": "ɡlʏk" },
+    { "type": "GR", "word": "Gruppe", "info": "group", "ipa": "ˈɡʁʊpə" },
+    { "type": "KL", "word": "Klein", "info": "small", "ipa": "klaɪn" },
+    { "type": "KR", "word": "Kraft", "info": "strength", "ipa": "kʁaft" },
+    { "type": "PL", "word": "Platz", "info": "place", "ipa": "plats" },
+    { "type": "PR", "word": "Preis", "info": "price", "ipa": "pʁaɪs" },
+    { "type": "SH", "word": "schön", "info": "beautiful", "ipa": "ʃøːn" },
+    { "type": "SP", "word": "Spiel", "info": "game", "ipa": "ʃpiːl" },
+    { "type": "SW", "word": "schwarz", "info": "black", "ipa": "ʃvaʁt͡s" },
+    { "type": "TR", "word": "Traum", "info": "dream", "ipa": "tʁaʊm" },
+    { "type": "ZW", "word": "zwei", "info": "two", "ipa": "tsvaɪ" }
   ],
   "vowels": [
     { "type": "I", "word": "bitte", "info": "please", "ipa": "ˈbɪtə" },
