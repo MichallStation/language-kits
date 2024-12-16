@@ -522,39 +522,21 @@
     },
     {
       "type": "E",
+      "word": "besser",
+      "info": "better",
+      "ipa": "ˈbɛsɐ"
+    },
+    {
+      "type": "E",
       "word": "beten",
       "info": "to pray",
       "ipa": "ˈbeːtn̩"
     },
     {
       "type": "U",
-      "word": "buch",
-      "info": "book",
-      "ipa": "buːx"
-    },
-    {
-      "type": "U",
       "word": "gut",
       "info": "good",
       "ipa": "guːt"
-    },
-    {
-      "type": "I",
-      "word": "wie",
-      "info": "how",
-      "ipa": "viː"
-    },
-    {
-      "type": "A",
-      "word": "laden",
-      "info": "to load",
-      "ipa": "ˈlaːdn̩"
-    },
-    {
-      "type": "E",
-      "word": "sehen",
-      "info": "to see",
-      "ipa": "ˈzeːən"
     },
     {
       "type": "O",
@@ -585,12 +567,6 @@
       "word": "kühl",
       "info": "cool",
       "ipa": "kʏːl"
-    },
-    {
-      "type": "Ö",
-      "word": "mögen",
-      "info": "to like",
-      "ipa": "ˈmøːɡn̩"
     },
     {
       "type": "E",
@@ -635,12 +611,6 @@
       "ipa": "ˈleːʁɐ"
     },
     {
-      "type": "EN",
-      "word": "machen",
-      "info": "to do",
-      "ipa": "ˈmaːxən"
-    },
-    {
       "type": "IE",
       "word": "Bier",
       "info": "beer",
@@ -653,34 +623,10 @@
       "ipa": "ˈbɔʏmə"
     },
     {
-      "type": "I",
-      "word": "mit",
-      "info": "with",
-      "ipa": "mɪt"
-    },
-    {
-      "type": "E",
-      "word": "besser",
-      "info": "better",
-      "ipa": "ˈbɛsɐ"
-    },
-    {
       "type": "U",
       "word": "hund",
       "info": "dog",
       "ipa": "hʊnt"
-    },
-    {
-      "type": "U",
-      "word": "stuhl",
-      "info": "chair",
-      "ipa": "ʃtuːl"
-    },
-    {
-      "type": "I",
-      "word": "bitte",
-      "info": "please",
-      "ipa": "ˈbɪtə"
     },
     {
       "type": "A",
@@ -689,100 +635,458 @@
       "ipa": "ap"
     },
     {
-      "type": "E",
-      "word": "net",
-      "info": "nice",
-      "ipa": "nɛt"
-    },
-    {
-      "type": "O",
-      "word": "sonne",
-      "info": "sun",
-      "ipa": "ˈzɔnə"
-    },
-    {
-      "type": "Ü",
-      "word": "küche",
-      "info": "kitchen",
-      "ipa": "ˈkʏçə"
-    },
-    {
-      "type": "Ö",
-      "word": "grün",
-      "info": "green",
-      "ipa": "ɡʁyːn"
-    },
-    {
-      "type": "O",
-      "word": "toll",
-      "info": "great",
-      "ipa": "tɔl"
-    },
-    {
-      "type": "Ü",
-      "word": "über",
-      "info": "over",
-      "ipa": "ˈyːbɐ"
-    },
-    {
       "type": "Ö",
       "word": "köln",
       "info": "Cologne",
       "ipa": "kœln"
     },
     {
-      "type": "E",
-      "word": "hilfe",
-      "info": "help",
-      "ipa": "ˈhɪlfə"
+      "type": "AH",
+      "word": "Fahr",
+      "info": "drive",
+      "ipa": "faːʁ",
+      "note": "Keep in mind that words with 'AH' most commonly have the sound 'aː'. However, there are still other possibilities."
     },
     {
-      "type": "A",
-      "word": "wagen",
-      "info": "car",
-      "ipa": "ˈvaːɡn̩"
+      "type": "AL",
+      "word": "alt",
+      "info": "old",
+      "ipa": "alt",
+      "note": "Keep in mind that words with 'AL' most commonly have the sound 'al'. However, there are still other possibilities."
     },
     {
-      "type": "EI",
-      "word": "stein",
-      "info": "stone",
-      "ipa": "ʃtaɪ̯n"
+      "type": "AN",
+      "word": "Hand",
+      "info": "hand",
+      "ipa": "hant",
+      "note": "Keep in mind that words with 'AN' most commonly have the sound 'an'. However, there are still other possibilities."
     },
     {
-      "type": "AU",
-      "word": "laut",
-      "info": "loud",
-      "ipa": "laʊ̯t"
+      "type": "AM",
+      "word": "kamm",
+      "info": "comb",
+      "ipa": "kam",
+      "note": "Keep in mind that words with 'AM' most commonly have the sound 'am'. However, there are still other possibilities."
     },
     {
-      "type": "EU",
-      "word": "neu",
-      "info": "new",
-      "ipa": "nɔɪ̯"
+      "type": "AP",
+      "word": "Apfel",
+      "info": "apple",
+      "ipa": "ˈapfəl",
+      "note": "Keep in mind that words with 'AP' most commonly have the sound 'ap'. However, there are still other possibilities."
     },
     {
-      "type": "ER",
-      "word": "wasser",
-      "info": "water",
-      "ipa": "ˈvasɐ"
+      "type": "AR",
+      "word": "Arbeit",
+      "info": "work",
+      "ipa": "ˈaʁbaɪt",
+      "note": "Keep in mind that words with 'AR' most commonly have the sound 'aʁ'. However, there are still other possibilities."
+    },
+    {
+      "type": "AS",
+      "word": "fast",
+      "info": "fast",
+      "ipa": "fast",
+      "note": "Keep in mind that words with 'AS' most commonly have the sound 'as'. However, there are still other possibilities."
+    },
+    {
+      "type": "AT",
+      "word": "statt",
+      "info": "instead",
+      "ipa": "ʃtat",
+      "note": "Keep in mind that words with 'AT' most commonly have the sound 'at'. However, there are still other possibilities."
+    },
+    {
+      "type": "EH",
+      "word": "gehen",
+      "info": "to go",
+      "ipa": "ˈɡeːən",
+      "note": "Keep in mind that words with 'EH' most commonly have the sound 'eː'. However, there are still other possibilities."
+    },
+    {
+      "type": "EL",
+      "word": "stellen",
+      "info": "to put",
+      "ipa": "ˈʃtɛlən",
+      "note": "Keep in mind that words with 'EL' most commonly have the sound 'ɛl'. However, there are still other possibilities."
     },
     {
       "type": "EN",
-      "word": "reden",
-      "info": "to talk",
-      "ipa": "ˈʁeːdən"
+      "word": "gehen",
+      "info": "to go",
+      "ipa": "ˈɡeːən",
+      "note": "Keep in mind that words with 'EN' most commonly have the sound 'ɛn'. However, there are still other possibilities."
     },
     {
-      "type": "IE",
-      "word": "Liebe",
-      "info": "love",
-      "ipa": "ˈliːbə"
+      "type": "EM",
+      "word": "Klemmen",
+      "info": "clamps",
+      "ipa": "ˈklɛmən",
+      "note": "Keep in mind that words with 'EM' most commonly have the sound 'ɛm'. However, there are still other possibilities."
     },
     {
-      "type": "ÄU",
-      "word": "häuser",
-      "info": "houses",
-      "ipa": "ˈhɔʏzɐ"
+      "type": "EP",
+      "word": "Eppendorf",
+      "info": "place name",
+      "ipa": "ˈɛpənˌdɔʁf",
+      "note": "Keep in mind that words with 'EP' most commonly have the sound 'ep'. However, there are still other possibilities."
+    },
+    {
+      "type": "ER",
+      "word": "Er",
+      "info": "he",
+      "ipa": "ɛʁ",
+      "note": "Keep in mind that words with 'ER' most commonly have the sound 'ɛʁ'. However, there are still other possibilities."
+    },
+    {
+      "type": "ES",
+      "word": "essen",
+      "info": "to eat",
+      "ipa": "ˈɛsən",
+      "note": "Keep in mind that words with 'ES' most commonly have the sound 'ɛs'. However, there are still other possibilities."
+    },
+    {
+      "type": "ET",
+      "word": "Netz",
+      "info": "net",
+      "ipa": "nɛt͡s",
+      "note": "Keep in mind that words with 'ET' most commonly have the sound 'ɛt'. However, there are still other possibilities."
+    },
+    {
+      "type": "IH",
+      "word": "ich",
+      "info": "I",
+      "ipa": "ɪç",
+      "note": "Keep in mind that words with 'IH' most commonly have the sound 'ɪ'. However, there are still other possibilities."
+    },
+    {
+      "type": "IL",
+      "word": "silber",
+      "info": "silver",
+      "ipa": "ˈzɪlbɐ",
+      "note": "Keep in mind that words with 'IL' most commonly have the sound 'ɪl'. However, there are still other possibilities."
+    },
+    {
+      "type": "IN",
+      "word": "finden",
+      "info": "to find",
+      "ipa": "ˈfɪndən",
+      "note": "Keep in mind that words with 'IN' most commonly have the sound 'ɪn'. However, there are still other possibilities."
+    },
+    {
+      "type": "IM",
+      "word": "immer",
+      "info": "always",
+      "ipa": "ˈɪmɐ",
+      "note": "Keep in mind that words with 'IM' most commonly have the sound 'ɪm'. However, there are still other possibilities."
+    },
+    {
+      "type": "IP",
+      "word": "kippen",
+      "info": "to tilt",
+      "ipa": "ˈkɪpən",
+      "note": "Keep in mind that words with 'IP' most commonly have the sound 'ɪp'. However, there are still other possibilities."
+    },
+    {
+      "type": "IR",
+      "word": "irgendwo",
+      "info": "somewhere",
+      "ipa": "ˈɪʁɡənˌvoː",
+      "note": "Keep in mind that words with 'IR' most commonly have the sound 'ɪʁ'. However, there are still other possibilities."
+    },
+    {
+      "type": "IS",
+      "word": "bis",
+      "info": "until",
+      "ipa": "bɪs",
+      "note": "Keep in mind that words with 'IS' most commonly have the sound 'ɪs'. However, there are still other possibilities."
+    },
+    {
+      "type": "IT",
+      "word": "bitte",
+      "info": "please",
+      "ipa": "ˈbɪtə",
+      "note": "Keep in mind that words with 'IT' most commonly have the sound 'ɪt'. However, there are still other possibilities."
+    },
+    {
+      "type": "OH",
+      "word": "Ohr",
+      "info": "ear",
+      "ipa": "oːʁ",
+      "note": "Keep in mind that words with 'OH' most commonly have the sound 'oː'. However, there are still other possibilities."
+    },
+    {
+      "type": "OL",
+      "word": "Moll",
+      "info": "minor",
+      "ipa": "mɔl",
+      "note": "Keep in mind that words with 'OL' most commonly have the sound 'ɔl'. However, there are still other possibilities."
+    },
+    {
+      "type": "ON",
+      "word": "sonst",
+      "info": "otherwise",
+      "ipa": "zɔnst",
+      "note": "Keep in mind that words with 'ON' most commonly have the sound 'ɔn'. However, there are still other possibilities."
+    },
+    {
+      "type": "OM",
+      "word": "kommen",
+      "info": "to come",
+      "ipa": "ˈkɔmən",
+      "note": "Keep in mind that words with 'OM' most commonly have the sound 'ɔm'. However, there are still other possibilities."
+    },
+    {
+      "type": "OP",
+      "word": "Kopf",
+      "info": "head",
+      "ipa": "kɔpf",
+      "note": "Keep in mind that words with 'OP' most commonly have the sound 'ɔp'. However, there are still other possibilities."
+    },
+    {
+      "type": "OR",
+      "word": "Tor",
+      "info": "gate",
+      "ipa": "toːʁ",
+      "note": "Keep in mind that words with 'OR' most commonly have the sound 'ɔʁ'. However, there are still other possibilities."
+    },
+    {
+      "type": "OS",
+      "word": "Post",
+      "info": "post",
+      "ipa": "pɔst",
+      "note": "Keep in mind that words with 'OS' most commonly have the sound 'ɔs'. However, there are still other possibilities."
+    },
+    {
+      "type": "OT",
+      "word": "Not",
+      "info": "emergency",
+      "ipa": "noːt",
+      "note": "Keep in mind that words with 'OT' most commonly have the sound 'ɔt'. However, there are still other possibilities."
+    },
+    {
+      "type": "UH",
+      "word": "Uhr",
+      "info": "clock",
+      "ipa": "uːɐ",
+      "note": "Keep in mind that words with 'UH' most commonly have the sound 'uː'. However, there are still other possibilities."
+    },
+    {
+      "type": "UL",
+      "word": "Ulm",
+      "info": "Ulm",
+      "ipa": "ʊlm",
+      "note": "Keep in mind that words with 'UL' most commonly have the sound 'ʊl'. However, there are still other possibilities."
+    },
+    {
+      "type": "UN",
+      "word": "und",
+      "info": "and",
+      "ipa": "ʊnt",
+      "note": "Keep in mind that words with 'UN' most commonly have the sound 'ʊn'. However, there are still other possibilities."
+    },
+    {
+      "type": "UM",
+      "word": "umschreiben",
+      "info": "to paraphrase",
+      "ipa": "ˈʊmˌʃʁaɪbən",
+      "note": "Keep in mind that words with 'UM' most commonly have the sound 'ʊm'. However, there are still other possibilities."
+    },
+    {
+      "type": "UP",
+      "word": "Hupen",
+      "info": "to honk",
+      "ipa": "ˈhuːpən",
+      "note": "Keep in mind that words with 'UP' most commonly have the sound 'uːp'. However, there are still other possibilities."
+    },
+    {
+      "type": "UR",
+      "word": "Urteil",
+      "info": "verdict",
+      "ipa": "ˈʊʁtaɪl",
+      "note": "Keep in mind that words with 'UR' most commonly have the sound 'ʊʁ'. However, there are still other possibilities."
+    },
+    {
+      "type": "US",
+      "word": "Musik",
+      "info": "music",
+      "ipa": "muˈziːk",
+      "note": "Keep in mind that words with 'US' most commonly have the sound 'ʊs'. However, there are still other possibilities."
+    },
+    {
+      "type": "UT",
+      "word": "Butze",
+      "info": "small room",
+      "ipa": "ˈbʊtsə",
+      "note": "Keep in mind that words with 'UT' most commonly have the sound 'ʊt'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÄH",
+      "word": "ähnlich",
+      "info": "similar",
+      "ipa": "ˈɛːnliʃ",
+      "note": "Keep in mind that words with 'ÄH' most commonly have the sound 'ɛː'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÄL",
+      "word": "älter",
+      "info": "older",
+      "ipa": "ˈɛltɐ",
+      "note": "Keep in mind that words with 'ÄL' most commonly have the sound 'ɛl'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÄN",
+      "word": "ändern",
+      "info": "to change",
+      "ipa": "ˈɛndɐn",
+      "note": "Keep in mind that words with 'ÄN' most commonly have the sound 'ɛn'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÄM",
+      "word": "Hämoglobin",
+      "info": "hemoglobin",
+      "ipa": "ˈhɛːmoˌɡoːbliːn",
+      "note": "Keep in mind that words with 'ÄM' most commonly have the sound 'ɛm'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÄP",
+      "word": "Äpfel",
+      "info": "apples",
+      "ipa": "ˈɛpfl̩",
+      "note": "Keep in mind that words with 'ÄP' most commonly have the sound 'ɛp'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÄR",
+      "word": "Bär",
+      "info": "bear",
+      "ipa": "bɛːʁ",
+      "note": "Keep in mind that words with 'ÄR' most commonly have the sound 'ɛʁ'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÄS",
+      "word": "Läser",
+      "info": "reader",
+      "ipa": "ˈlɛːzɐ",
+      "note": "Keep in mind that words with 'ÄS' most commonly have the sound 'ɛs'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÄT",
+      "word": "hättest",
+      "info": "would have",
+      "ipa": "ˈhɛtɛst",
+      "note": "Keep in mind that words with 'ÄT' most commonly have the sound 'ɛt'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÖH",
+      "word": "höher",
+      "info": "higher",
+      "ipa": "ˈhøːɐ",
+      "note": "Keep in mind that words with 'ÖH' most commonly have the sound 'øː'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÖL",
+      "word": "Öl",
+      "info": "oil",
+      "ipa": "øːl",
+      "note": "Keep in mind that words with 'ÖL' most commonly have the sound 'øl'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÖN",
+      "word": "schön",
+      "info": "beautiful",
+      "ipa": "ʃøːn",
+      "note": "Keep in mind that words with 'ÖN' most commonly have the sound 'øŋ'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÖM",
+      "word": "Kömm",
+      "info": "come",
+      "ipa": "kœm",
+      "note": "Keep in mind that words with 'ÖM' most commonly have the sound 'œm'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÖP",
+      "word": "Öpfel",
+      "info": "apple",
+      "ipa": "ˈœpfəl",
+      "note": "Keep in mind that words with 'ÖP' most commonly have the sound 'øp'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÖR",
+      "word": "Örter",
+      "info": "herbs",
+      "ipa": "ˈœʁtɐ",
+      "note": "Keep in mind that words with 'ÖR' most commonly have the sound 'øʁ'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÖS",
+      "word": "Österreich",
+      "info": "Austria",
+      "ipa": "ˈøːstɐraɪç",
+      "note": "Keep in mind that words with 'ÖS' most commonly have the sound 'øs'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÖT",
+      "word": "röt",
+      "info": "red",
+      "ipa": "røt",
+      "note": "Keep in mind that words with 'ÖT' most commonly have the sound 'øt'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÜH",
+      "word": "früh",
+      "info": "early",
+      "ipa": "fʁyː",
+      "note": "Keep in mind that words with 'ÜH' most commonly have the sound 'yː'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÜL",
+      "word": "füllen",
+      "info": "to fill",
+      "ipa": "ˈfʏlən",
+      "note": "Keep in mind that words with 'ÜL' most commonly have the sound 'yl'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÜN",
+      "word": "grün",
+      "info": "green",
+      "ipa": "ɡʁyn",
+      "note": "Keep in mind that words with 'ÜN' most commonly have the sound 'yn'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÜM",
+      "word": "Krümel",
+      "info": "crumb",
+      "ipa": "ˈkʁyːməl",
+      "note": "Keep in mind that words with 'ÜM' most commonly have the sound 'ym'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÜP",
+      "word": "Hüpfen",
+      "info": "to jump",
+      "ipa": "ˈhʏpfən",
+      "note": "Keep in mind that words with 'ÜP' most commonly have the sound 'yp'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÜR",
+      "word": "bürstet",
+      "info": "brushes",
+      "ipa": "ˈbʏʁstət",
+      "note": "Keep in mind that words with 'ÜR' most commonly have the sound 'yʁ'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÜS",
+      "word": "grüßen",
+      "info": "to greet",
+      "ipa": "ˈɡʁyːsən",
+      "note": "Keep in mind that words with 'ÜS' most commonly have the sound 'ys'. However, there are still other possibilities."
+    },
+    {
+      "type": "ÜT",
+      "word": "Hüten",
+      "info": "to guard",
+      "ipa": "ˈhyːtən",
+      "note": "Keep in mind that words with 'ÜT' most commonly have the sound 'yt'. However, there are still other possibilities."
     }
   ],
   "compound": [
