@@ -640,6 +640,9 @@
       "info": "Cologne",
       "ipa": "kœln"
     },
+    { "type": "AA", "word": "Aal", "info": "eel", "ipa": "aːl" },
+    { "type": "EE", "word": "Meer", "info": "sea", "ipa": "meːɐ̯" },
+    { "type": "OO", "word": "Boot", "info": "boat", "ipa": "boːt" },
     {
       "type": "AH",
       "word": "Fahr",
