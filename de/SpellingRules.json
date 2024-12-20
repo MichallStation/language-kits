@@ -172,35 +172,35 @@
       "word": "ich",
       "info": "I",
       "ipa": "ɪç",
-      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+      "note": "CH is pronounced as 'χ' after back vowels 'a','o','u', CH as 'ç' after front vowels 'e', 'i', 'ä', 'ö', 'ü'. CH as 'k' or 'ʃ' while in specific cases."
     },
     {
       "type": "CH",
       "word": "nicht",
       "info": "not",
       "ipa": "nɪçt",
-      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+      "note": "CH is pronounced as 'χ' after back vowels 'a','o','u', CH as 'ç' after front vowels 'e', 'i', 'ä', 'ö', 'ü'. CH as 'k' or 'ʃ' while in specific cases."
     },
     {
       "type": "CH",
       "word": "sich",
       "info": "oneself",
       "ipa": "zɪç",
-      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+      "note": "CH is pronounced as 'χ' after back vowels 'a','o','u', CH as 'ç' after front vowels 'e', 'i', 'ä', 'ö', 'ü'. CH as 'k' or 'ʃ' while in specific cases."
     },
     {
       "type": "CH",
       "word": "möchte",
       "info": "would like",
       "ipa": "ˈmøːçtə",
-      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+      "note": "CH is pronounced as 'χ' after back vowels 'a','o','u', CH as 'ç' after front vowels 'e', 'i', 'ä', 'ö', 'ü'. CH as 'k' or 'ʃ' while in specific cases."
     },
     {
       "type": "CH",
       "word": "wichtig",
       "info": "important",
       "ipa": "ˈvɪçtɪç",
-      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+      "note": "CH is pronounced as 'χ' after back vowels 'a','o','u', CH as 'ç' after front vowels 'e', 'i', 'ä', 'ö', 'ü'. CH as 'k' or 'ʃ' while in specific cases."
     },
     {
       "type": "TSCH",
@@ -344,35 +344,35 @@
       "word": "Buch",
       "info": "book",
       "ipa": "buːχ",
-      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+      "note": "CH is pronounced as 'χ' after back vowels 'a','o','u', CH as 'ç' after front vowels 'e', 'i', 'ä', 'ö', 'ü'. CH as 'k' or 'ʃ' while in specific cases."
     },
     {
       "type": "CH",
       "word": "hoch",
       "info": "high",
       "ipa": "hoːχ",
-      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+      "note": "CH is pronounced as 'χ' after back vowels 'a','o','u', CH as 'ç' after front vowels 'e', 'i', 'ä', 'ö', 'ü'. CH as 'k' or 'ʃ' while in specific cases."
     },
     {
       "type": "CH",
       "word": "auch",
       "info": "also",
       "ipa": "aʊχ",
-      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+      "note": "CH is pronounced as 'χ' after back vowels 'a','o','u', CH as 'ç' after front vowels 'e', 'i', 'ä', 'ö', 'ü'. CH as 'k' or 'ʃ' while in specific cases."
     },
     {
       "type": "CH",
       "word": "Chili",
       "info": "chili",
       "ipa": "ˈkɪli",
-      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+      "note": "CH is pronounced as 'χ' after back vowels 'a','o','u', CH as 'ç' after front vowels 'e', 'i', 'ä', 'ö', 'ü'. CH as 'k' or 'ʃ' while in specific cases."
     },
     {
       "type": "CH",
       "word": "Chanson",
       "info": "song",
       "ipa": "ʃɑ̃ˈzɔ̃",
-      "note": "CH is pronounced as 'χ' after back vowels [a, o, u], CH as 'ç' after front vowels [e, i, ä, ö, ü]. CH as 'k' while in Latin. CH as 'ʃ' while in French."
+      "note": "CH is pronounced as 'χ' after back vowels 'a','o','u', CH as 'ç' after front vowels 'e', 'i', 'ä', 'ö', 'ü'. CH as 'k' or 'ʃ' while in specific cases."
     },
     {
       "type": "TSCH",
