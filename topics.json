@@ -1,0 +1,454 @@
+{
+  "A1": {
+    "Restaurant": ["Ordering food", "Asking for the bill", "Basic menu items"],
+    "Shopping": [
+      "Basic phrases for buying items",
+      "Asking about prices",
+      "Simple clothing descriptions"
+    ],
+    "Socializing": [
+      "Simple greetings",
+      "Introducing yourself",
+      "Talking about hobbies and interests"
+    ],
+    "Transportation": [
+      "Basic travel vocabulary",
+      "Asking for directions",
+      "Buying tickets"
+    ],
+    "Time and Dates": [
+      "Telling the time",
+      "Days of the week",
+      "Months",
+      "Talking about your birthday"
+    ],
+    "Colors, Numbers, and Shapes": [
+      "Basic colors",
+      "Counting numbers",
+      "Shapes"
+    ],
+    "Weather": ["Talking about the weather", "Basic weather conditions"],
+    "Clothing and Fashion": [
+      "Simple items of clothing",
+      "Colors and fabrics",
+      "Describing basic outfits"
+    ],
+    "Grocery Shopping": [
+      "Asking for the price",
+      "Buying basic food items",
+      "Simple shopping phrases"
+    ],
+    "Banking and Finance": [
+      "Asking for change",
+      "Understanding money",
+      "Basic transactions"
+    ],
+    "Nature and Animals": [
+      "Talking about animals",
+      "Basic animal names",
+      "Simple nature-related vocabulary"
+    ],
+    "Family and Relationships": [
+      "Talking about family members",
+      "Describing basic relationships"
+    ],
+    "Time and Seasons": [
+      "Talking about the time of day",
+      "Seasons of the year",
+      "Discussing simple routines"
+    ]
+  },
+  "A2": {
+    "Restaurant": [
+      "Ordering food and drinks",
+      "Asking for recommendations",
+      "Expressing preferences"
+    ],
+    "Shopping": [
+      "Asking for sizes",
+      "Trying on clothes",
+      "Making small talk with cashiers",
+      "Paying for items"
+    ],
+    "Socializing": [
+      "Talking about family",
+      "Describing hobbies",
+      "Discussing your job or school"
+    ],
+    "Transportation": [
+      "Asking for directions",
+      "Discussing travel plans",
+      "Talking about transportation options"
+    ],
+    "Health and Well-being": [
+      "Describing basic symptoms",
+      "Making appointments",
+      "Asking for health advice"
+    ],
+    "Movies and TV Shows": [
+      "Talking about favorite shows",
+      "Discussing genres",
+      "Talking about actors or characters"
+    ],
+    "Sports and Activities": [
+      "Describing sports you enjoy",
+      "Talking about hobbies",
+      "Discussing past events"
+    ],
+    "Household Chores": [
+      "Describing daily chores",
+      "Talking about cleaning routines",
+      "Asking for help with tasks"
+    ],
+    "Emergency Situations": [
+      "Calling for help",
+      "Describing an emergency",
+      "Asking for assistance"
+    ],
+    "Banking and Finance": [
+      "Opening a bank account",
+      "Withdrawing money",
+      "Discussing savings"
+    ],
+    "Nature and Animals": [
+      "Describing pets",
+      "Talking about animals in the wild",
+      "Describing the environment"
+    ],
+    "Time and Seasons": [
+      "Talking about plans for different seasons",
+      "Discussing the weather in different seasons"
+    ],
+    "Family and Relationships": [
+      "Describing family members",
+      "Talking about close friends",
+      "Discussing family celebrations"
+    ]
+  },
+  "B1": {
+    "Restaurant": [
+      "Making reservations",
+      "Explaining dietary restrictions",
+      "Complaining about food",
+      "Asking for the bill"
+    ],
+    "Shopping": [
+      "Returning items",
+      "Comparing prices",
+      "Asking for recommendations",
+      "Making purchases"
+    ],
+    "Socializing": [
+      "Talking about past experiences",
+      "Making plans for the weekend",
+      "Discussing your interests"
+    ],
+    "Transportation": [
+      "Discussing travel delays",
+      "Asking for alternative routes",
+      "Talking about travel schedules"
+    ],
+    "Traveling and Directions": [
+      "Asking for directions",
+      "Describing your journey",
+      "Recommending travel destinations"
+    ],
+    "Cultural Landmarks": [
+      "Discussing famous landmarks",
+      "Describing historical sites",
+      "Talking about cultural heritage"
+    ],
+    "Workplace Vocabulary": [
+      "Describing your job",
+      "Talking about tasks and deadlines",
+      "Discussing work conditions"
+    ],
+    "Visiting a Doctor": [
+      "Describing symptoms in detail",
+      "Talking about medical history",
+      "Getting a prescription"
+    ],
+    "Social Media": [
+      "Discussing trends on social media",
+      "Posting updates",
+      "Commenting on photos"
+    ],
+    "Health and Fitness": [
+      "Talking about workout routines",
+      "Discussing healthy habits",
+      "Making health-related plans"
+    ],
+    "Hobbies and Free Time": [
+      "Describing leisure activities",
+      "Talking about hobbies you enjoy",
+      "Making plans for free time"
+    ],
+    "Banking and Finance": [
+      "Discussing bills and payments",
+      "Managing your budget",
+      "Understanding credit cards"
+    ],
+    "Nature and Animals": [
+      "Describing wildlife",
+      "Talking about endangered species",
+      "Discussing conservation efforts"
+    ],
+    "Time and Seasons": [
+      "Talking about seasonal activities",
+      "Discussing plans for different times of the year"
+    ],
+    "Family and Relationships": [
+      "Talking about family celebrations",
+      "Discussing family members' characteristics",
+      "Handling conflicts"
+    ]
+  },
+  "B2": {
+    "Restaurant": [
+      "Discussing menu options in detail",
+      "Giving feedback on meals",
+      "Making special requests",
+      "Asking about ingredients"
+    ],
+    "Shopping": [
+      "Discussing product quality",
+      "Comparing products",
+      "Negotiating prices",
+      "Asking for a refund"
+    ],
+    "Socializing": [
+      "Discussing abstract topics like politics",
+      "Expressing opinions on current events",
+      "Talking about cultural differences"
+    ],
+    "Workplace Vocabulary": [
+      "Giving feedback to colleagues",
+      "Discussing your career goals",
+      "Talking about professional challenges"
+    ],
+    "Traveling and Directions": [
+      "Talking about past travel experiences",
+      "Making detailed travel plans",
+      "Describing landmarks and places"
+    ],
+    "Emergency Situations": [
+      "Describing a serious situation",
+      "Asking for help in an emergency",
+      "Following instructions during an emergency"
+    ],
+    "Sports and Activities": [
+      "Describing sports events",
+      "Discussing athletes' performances",
+      "Talking about sports rules"
+    ],
+    "Movies and TV Shows": [
+      "Talking about plots and themes",
+      "Discussing character development",
+      "Analyzing movies or TV series"
+    ],
+    "Social Media": [
+      "Discussing the impact of social media",
+      "Expressing opinions about online platforms",
+      "Talking about viral trends"
+    ],
+    "Work and Professional Communication": [
+      "Writing business emails",
+      "Making formal requests",
+      "Presenting ideas in a meeting"
+    ],
+    "Cultural Landmarks": [
+      "Talking about historical monuments",
+      "Describing cultural heritage",
+      "Discussing the significance of landmarks"
+    ],
+    "Banking and Finance": [
+      "Discussing loans and credit",
+      "Making long-term financial plans",
+      "Understanding global financial markets"
+    ],
+    "Nature and Animals": [
+      "Talking about ecosystems",
+      "Discussing environmental protection",
+      "Talking about biodiversity"
+    ],
+    "Time and Seasons": [
+      "Discussing how seasons affect people's lives",
+      "Describing seasonal activities in different cultures"
+    ],
+    "Family and Relationships": [
+      "Talking about family traditions",
+      "Discussing life milestones",
+      "Analyzing family roles and responsibilities"
+    ]
+  },
+  "C1": {
+    "Restaurant": [
+      "Making detailed requests",
+      "Discussing ingredients and flavors",
+      "Complaining about service",
+      "Recommending restaurants"
+    ],
+    "Shopping": [
+      "Comparing luxury products",
+      "Discussing trends in fashion",
+      "Negotiating at high-end stores",
+      "Asking for product specifications"
+    ],
+    "Socializing": [
+      "Discussing complex ideas",
+      "Debating sensitive topics",
+      "Talking about philosophical matters",
+      "Exploring cultural perspectives"
+    ],
+    "Transportation": [
+      "Managing complex travel schedules",
+      "Describing transportation systems",
+      "Planning international trips"
+    ],
+    "Emergency Situations": [
+      "Giving instructions during a crisis",
+      "Describing complicated emergencies",
+      "Asking for assistance in urgent situations"
+    ],
+    "Health and Well-being": [
+      "Discussing complex health issues",
+      "Talking about mental health",
+      "Describing medical treatments"
+    ],
+    "Movies and TV Shows": [
+      "Critiquing films",
+      "Discussing the role of media in society",
+      "Analyzing character development in TV shows"
+    ],
+    "Workplace Communication": [
+      "Presenting business ideas",
+      "Leading meetings",
+      "Writing professional reports",
+      "Managing team projects"
+    ],
+    "News and Current Events": [
+      "Discussing international politics",
+      "Debating current events",
+      "Analyzing news reports"
+    ],
+    "Social Media": [
+      "Creating and managing content",
+      "Discussing the role of social media in modern life",
+      "Debating privacy and security concerns"
+    ],
+    "Politics": [
+      "Discussing government policies",
+      "Debating political ideologies",
+      "Analyzing elections and political trends"
+    ],
+    "Studying and Exams": [
+      "Talking about academic stress",
+      "Discussing university life",
+      "Preparing for exams",
+      "Handling academic pressures"
+    ],
+    "Banking and Finance": [
+      "Investing money",
+      "Discussing market trends",
+      "Analyzing economic reports"
+    ],
+    "Nature and Animals": [
+      "Debating climate change",
+      "Talking about sustainability",
+      "Describing environmental protection policies"
+    ],
+    "Time and Seasons": [
+      "Philosophical discussions about time",
+      "Cultural significance of time in different societies"
+    ],
+    "Family and Relationships": [
+      "Discussing generational differences",
+      "Talking about family dynamics",
+      "Analyzing relationship challenges"
+    ]
+  },
+  "C2": {
+    "Restaurant": [
+      "Discussing gourmet food",
+      "Analyzing fine dining experiences",
+      "Exploring regional cuisine",
+      "Debating food trends"
+    ],
+    "Shopping": [
+      "Negotiating high-value items",
+      "Discussing luxury brands",
+      "Analyzing market trends in fashion",
+      "Shopping for investments"
+    ],
+    "Socializing": [
+      "Engaging in high-level debates",
+      "Talking about abstract concepts",
+      "Discussing political and social issues"
+    ],
+    "Transportation": [
+      "Managing global travel",
+      "Discussing international transportation systems",
+      "Planning corporate trips"
+    ],
+    "Emergency Situations": [
+      "Managing a crisis",
+      "Coordinating emergency responses",
+      "Leading in high-pressure situations"
+    ],
+    "Health and Well-being": [
+      "Discussing advanced medical procedures",
+      "Talking about cutting-edge health research",
+      "Describing psychological conditions"
+    ],
+    "Movies and TV Shows": [
+      "Deep film analysis",
+      "Critiquing directorial choices",
+      "Analyzing film theory"
+    ],
+    "Work and Professional Communication": [
+      "Leading international projects",
+      "Negotiating high-stakes deals",
+      "Managing complex business communications"
+    ],
+    "Social Media": [
+      "Discussing the societal impact of social media",
+      "Analyzing the role of influencers",
+      "Talking about digital marketing trends"
+    ],
+    "Cultural Analysis": [
+      "Engaging in deep cultural discussions",
+      "Analyzing the impact of globalization",
+      "Discussing cultural identity"
+    ],
+    "Philosophy": [
+      "Debating philosophical theories",
+      "Discussing existential questions",
+      "Talking about ethical dilemmas"
+    ],
+    "Global Issues": [
+      "Debating climate change solutions",
+      "Discussing global poverty",
+      "Analyzing international relations"
+    ],
+    "Banking and Finance": [
+      "Discussing global financial markets",
+      "Understanding economic policy",
+      "Debating financial regulations"
+    ],
+    "Nature and Animals": [
+      "Exploring biodiversity conservation",
+      "Discussing ecological sustainability",
+      "Talking about environmental policy"
+    ],
+    "Time and Seasons": [
+      "Exploring the concept of time in philosophy",
+      "Discussing time in various cultures",
+      "Talking about the impact of seasons on culture"
+    ],
+    "Family and Relationships": [
+      "Philosophical discussions about family",
+      "Analyzing family roles in different cultures",
+      "Discussing the psychology of relationships"
+    ]
+  }
+}
