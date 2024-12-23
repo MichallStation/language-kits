@@ -1,0 +1,797 @@
+{
+  "Restaurant": [
+    { "level": "A1", "prompt": "Ordering food" },
+    { "level": "A1", "prompt": "Asking for the bill" },
+    { "level": "A1", "prompt": "Basic menu items" },
+    { "level": "A2", "prompt": "Ordering food and drinks" },
+    { "level": "A2", "prompt": "Asking for recommendations" },
+    { "level": "A2", "prompt": "Expressing preferences" },
+    { "level": "B1", "prompt": "Making reservations" },
+    { "level": "B1", "prompt": "Explaining dietary restrictions" },
+    { "level": "B1", "prompt": "Complaining about food" },
+    { "level": "B1", "prompt": "Asking for the bill" },
+    { "level": "B2", "prompt": "Discussing menu options in detail" },
+    { "level": "B2", "prompt": "Giving feedback on meals" },
+    { "level": "B2", "prompt": "Making special requests" },
+    { "level": "B2", "prompt": "Asking about ingredients" },
+    { "level": "C1", "prompt": "Making detailed requests" },
+    { "level": "C1", "prompt": "Discussing ingredients and flavors" },
+    { "level": "C1", "prompt": "Complaining about service" },
+    { "level": "C1", "prompt": "Recommending restaurants" },
+    { "level": "C2", "prompt": "Discussing gourmet food" },
+    { "level": "C2", "prompt": "Analyzing fine dining experiences" },
+    { "level": "C2", "prompt": "Exploring regional cuisine" },
+    { "level": "C2", "prompt": "Debating food trends" }
+  ],
+  "Shopping": [
+    { "level": "A1", "prompt": "Basic phrases for buying items" },
+    { "level": "A1", "prompt": "Asking about prices" },
+    { "level": "A1", "prompt": "Simple clothing descriptions" },
+    { "level": "A2", "prompt": "Asking for sizes" },
+    { "level": "A2", "prompt": "Trying on clothes" },
+    { "level": "A2", "prompt": "Making small talk with cashiers" },
+    { "level": "A2", "prompt": "Paying for items" },
+    { "level": "B1", "prompt": "Returning items" },
+    { "level": "B1", "prompt": "Comparing prices" },
+    { "level": "B1", "prompt": "Asking for recommendations" },
+    { "level": "B1", "prompt": "Making purchases" },
+    { "level": "B2", "prompt": "Discussing product quality" },
+    { "level": "B2", "prompt": "Comparing products" },
+    { "level": "B2", "prompt": "Negotiating prices" },
+    { "level": "B2", "prompt": "Asking for a refund" },
+    { "level": "C1", "prompt": "Comparing luxury products" },
+    { "level": "C1", "prompt": "Discussing trends in fashion" },
+    { "level": "C1", "prompt": "Negotiating at high-end stores" },
+    { "level": "C1", "prompt": "Asking for product specifications" },
+    { "level": "C2", "prompt": "Negotiating high-value items" },
+    { "level": "C2", "prompt": "Discussing luxury brands" },
+    { "level": "C2", "prompt": "Analyzing market trends in fashion" },
+    { "level": "C2", "prompt": "Shopping for investments" }
+  ],
+  "Socializing": [
+    { "level": "A1", "prompt": "Simple greetings" },
+    { "level": "A1", "prompt": "Introducing yourself" },
+    { "level": "A1", "prompt": "Talking about hobbies and interests" },
+    { "level": "A2", "prompt": "Talking about family" },
+    { "level": "A2", "prompt": "Describing hobbies" },
+    { "level": "A2", "prompt": "Discussing your job or school" },
+    { "level": "B1", "prompt": "Talking about past experiences" },
+    { "level": "B1", "prompt": "Making plans for the weekend" },
+    { "level": "B1", "prompt": "Discussing your interests" },
+    { "level": "B2", "prompt": "Discussing abstract topics like politics" },
+    { "level": "B2", "prompt": "Expressing opinions on current events" },
+    { "level": "B2", "prompt": "Talking about cultural differences" },
+    { "level": "C1", "prompt": "Discussing complex ideas" },
+    { "level": "C1", "prompt": "Debating sensitive topics" },
+    { "level": "C1", "prompt": "Talking about philosophical matters" },
+    { "level": "C1", "prompt": "Exploring cultural perspectives" },
+    { "level": "C2", "prompt": "Engaging in high-level debates" },
+    { "level": "C2", "prompt": "Talking about abstract concepts" },
+    { "level": "C2", "prompt": "Discussing political and social issues" }
+  ],
+  "Transportation": [
+    { "level": "A1", "prompt": "Basic travel vocabulary" },
+    { "level": "A1", "prompt": "Asking for directions" },
+    { "level": "A1", "prompt": "Buying tickets" },
+    { "level": "A2", "prompt": "Asking for directions" },
+    { "level": "A2", "prompt": "Discussing travel plans" },
+    { "level": "A2", "prompt": "Talking about transportation options" },
+    { "level": "B1", "prompt": "Discussing travel delays" },
+    { "level": "B1", "prompt": "Asking for alternative routes" },
+    { "level": "B1", "prompt": "Talking about travel schedules" },
+    { "level": "B2", "prompt": "Talking about past travel experiences" },
+    { "level": "B2", "prompt": "Making detailed travel plans" },
+    { "level": "B2", "prompt": "Describing landmarks and places" },
+    { "level": "C1", "prompt": "Managing complex travel schedules" },
+    { "level": "C1", "prompt": "Describing transportation systems" },
+    { "level": "C1", "prompt": "Planning international trips" },
+    { "level": "C2", "prompt": "Managing global travel" },
+    {
+      "level": "C2",
+      "prompt": "Discussing international transportation systems"
+    },
+    { "level": "C2", "prompt": "Planning corporate trips" }
+  ],
+  "Time and Dates": [
+    { "level": "A1", "prompt": "Telling the time" },
+    { "level": "A1", "prompt": "Days of the week" },
+    { "level": "A1", "prompt": "Months" },
+    { "level": "A1", "prompt": "Talking about your birthday" },
+    { "level": "A2", "prompt": "Talking about plans for different seasons" },
+    { "level": "A2", "prompt": "Discussing the weather in different seasons" },
+    { "level": "B1", "prompt": "Talking about seasonal activities" },
+    {
+      "level": "B1",
+      "prompt": "Discussing plans for different times of the year"
+    },
+    { "level": "B2", "prompt": "Discussing how seasons affect people's lives" },
+    {
+      "level": "B2",
+      "prompt": "Describing seasonal activities in different cultures"
+    },
+    { "level": "C1", "prompt": "Philosophical discussions about time" },
+    {
+      "level": "C1",
+      "prompt": "Cultural significance of time in different societies"
+    },
+    { "level": "C2", "prompt": "Exploring the concept of time in philosophy" },
+    { "level": "C2", "prompt": "Discussing time in various cultures" },
+    {
+      "level": "C2",
+      "prompt": "Talking about the impact of seasons on culture"
+    }
+  ],
+  "Colors, Numbers, and Shapes": [
+    { "level": "A1", "prompt": "Basic colors" },
+    { "level": "A1", "prompt": "Counting numbers" },
+    { "level": "A1", "prompt": "Shapes" },
+    { "level": "A2", "prompt": "Asking for sizes" },
+    { "level": "A2", "prompt": "Describing colors in more detail" },
+    { "level": "B1", "prompt": "Describing objects using colors and shapes" },
+    { "level": "B1", "prompt": "Comparing numbers and sizes" },
+    {
+      "level": "B2",
+      "prompt": "Using colors and shapes in technical descriptions"
+    },
+    { "level": "B2", "prompt": "Describing patterns and designs" },
+    {
+      "level": "C1",
+      "prompt": "Using colors and numbers in complex descriptions"
+    },
+    { "level": "C1", "prompt": "Discussing symbolic meanings of colors" },
+    {
+      "level": "C2",
+      "prompt": "Analyzing the cultural significance of colors"
+    },
+    {
+      "level": "C2",
+      "prompt": "Describing abstract concepts using numbers and shapes"
+    }
+  ],
+  "Weather": [
+    { "level": "A1", "prompt": "Talking about the weather" },
+    { "level": "A1", "prompt": "Basic weather conditions" },
+    { "level": "A2", "prompt": "Describing the weather in different seasons" },
+    { "level": "A2", "prompt": "Asking about the weather forecast" },
+    { "level": "B1", "prompt": "Talking about unusual weather events" },
+    { "level": "B1", "prompt": "Discussing weather patterns" },
+    {
+      "level": "B2",
+      "prompt": "Analyzing the impact of weather on daily life"
+    },
+    { "level": "B2", "prompt": "Discussing climate changes" },
+    { "level": "C1", "prompt": "Discussing the science of weather phenomena" },
+    {
+      "level": "C1",
+      "prompt": "Debating the effects of climate change on the environment"
+    },
+    {
+      "level": "C2",
+      "prompt": "Discussing the global impact of extreme weather events"
+    },
+    {
+      "level": "C2",
+      "prompt": "Analyzing long-term weather trends and their implications"
+    }
+  ],
+  "Clothing and Fashion": [
+    { "level": "A1", "prompt": "Simple items of clothing" },
+    { "level": "A1", "prompt": "Colors and fabrics" },
+    { "level": "A1", "prompt": "Describing basic outfits" },
+    { "level": "A2", "prompt": "Asking for sizes" },
+    { "level": "A2", "prompt": "Describing clothing in more detail" },
+    { "level": "A2", "prompt": "Talking about shopping for clothes" },
+    { "level": "B1", "prompt": "Describing your clothing style" },
+    { "level": "B1", "prompt": "Talking about clothing trends" },
+    { "level": "B2", "prompt": "Discussing fashion and personal style" },
+    { "level": "B2", "prompt": "Comparing different clothing styles" },
+    {
+      "level": "C1",
+      "prompt": "Analyzing the influence of fashion on society"
+    },
+    { "level": "C1", "prompt": "Talking about fashion design and trends" },
+    {
+      "level": "C2",
+      "prompt": "Discussing the impact of fashion on culture and identity"
+    },
+    {
+      "level": "C2",
+      "prompt": "Debating the ethical issues in fashion industry"
+    }
+  ],
+  "Grocery Shopping": [
+    { "level": "A1", "prompt": "Asking for the price" },
+    { "level": "A1", "prompt": "Buying basic food items" },
+    { "level": "A1", "prompt": "Simple shopping phrases" },
+    { "level": "A2", "prompt": "Asking about product availability" },
+    { "level": "A2", "prompt": "Talking about different types of food" },
+    { "level": "A2", "prompt": "Paying for groceries" },
+    { "level": "B1", "prompt": "Talking about healthy food options" },
+    { "level": "B1", "prompt": "Discussing grocery shopping habits" },
+    { "level": "B2", "prompt": "Comparing prices and qualities of food items" },
+    {
+      "level": "B2",
+      "prompt": "Asking about organic or special dietary products"
+    },
+    {
+      "level": "C1",
+      "prompt": "Discussing food sustainability and organic farming"
+    },
+    {
+      "level": "C1",
+      "prompt": "Debating food waste and its impact on the environment"
+    },
+    { "level": "C2", "prompt": "Discussing global food markets and trade" },
+    {
+      "level": "C2",
+      "prompt": "Analyzing food production trends and their effects on society"
+    }
+  ],
+  "Banking and Finance": [
+    { "level": "A1", "prompt": "Asking for change" },
+    { "level": "A1", "prompt": "Understanding money" },
+    { "level": "A1", "prompt": "Basic transactions" },
+    { "level": "A2", "prompt": "Opening a bank account" },
+    { "level": "A2", "prompt": "Withdrawing money" },
+    { "level": "A2", "prompt": "Discussing savings" },
+    { "level": "B1", "prompt": "Discussing bills and payments" },
+    { "level": "B1", "prompt": "Managing your budget" },
+    { "level": "B1", "prompt": "Understanding credit cards" },
+    { "level": "B2", "prompt": "Discussing loans and credit" },
+    { "level": "B2", "prompt": "Making long-term financial plans" },
+    { "level": "B2", "prompt": "Understanding global financial markets" },
+    { "level": "C1", "prompt": "Investing money" },
+    { "level": "C1", "prompt": "Discussing market trends" },
+    { "level": "C1", "prompt": "Analyzing economic reports" },
+    { "level": "C2", "prompt": "Discussing global financial markets" },
+    { "level": "C2", "prompt": "Understanding economic policy" },
+    { "level": "C2", "prompt": "Debating financial regulations" }
+  ],
+  "Nature and Animals": [
+    { "level": "A1", "prompt": "Talking about animals" },
+    { "level": "A1", "prompt": "Basic animal names" },
+    { "level": "A1", "prompt": "Simple nature-related vocabulary" },
+    { "level": "A2", "prompt": "Describing pets" },
+    { "level": "A2", "prompt": "Talking about animals in the wild" },
+    { "level": "A2", "prompt": "Describing the environment" },
+    { "level": "B1", "prompt": "Describing wildlife" },
+    { "level": "B1", "prompt": "Talking about endangered species" },
+    { "level": "B1", "prompt": "Discussing conservation efforts" },
+    { "level": "B2", "prompt": "Talking about ecosystems" },
+    { "level": "B2", "prompt": "Discussing environmental protection" },
+    { "level": "B2", "prompt": "Talking about biodiversity" },
+    { "level": "C1", "prompt": "Debating climate change" },
+    { "level": "C1", "prompt": "Talking about sustainability" },
+    { "level": "C1", "prompt": "Describing environmental protection policies" },
+    { "level": "C2", "prompt": "Exploring biodiversity conservation" },
+    { "level": "C2", "prompt": "Discussing ecological sustainability" },
+    { "level": "C2", "prompt": "Talking about environmental policy" }
+  ],
+  "Family and Relationships": [
+    { "level": "A1", "prompt": "Talking about family members" },
+    { "level": "A1", "prompt": "Describing basic relationships" },
+    { "level": "A2", "prompt": "Describing family members" },
+    { "level": "A2", "prompt": "Talking about close friends" },
+    { "level": "A2", "prompt": "Discussing family celebrations" },
+    { "level": "B1", "prompt": "Talking about family celebrations" },
+    { "level": "B1", "prompt": "Discussing family members' characteristics" },
+    { "level": "B1", "prompt": "Handling conflicts" },
+    { "level": "B2", "prompt": "Talking about family traditions" },
+    { "level": "B2", "prompt": "Discussing life milestones" },
+    { "level": "B2", "prompt": "Analyzing family roles and responsibilities" },
+    { "level": "C1", "prompt": "Discussing generational differences" },
+    { "level": "C1", "prompt": "Talking about family dynamics" },
+    { "level": "C1", "prompt": "Analyzing relationship challenges" },
+    { "level": "C2", "prompt": "Philosophical discussions about family" },
+    { "level": "C2", "prompt": "Analyzing family roles in different cultures" },
+    { "level": "C2", "prompt": "Discussing the psychology of relationships" }
+  ],
+  "Time and Seasons": [
+    { "level": "A1", "prompt": "Talking about the time" },
+    { "level": "A1", "prompt": "Days of the week" },
+    { "level": "A1", "prompt": "Months" },
+    { "level": "A1", "prompt": "Talking about your birthday" },
+    { "level": "A2", "prompt": "Talking about plans for different seasons" },
+    { "level": "A2", "prompt": "Discussing the weather in different seasons" },
+    { "level": "B1", "prompt": "Talking about seasonal activities" },
+    {
+      "level": "B1",
+      "prompt": "Discussing plans for different times of the year"
+    },
+    { "level": "B2", "prompt": "Discussing how seasons affect people's lives" },
+    {
+      "level": "B2",
+      "prompt": "Describing seasonal activities in different cultures"
+    },
+    { "level": "C1", "prompt": "Philosophical discussions about time" },
+    {
+      "level": "C1",
+      "prompt": "Cultural significance of time in different societies"
+    },
+    { "level": "C2", "prompt": "Exploring the concept of time in philosophy" },
+    { "level": "C2", "prompt": "Discussing time in various cultures" },
+    {
+      "level": "C2",
+      "prompt": "Talking about the impact of seasons on culture"
+    }
+  ],
+  "Health and Well-being": [
+    { "level": "A1", "prompt": "Describing basic symptoms" },
+    { "level": "A1", "prompt": "Making appointments" },
+    { "level": "A1", "prompt": "Asking for health advice" },
+    { "level": "A2", "prompt": "Describing basic symptoms" },
+    { "level": "A2", "prompt": "Making appointments" },
+    { "level": "A2", "prompt": "Asking for health advice" },
+    { "level": "B1", "prompt": "Describing symptoms in detail" },
+    { "level": "B1", "prompt": "Talking about medical history" },
+    { "level": "B1", "prompt": "Getting a prescription" },
+    { "level": "B2", "prompt": "Discussing medical treatments" },
+    { "level": "B2", "prompt": "Talking about mental health" },
+    { "level": "B2", "prompt": "Describing health-related problems" },
+    { "level": "C1", "prompt": "Discussing complex health issues" },
+    { "level": "C1", "prompt": "Talking about mental health" },
+    { "level": "C1", "prompt": "Describing medical treatments" },
+    { "level": "C2", "prompt": "Discussing advanced medical procedures" },
+    { "level": "C2", "prompt": "Talking about cutting-edge health research" },
+    { "level": "C2", "prompt": "Describing psychological conditions" }
+  ],
+  "Movies and TV Shows": [
+    { "level": "A1", "prompt": "Talking about favorite shows" },
+    { "level": "A1", "prompt": "Discussing genres" },
+    { "level": "A1", "prompt": "Talking about actors or characters" },
+    { "level": "A2", "prompt": "Talking about favorite shows" },
+    { "level": "A2", "prompt": "Discussing genres" },
+    { "level": "A2", "prompt": "Talking about actors or characters" },
+    { "level": "B1", "prompt": "Talking about plots and themes" },
+    { "level": "B1", "prompt": "Discussing character development" },
+    { "level": "B1", "prompt": "Analyzing movies or TV series" },
+    { "level": "B2", "prompt": "Talking about plots and themes" },
+    { "level": "B2", "prompt": "Discussing character development" },
+    { "level": "B2", "prompt": "Analyzing movies or TV series" },
+    { "level": "C1", "prompt": "Critiquing films" },
+    { "level": "C1", "prompt": "Discussing the role of media in society" },
+    { "level": "C1", "prompt": "Analyzing character development in TV shows" },
+    { "level": "C2", "prompt": "Deep film analysis" },
+    { "level": "C2", "prompt": "Critiquing directorial choices" },
+    { "level": "C2", "prompt": "Analyzing film theory" }
+  ],
+  "Sports and Activities": [
+    { "level": "A1", "prompt": "Describing sports you enjoy" },
+    { "level": "A1", "prompt": "Talking about hobbies" },
+    { "level": "A1", "prompt": "Discussing past events" },
+    { "level": "A2", "prompt": "Describing sports you enjoy" },
+    { "level": "A2", "prompt": "Talking about hobbies" },
+    { "level": "A2", "prompt": "Discussing past events" },
+    { "level": "B1", "prompt": "Describing sports events" },
+    { "level": "B1", "prompt": "Discussing athletes' performances" },
+    { "level": "B1", "prompt": "Talking about sports rules" },
+    { "level": "B2", "prompt": "Describing sports events" },
+    { "level": "B2", "prompt": "Discussing athletes' performances" },
+    { "level": "B2", "prompt": "Talking about sports rules" },
+    { "level": "C1", "prompt": "Describing sports events in detail" },
+    { "level": "C1", "prompt": "Analyzing athletes' performances" },
+    { "level": "C1", "prompt": "Discussing the impact of sports on society" },
+    { "level": "C2", "prompt": "Analyzing sports strategies" },
+    {
+      "level": "C2",
+      "prompt": "Discussing the cultural significance of sports"
+    },
+    {
+      "level": "C2",
+      "prompt": "Critiquing professional athletes' performances"
+    }
+  ],
+  "Household Chores": [
+    { "level": "A1", "prompt": "Describing daily chores" },
+    { "level": "A1", "prompt": "Talking about cleaning routines" },
+    { "level": "A1", "prompt": "Asking for help with tasks" },
+    { "level": "A2", "prompt": "Describing daily chores" },
+    { "level": "A2", "prompt": "Talking about cleaning routines" },
+    { "level": "A2", "prompt": "Asking for help with tasks" },
+    { "level": "B1", "prompt": "Describing cleaning routines in detail" },
+    { "level": "B1", "prompt": "Discussing how to divide chores" },
+    { "level": "B1", "prompt": "Talking about household responsibilities" },
+    { "level": "B2", "prompt": "Describing household chores in detail" },
+    { "level": "B2", "prompt": "Discussing household management" },
+    { "level": "B2", "prompt": "Talking about organizing household tasks" },
+    { "level": "C1", "prompt": "Discussing household management strategies" },
+    {
+      "level": "C1",
+      "prompt": "Talking about balancing chores with other responsibilities"
+    },
+    { "level": "C1", "prompt": "Describing complex cleaning techniques" },
+    {
+      "level": "C2",
+      "prompt": "Analyzing efficient household management techniques"
+    },
+    {
+      "level": "C2",
+      "prompt": "Discussing the role of household chores in family dynamics"
+    },
+    { "level": "C2", "prompt": "Debating the division of household labor" }
+  ],
+  "Emergency Situations": [
+    { "level": "A1", "prompt": "Calling for help" },
+    { "level": "A1", "prompt": "Describing an emergency" },
+    { "level": "A1", "prompt": "Asking for assistance" },
+    { "level": "A2", "prompt": "Calling for help" },
+    { "level": "A2", "prompt": "Describing an emergency" },
+    { "level": "A2", "prompt": "Asking for assistance" },
+    { "level": "B1", "prompt": "Describing a serious situation" },
+    { "level": "B1", "prompt": "Asking for help in an emergency" },
+    { "level": "B1", "prompt": "Following instructions during an emergency" },
+    { "level": "B2", "prompt": "Describing a serious situation" },
+    { "level": "B2", "prompt": "Asking for help in an emergency" },
+    { "level": "B2", "prompt": "Following instructions during an emergency" },
+    { "level": "C1", "prompt": "Giving instructions during a crisis" },
+    { "level": "C1", "prompt": "Describing complicated emergencies" },
+    { "level": "C1", "prompt": "Asking for assistance in urgent situations" },
+    { "level": "C2", "prompt": "Managing a crisis" },
+    { "level": "C2", "prompt": "Coordinating emergency responses" },
+    { "level": "C2", "prompt": "Leading in high-pressure situations" }
+  ],
+  "Traveling and Directions": [
+    { "level": "A1", "prompt": "Asking for directions" },
+    { "level": "A1", "prompt": "Describing your journey" },
+    { "level": "A1", "prompt": "Recommending travel destinations" },
+    { "level": "A2", "prompt": "Asking for directions" },
+    { "level": "A2", "prompt": "Describing your journey" },
+    { "level": "A2", "prompt": "Recommending travel destinations" },
+    { "level": "B1", "prompt": "Asking for directions in more detail" },
+    { "level": "B1", "prompt": "Describing your journey with more detail" },
+    {
+      "level": "B1",
+      "prompt": "Recommending travel destinations with specific information"
+    },
+    { "level": "B2", "prompt": "Asking for detailed directions" },
+    { "level": "B2", "prompt": "Describing a travel plan in detail" },
+    {
+      "level": "B2",
+      "prompt": "Recommending travel destinations with full details"
+    },
+    { "level": "C1", "prompt": "Describing complex travel itineraries" },
+    {
+      "level": "C1",
+      "prompt": "Discussing alternative routes and travel options"
+    },
+    { "level": "C1", "prompt": "Recommending less common travel destinations" },
+    { "level": "C2", "prompt": "Planning international travel in detail" },
+    { "level": "C2", "prompt": "Describing complicated travel routes" },
+    {
+      "level": "C2",
+      "prompt": "Recommending off-the-beaten-path travel destinations"
+    }
+  ],
+  "Cultural Landmarks": [
+    { "level": "A1", "prompt": "Discussing famous landmarks" },
+    { "level": "A1", "prompt": "Describing historical sites" },
+    { "level": "A1", "prompt": "Talking about cultural heritage" },
+    { "level": "A2", "prompt": "Discussing famous landmarks in detail" },
+    { "level": "A2", "prompt": "Describing historical sites with more detail" },
+    {
+      "level": "A2",
+      "prompt": "Talking about the significance of cultural heritage"
+    },
+    {
+      "level": "B1",
+      "prompt": "Discussing historical landmarks and their significance"
+    },
+    { "level": "B1", "prompt": "Describing cultural sites in depth" },
+    {
+      "level": "B1",
+      "prompt": "Talking about the history and importance of cultural landmarks"
+    },
+    {
+      "level": "B2",
+      "prompt": "Discussing the historical and cultural significance of landmarks"
+    },
+    {
+      "level": "B2",
+      "prompt": "Analyzing the cultural impact of famous landmarks"
+    },
+    { "level": "B2", "prompt": "Describing landmark preservation efforts" },
+    {
+      "level": "C1",
+      "prompt": "Discussing the global importance of cultural landmarks"
+    },
+    {
+      "level": "C1",
+      "prompt": "Analyzing the cultural heritage of specific landmarks"
+    },
+    {
+      "level": "C1",
+      "prompt": "Exploring the social and historical context of cultural landmarks"
+    },
+    {
+      "level": "C2",
+      "prompt": "Engaging in debates about the preservation and destruction of cultural landmarks"
+    },
+    {
+      "level": "C2",
+      "prompt": "Discussing the cultural and political significance of global landmarks"
+    },
+    {
+      "level": "C2",
+      "prompt": "Analyzing the role of cultural landmarks in national identity"
+    }
+  ],
+  "Workplace Vocabulary": [
+    { "level": "A1", "prompt": "Describing your job" },
+    { "level": "A1", "prompt": "Talking about tasks and responsibilities" },
+    { "level": "A1", "prompt": "Talking about work hours" },
+    { "level": "A2", "prompt": "Describing your job in more detail" },
+    { "level": "A2", "prompt": "Talking about your work schedule" },
+    { "level": "A2", "prompt": "Discussing tasks and projects at work" },
+    { "level": "B1", "prompt": "Describing your job and career goals" },
+    { "level": "B1", "prompt": "Talking about tasks and deadlines at work" },
+    { "level": "B1", "prompt": "Discussing work conditions and environments" },
+    { "level": "B2", "prompt": "Discussing your career goals and ambitions" },
+    { "level": "B2", "prompt": "Giving feedback on work tasks and projects" },
+    {
+      "level": "B2",
+      "prompt": "Talking about workplace challenges and opportunities"
+    },
+    { "level": "C1", "prompt": "Discussing complex work tasks and projects" },
+    { "level": "C1", "prompt": "Giving feedback to colleagues on their work" },
+    {
+      "level": "C1",
+      "prompt": "Talking about work-life balance and professional development"
+    },
+    {
+      "level": "C2",
+      "prompt": "Discussing professional challenges in high-level positions"
+    },
+    { "level": "C2", "prompt": "Leading meetings and managing teams at work" },
+    {
+      "level": "C2",
+      "prompt": "Analyzing workplace dynamics and professional relationships"
+    }
+  ],
+  "Visiting a Doctor": [
+    { "level": "A1", "prompt": "Describing symptoms in simple terms" },
+    { "level": "A1", "prompt": "Saying where you feel pain" },
+    { "level": "A1", "prompt": "Asking for help with basic medical needs" },
+    { "level": "A2", "prompt": "Describing symptoms in more detail" },
+    { "level": "A2", "prompt": "Asking for a doctor's appointment" },
+    {
+      "level": "A2",
+      "prompt": "Talking about a visit to the doctor or hospital"
+    },
+    { "level": "B1", "prompt": "Describing symptoms in detail" },
+    { "level": "B1", "prompt": "Talking about medical history" },
+    { "level": "B1", "prompt": "Getting a prescription from the doctor" },
+    { "level": "B2", "prompt": "Explaining medical conditions and treatments" },
+    { "level": "B2", "prompt": "Asking for advice on treatment options" },
+    {
+      "level": "B2",
+      "prompt": "Discussing health insurance and medical costs"
+    },
+    { "level": "C1", "prompt": "Describing complex health issues to a doctor" },
+    { "level": "C1", "prompt": "Discussing treatment options in depth" },
+    {
+      "level": "C1",
+      "prompt": "Asking for clarification about medical procedures"
+    },
+    {
+      "level": "C2",
+      "prompt": "Discussing advanced medical conditions and treatments"
+    },
+    { "level": "C2", "prompt": "Debating medical research and breakthroughs" },
+    {
+      "level": "C2",
+      "prompt": "Talking about mental health in a detailed manner"
+    }
+  ],
+  "Social Media": [
+    { "level": "A1", "prompt": "Discussing social media platforms" },
+    { "level": "A1", "prompt": "Talking about your social media profiles" },
+    { "level": "A1", "prompt": "Posting basic updates on social media" },
+    { "level": "A2", "prompt": "Discussing trends on social media" },
+    { "level": "A2", "prompt": "Posting updates about your daily life" },
+    { "level": "A2", "prompt": "Commenting on photos or posts" },
+    {
+      "level": "B1",
+      "prompt": "Discussing the impact of social media on society"
+    },
+    { "level": "B1", "prompt": "Posting and sharing content with friends" },
+    {
+      "level": "B1",
+      "prompt": "Following or unfollowing people on social media"
+    },
+    {
+      "level": "B2",
+      "prompt": "Expressing opinions about social media trends"
+    },
+    { "level": "B2", "prompt": "Talking about privacy issues on social media" },
+    {
+      "level": "B2",
+      "prompt": "Sharing detailed updates on social media platforms"
+    },
+    {
+      "level": "C1",
+      "prompt": "Discussing the role of social media in modern life"
+    },
+    {
+      "level": "C1",
+      "prompt": "Analyzing the influence of social media on communication"
+    },
+    {
+      "level": "C1",
+      "prompt": "Debating the pros and cons of social media usage"
+    },
+    { "level": "C2", "prompt": "Creating and managing social media campaigns" },
+    {
+      "level": "C2",
+      "prompt": "Discussing the role of influencers on social media"
+    },
+    {
+      "level": "C2",
+      "prompt": "Analyzing digital marketing strategies on social media"
+    }
+  ],
+  "Health and Fitness": [
+    { "level": "A1", "prompt": "Talking about basic exercises" },
+    { "level": "A1", "prompt": "Describing how you stay healthy" },
+    { "level": "A1", "prompt": "Asking about healthy habits" },
+    { "level": "A2", "prompt": "Describing your workout routine" },
+    { "level": "A2", "prompt": "Talking about what foods are healthy" },
+    {
+      "level": "A2",
+      "prompt": "Discussing simple health problems (e.g., cold, headache)"
+    },
+    { "level": "B1", "prompt": "Talking about your fitness goals" },
+    {
+      "level": "B1",
+      "prompt": "Describing your physical activities in detail"
+    },
+    { "level": "B1", "prompt": "Discussing healthy lifestyle habits" },
+    {
+      "level": "B2",
+      "prompt": "Discussing exercise techniques and strategies"
+    },
+    {
+      "level": "B2",
+      "prompt": "Talking about the benefits of different types of exercise"
+    },
+    {
+      "level": "B2",
+      "prompt": "Expressing opinions on diet and exercise trends"
+    },
+    { "level": "C1", "prompt": "Talking about mental health and well-being" },
+    {
+      "level": "C1",
+      "prompt": "Discussing the impact of fitness on overall health"
+    },
+    { "level": "C1", "prompt": "Debating the role of nutrition in fitness" },
+    {
+      "level": "C2",
+      "prompt": "Analyzing fitness trends and their effects on society"
+    },
+    {
+      "level": "C2",
+      "prompt": "Discussing cutting-edge fitness and health research"
+    },
+    { "level": "C2", "prompt": "Debating health and wellness philosophies" }
+  ],
+  "Hobbies and Free Time": [
+    { "level": "A1", "prompt": "Talking about simple hobbies" },
+    { "level": "A1", "prompt": "Describing what you do in your free time" },
+    { "level": "A1", "prompt": "Asking about someone's hobbies" },
+    { "level": "A2", "prompt": "Describing leisure activities you enjoy" },
+    { "level": "A2", "prompt": "Talking about plans for free time" },
+    { "level": "A2", "prompt": "Asking others about their weekend plans" },
+    { "level": "B1", "prompt": "Talking about past hobbies and activities" },
+    { "level": "B1", "prompt": "Making plans for a weekend outing" },
+    { "level": "B1", "prompt": "Discussing hobbies and interests with others" },
+    {
+      "level": "B2",
+      "prompt": "Discussing more complex hobbies (e.g., photography, music)"
+    },
+    {
+      "level": "B2",
+      "prompt": "Talking about hobbies as a way to relax or learn new skills"
+    },
+    { "level": "B2", "prompt": "Expressing opinions on leisure activities" },
+    {
+      "level": "C1",
+      "prompt": "Talking about the importance of hobbies in personal development"
+    },
+    {
+      "level": "C1",
+      "prompt": "Debating the value of different free-time activities"
+    },
+    {
+      "level": "C1",
+      "prompt": "Discussing how free time affects work-life balance"
+    },
+    {
+      "level": "C2",
+      "prompt": "Analyzing cultural differences in hobbies and free time activities"
+    },
+    {
+      "level": "C2",
+      "prompt": "Debating the role of hobbies in modern society"
+    },
+    {
+      "level": "C2",
+      "prompt": "Exploring the connection between hobbies and personal identity"
+    }
+  ],
+  "Love": [
+    { "level": "A1", "prompt": "Talking about relationships" },
+    { "level": "A2", "prompt": "Describing feelings of affection" },
+    { "level": "B1", "prompt": "Talking about romantic experiences" },
+    { "level": "B2", "prompt": "Discussing the concept of love" },
+    {
+      "level": "C1",
+      "prompt": "Debating the nature of love and relationships"
+    },
+    { "level": "C2", "prompt": "Analyzing love in different cultures" }
+  ],
+  "Religion and Beliefs": [
+    { "level": "A1", "prompt": "Talking about religious practices" },
+    { "level": "A2", "prompt": "Describing beliefs and customs" },
+    { "level": "B1", "prompt": "Discussing different religions" },
+    {
+      "level": "B2",
+      "prompt": "Talking about religious holidays and traditions"
+    },
+    { "level": "C1", "prompt": "Debating the role of religion in society" },
+    {
+      "level": "C2",
+      "prompt": "Analyzing religious philosophies and their impact on cultures"
+    }
+  ],
+  "Work and Professional Communication": [
+    { "level": "B1", "prompt": "Describing your job" },
+    { "level": "B1", "prompt": "Talking about tasks and deadlines" },
+    { "level": "B1", "prompt": "Discussing work conditions" },
+    { "level": "B2", "prompt": "Giving feedback to colleagues" },
+    { "level": "B2", "prompt": "Discussing your career goals" },
+    { "level": "B2", "prompt": "Talking about professional challenges" },
+    { "level": "C1", "prompt": "Presenting business ideas" },
+    { "level": "C1", "prompt": "Leading meetings" },
+    { "level": "C1", "prompt": "Writing professional reports" },
+    { "level": "C1", "prompt": "Managing team projects" },
+    { "level": "C2", "prompt": "Leading international projects" },
+    { "level": "C2", "prompt": "Negotiating high-stakes deals" },
+    { "level": "C2", "prompt": "Managing complex business communications" }
+  ],
+  "News and Current Events": [
+    { "level": "C1", "prompt": "Discussing international politics" },
+    { "level": "C1", "prompt": "Debating current events" },
+    { "level": "C1", "prompt": "Analyzing news reports" },
+    { "level": "C2", "prompt": "Debating climate change solutions" },
+    { "level": "C2", "prompt": "Discussing global poverty" },
+    { "level": "C2", "prompt": "Analyzing international relations" }
+  ],
+  "Politics": [
+    { "level": "C1", "prompt": "Discussing government policies" },
+    { "level": "C1", "prompt": "Debating political ideologies" },
+    { "level": "C1", "prompt": "Analyzing elections and political trends" },
+    { "level": "C2", "prompt": "Discussing government policies" },
+    { "level": "C2", "prompt": "Debating political ideologies" },
+    { "level": "C2", "prompt": "Analyzing elections and political trends" }
+  ],
+  "Studying and Exams": [
+    { "level": "C1", "prompt": "Talking about academic stress" },
+    { "level": "C1", "prompt": "Discussing university life" },
+    { "level": "C1", "prompt": "Preparing for exams" },
+    { "level": "C1", "prompt": "Handling academic pressures" }
+  ],
+  "Global Issues": [
+    { "level": "C2", "prompt": "Debating climate change solutions" },
+    { "level": "C2", "prompt": "Discussing global poverty" },
+    { "level": "C2", "prompt": "Analyzing international relations" }
+  ],
+  "Cultural Analysis": [
+    { "level": "C2", "prompt": "Engaging in deep cultural discussions" },
+    { "level": "C2", "prompt": "Analyzing the impact of globalization" },
+    { "level": "C2", "prompt": "Discussing cultural identity" }
+  ],
+  "Philosophy": [
+    { "level": "C2", "prompt": "Debating philosophical theories" },
+    { "level": "C2", "prompt": "Discussing existential questions" },
+    { "level": "C2", "prompt": "Talking about ethical dilemmas" }
+  ]
+}
