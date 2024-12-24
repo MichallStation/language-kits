@@ -1,0 +1,262 @@
+{
+  "Phonetics and Phonology": [
+    {
+      "level": "A1",
+      "prompt": "Introduction to basic sounds of the German language, alphabet pronunciation, and simple vowel and consonant sounds."
+    },
+    {
+      "level": "A2",
+      "prompt": "Word stress, recognizing stressed syllables, and understanding the rise and fall of intonation in simple sentences."
+    },
+    {
+      "level": "B1",
+      "prompt": "Sentence stress, understanding natural rhythm in connected speech, and recognizing basic patterns of intonation in questions and statements."
+    },
+    {
+      "level": "B2",
+      "prompt": "Phonetic reduction in spoken German (e.g., contractions like 'ich hab' for 'ich habe') and understanding stress shifts in compound words."
+    },
+    {
+      "level": "C1",
+      "prompt": "Advanced intonation patterns, including stress for emphasis, expressing mood or sarcasm, and understanding regional variations in pronunciation."
+    },
+    {
+      "level": "C2",
+      "prompt": "Mastery of German accents, advanced prosody, and subtleties in speech tone, such as shifts in intonation for nuanced meaning in complex contexts."
+    }
+  ],
+  "Morphology": [
+    {
+      "level": "A1",
+      "prompt": "Introduction to basic word forms in German, such as singular and plural nouns, basic adjective forms, and regular verb conjugations."
+    },
+    {
+      "level": "A2",
+      "prompt": "Understanding adjective endings (depending on gender and case), forming simple past tense verbs (regular), and introducing basic pronouns (personal, possessive)."
+    },
+    {
+      "level": "B1",
+      "prompt": "Using comparative and superlative forms of adjectives and adverbs, forming irregular verb conjugations in past tense, and using reflexive pronouns."
+    },
+    {
+      "level": "B2",
+      "prompt": "Mastering noun declensions across different cases (nominative, accusative, dative, genitive), forming complex adjective endings, and recognizing strong and weak verb conjugation patterns."
+    },
+    {
+      "level": "C1",
+      "prompt": "Using advanced verb forms (e.g., subjunctive mood for polite requests or hypothetical situations), understanding compound nouns, and using advanced adverbial forms."
+    },
+    {
+      "level": "C2",
+      "prompt": "Mastery of complex morphological structures, such as word formation in scientific or formal writing, handling rare or archaic verb forms, and understanding nuances in nominalization and derivational morphology."
+    }
+  ],
+  "Syntax": [
+    {
+      "level": "A1",
+      "prompt": "Constructing simple declarative sentences with basic word order (Subject-Verb-Object), forming questions (Yes/No and WH-questions), and using basic negation ('nicht')."
+    },
+    {
+      "level": "A2",
+      "prompt": "Forming compound sentences with conjunctions (und, aber, oder), understanding word order in main and subordinate clauses, and using basic adverb placement."
+    },
+    {
+      "level": "B1",
+      "prompt": "Using subordinate clauses with conjunctions (weil, dass, obwohl), mastering inversion in questions, and beginning to understand word order in indirect speech."
+    },
+    {
+      "level": "B2",
+      "prompt": "Mastering relative clauses, word order in dependent clauses (e.g., in the past and future tenses), and using conjunctions like 'denn', 'deshalb' to connect complex ideas."
+    },
+    {
+      "level": "C1",
+      "prompt": "Using complex sentence structures with multiple subordinate clauses, applying inversion for emphasis or stylistic reasons, and understanding advanced punctuation rules (e.g., commas in complex sentences)."
+    },
+    {
+      "level": "C2",
+      "prompt": "Mastering flexible sentence structuring for stylistic purposes, creating long, nested sentences with multiple clauses, and using varied sentence constructions for formal or academic writing."
+    }
+  ],
+  "Verb Grammar": [
+    {
+      "level": "A1",
+      "prompt": "Using the present tense for regular verbs, introducing common irregular verbs (sein, haben), and basic verb conjugations in the first and second persons (ich, du)."
+    },
+    {
+      "level": "A2",
+      "prompt": "Forming the simple past tense for regular and some irregular verbs (e.g., 'gehen' – 'ging'), understanding separable verbs, and using modal verbs (können, müssen)."
+    },
+    {
+      "level": "B1",
+      "prompt": "Using the present perfect tense (Perfekt) with 'haben' and 'sein', forming the future tense with 'werden', and introducing reflexive verbs (e.g., 'sich freuen')."
+    },
+    {
+      "level": "B2",
+      "prompt": "Mastering the past perfect tense (Plusquamperfekt), using the subjunctive mood (Konjunktiv II) for hypothetical situations and polite requests, and understanding the use of modal verbs in different tenses."
+    },
+    {
+      "level": "C1",
+      "prompt": "Using the passive voice (werden + past participle) in different tenses, advanced use of the subjunctive mood (Konjunktiv I) in reported speech, and mastering verb positioning in complex sentences."
+    },
+    {
+      "level": "C2",
+      "prompt": "Mastery of rare verb forms and conjugations, including advanced uses of the subjunctive and passive constructions, and handling irregular verb conjugations in formal, literary, and academic contexts."
+    }
+  ],
+  "Articles and Determiners": [
+    {
+      "level": "A1",
+      "prompt": "Introduction to definite and indefinite articles (der, die, das, ein, eine) and understanding their use with singular nouns in the nominative case."
+    },
+    {
+      "level": "A2",
+      "prompt": "Using definite and indefinite articles in the accusative case, understanding the difference between 'dieser' (this) and 'jener' (that), and introducing possessive determiners (mein, dein)."
+    },
+    {
+      "level": "B1",
+      "prompt": "Mastering the use of articles in the dative and genitive cases, using demonstrative determiners (dieser, jener) and more complex possessive forms (mein, dein, unser)."
+    },
+    {
+      "level": "B2",
+      "prompt": "Advanced use of articles with plural nouns, understanding the concept of null articles (omitting articles in certain expressions) and recognizing the impact of case and gender on article usage."
+    },
+    {
+      "level": "C1",
+      "prompt": "Using articles in more sophisticated contexts, including complex noun phrases, and mastering the use of determiners in formal and academic writing (e.g., 'derjenige', 'solcher')."
+    },
+    {
+      "level": "C2",
+      "prompt": "Mastery of article usage in highly nuanced contexts, such as literary or legal texts, and advanced determiners like 'alle', 'kein', and 'jeglicher' for precise meaning in formal or professional discourse."
+    }
+  ],
+  "Case Grammar": [
+    {
+      "level": "A1",
+      "prompt": "Introduction to the nominative case (subject) and accusative case (direct object), using simple sentences with basic noun-article combinations (e.g., der Hund, die Katze)."
+    },
+    {
+      "level": "A2",
+      "prompt": "Understanding the dative case (indirect object), using prepositions with accusative and dative (e.g., 'mit', 'für'), and recognizing case changes in articles and pronouns (e.g., 'dem' vs 'den')."
+    },
+    {
+      "level": "B1",
+      "prompt": "Using the genitive case for possession (e.g., 'des Hundes'), understanding case usage with more complex prepositions (e.g., 'wegen', 'trotz'), and practicing sentence construction with mixed cases."
+    },
+    {
+      "level": "B2",
+      "prompt": "Mastering the use of all four cases (nominative, accusative, dative, genitive) in complex sentences, and using relative clauses with proper case agreement between nouns, articles, and adjectives."
+    },
+    {
+      "level": "C1",
+      "prompt": "Using cases with advanced structures like indirect speech, mastering prepositional phrases with complex case combinations, and handling exceptions or regional variations in case usage."
+    },
+    {
+      "level": "C2",
+      "prompt": "Mastery of case grammar in highly complex, formal, and academic texts, including precise usage in legal, literary, or scientific contexts, and understanding rare or poetic case constructions."
+    }
+  ],
+  "Questions and Negation": [
+    {
+      "level": "A1",
+      "prompt": "Forming simple yes/no questions (e.g., 'Bist du müde?'), using question words (wer, was, wo), and basic negation with 'nicht' and 'kein' in simple sentences."
+    },
+    {
+      "level": "A2",
+      "prompt": "Forming wh-questions with various question words (e.g., 'Wann?', 'Warum?'), using negation with 'kein' and 'nicht' in different positions, and understanding negation in questions and statements."
+    },
+    {
+      "level": "B1",
+      "prompt": "Using indirect questions (e.g., 'Ich weiß nicht, wann er kommt.') and negating more complex sentences with 'nicht' and 'kein' in relation to objects, places, and time expressions."
+    },
+    {
+      "level": "B2",
+      "prompt": "Forming complex questions with embedded clauses (e.g., 'Weißt du, ob sie kommen wird?'), and mastering negation in relative and subordinate clauses."
+    },
+    {
+      "level": "C1",
+      "prompt": "Using indirect speech for questions and negation in formal contexts, mastering double negation for emphasis, and applying nuanced negation in complex sentence structures."
+    },
+    {
+      "level": "C2",
+      "prompt": "Mastery of question forms in academic or professional contexts, including indirect, rhetorical, and conditional questions, and using negation for stylistic purposes in sophisticated texts."
+    }
+  ],
+  "Punctuation and Orthography": [
+    {
+      "level": "A1",
+      "prompt": "Introduction to basic punctuation marks (periods, commas, question marks, exclamation marks) and correct use of capitalization for nouns and the start of sentences."
+    },
+    {
+      "level": "A2",
+      "prompt": "Using commas in lists, understanding basic orthography rules (e.g., 'ss' vs 'ß'), and punctuation in simple compound sentences and questions."
+    },
+    {
+      "level": "B1",
+      "prompt": "Applying punctuation in more complex sentences (e.g., commas for subordinate clauses), using apostrophes correctly (e.g., in contractions), and mastering the correct use of capitalization in titles and proper nouns."
+    },
+    {
+      "level": "B2",
+      "prompt": "Mastering the use of semicolons, colons, quotation marks, and parentheses, as well as understanding and applying spelling rules for homophones (e.g., 'dass' vs. 'das')."
+    },
+    {
+      "level": "C1",
+      "prompt": "Using advanced punctuation for nuanced meaning in academic and formal writing, such as using commas for emphasis, understanding complex orthography rules for compound words, and correct use of ellipses for incomplete thoughts."
+    },
+    {
+      "level": "C2",
+      "prompt": "Mastery of punctuation and orthography in highly formal and professional writing, including proper citation styles, advanced use of quotation marks for indirect speech, and stylistic punctuation in literary or creative texts."
+    }
+  ],
+  "Discourse and Pragmatics": [
+    {
+      "level": "A1",
+      "prompt": "Using basic greetings, simple conversational exchanges, and introducing oneself in German. Understanding simple conversational markers (e.g., 'ja', 'nein', 'bitte')."
+    },
+    {
+      "level": "A2",
+      "prompt": "Understanding turn-taking in conversations, using simple connectors (e.g., 'und', 'aber') to link ideas, and practicing common conversational politeness expressions (e.g., 'Entschuldigung', 'danke')."
+    },
+    {
+      "level": "B1",
+      "prompt": "Using discourse markers to structure conversations (e.g., 'zuerst', 'dann', 'außerdem'), understanding indirect speech for polite requests, and starting to recognize cultural norms in communication (e.g., formal vs informal tone)."
+    },
+    {
+      "level": "B2",
+      "prompt": "Mastering more complex discourse strategies like expressing agreement/disagreement (e.g., 'Ich stimme zu', 'Ich bin anderer Meinung'), using conditionals for polite suggestions, and understanding cultural context in communication (e.g., addressing authority)."
+    },
+    {
+      "level": "C1",
+      "prompt": "Using sophisticated discourse strategies in formal and informal settings, including structuring arguments (e.g., 'Erstens', 'daher') and understanding non-verbal communication cues. Navigating different social registers (e.g., formal vs casual)."
+    },
+    {
+      "level": "C2",
+      "prompt": "Mastery of discourse management in complex interactions, including managing ambiguity, indirectness, and politeness strategies in professional or academic settings. Using nuanced pragmatics for persuasion, negotiation, and conflict resolution."
+    }
+  ],
+  "Specialized Grammar Topics": [
+    {
+      "level": "A1",
+      "prompt": "Introduction to basic sentence structures, such as subject-verb-object order, and simple negation. Focus on understanding personal pronouns and basic verb conjugation."
+    },
+    {
+      "level": "A2",
+      "prompt": "Introduction to modal verbs (können, müssen, wollen) in basic tenses, and recognizing simple subordinating conjunctions (weil, dass) to form compound sentences."
+    },
+    {
+      "level": "B1",
+      "prompt": "Understanding reflexive verbs (sich freuen, sich erinnern) and their uses, forming complex sentences with conjunctions (obwohl, wenn), and working with indirect speech in the present tense."
+    },
+    {
+      "level": "B2",
+      "prompt": "Mastering relative clauses with relative pronouns (der, die, das), understanding passive voice (werden + past participle), and using advanced conditional and subjunctive forms (Konjunktiv II) for hypothetical situations."
+    },
+    {
+      "level": "C1",
+      "prompt": "Using advanced sentence structures, such as inversion for emphasis, handling reported speech in different tenses, and mastering complex conjunctions (damit, falls, sodass)."
+    },
+    {
+      "level": "C2",
+      "prompt": "Mastery of rare and complex grammatical structures, such as subjunctive mood (Konjunktiv I and II) in literary or professional contexts, and understanding formal, legal, or technical grammar structures."
+    }
+  ]
+}
