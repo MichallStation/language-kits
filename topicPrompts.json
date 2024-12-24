@@ -717,6 +717,20 @@
       "prompt": "Exploring the connection between hobbies and personal identity"
     }
   ],
+  "Idioms": [
+    { "level": "A1", "prompt": "Learning basic idiomatic expressions" },
+    { "level": "A2", "prompt": "Using simple idioms in conversations" },
+    { "level": "B1", "prompt": "Understanding common idioms in context" },
+    { "level": "B2", "prompt": "Exploring cultural idioms and their meanings" },
+    {
+      "level": "C1",
+      "prompt": "Incorporating idiomatic phrases into formal and informal speech"
+    },
+    {
+      "level": "C2",
+      "prompt": "Analyzing complex idiomatic expressions and their nuances"
+    }
+  ],
   "Love": [
     { "level": "A1", "prompt": "Talking about relationships" },
     { "level": "A2", "prompt": "Describing feelings of affection" },
